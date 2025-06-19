@@ -1,0 +1,4 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,356QFCSB,False,True
+james.har,356QFCSB,True,False
+will.mit93,356QFCSB,False,True

@@ -1,0 +1,66 @@
+hostname,name,arguments,username,path,pid
+NW398TBV,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,3728
+NW398TBV,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3140
+NW398TBV,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",themartin,C:\ProgramData\McAfee\Direct,5791
+NW398TBV,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,2144
+NW398TBV,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,6040
+NW398TBV,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",themartin,C:\Program Files\Common Files\McAfee\TaskScheduler,3846
+NW398TBV,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",themartin,C:\Program Files\McAfee\MfeAV,4862
+NW398TBV,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",themartin,C:\Program Files\McAfee\WebAdvisor,3180
+NW398TBV,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",themartin,C:\Program Files\TightVNC,3803
+NW398TBV,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4440
+NW398TBV,cmd.exe,"""C:\Windows\system32\cmd.exe"" ",georgi.howard1,C:\Windows\system32,658
+NW398TBV,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,1756
+NW398TBV,TabTip32.exe,/loadhooks /Parent:0000000000001188,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,5616
+NW398TBV,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,4896
+NW398TBV,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",themartin,C:\Program Files\Common Files\McAfee\VSCore_18_6,1374
+NW398TBV,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,2920
+NW398TBV,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\themartin\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",themartin,C:\Users\themartin\AppData\Local\Temp\scoped_dir9616_4071,1967
+NW398TBV,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",themartin,C:\Program Files\McAfee\MAT,1157
+NW398TBV,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,2280
+NW398TBV,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",themartin,C:\Program Files\Common Files\McAfee\AMCore,5793
+NW398TBV,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,6024
+NW398TBV,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,1064
+NW398TBV,LogonUI.exe,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",NT AUTHORITY\SYSTEM,C:\Windows\system32,1428
+NW398TBV,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,6360
+NW398TBV,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,themartin,C:\ProgramData\McAfee\McInstruTrack,868
+NW398TBV,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",themartin,C:\Program Files\Common Files\McAfee\ModuleCore,5934
+NW398TBV,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,5528
+NW398TBV,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",themartin,C:\Program Files\Common Files\McAfee\MMSSHost,5669
+NW398TBV,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",themartin,C:\Program Files\TightVNC,1172
+NW398TBV,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,268
+NW398TBV,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5200
+NW398TBV,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,6140
+NW398TBV,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",themartin,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,2773
+NW398TBV,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,972
+NW398TBV,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2644
+NW398TBV,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel,NT AUTHORITY\SYSTEM,C:\Windows\system32,2284
+NW398TBV,OneDrive.exe,"""C:\Users\themartin\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",themartin,C:\Users\themartin\AppData\Local\Microsoft\OneDrive,2382
+NW398TBV,powershell.exe,"""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" ",themartin,C:\Windows\System32\WindowsPowerShell\v1.0,2782
+NW398TBV,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,C:\Windows\System32,2572
+NW398TBV,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,892
+NW398TBV,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,192
+NW398TBV,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,2732
+NW398TBV,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1008
+NW398TBV,kitty-0.70.0.6.exe,"""C:\Users\themartin\Documents\kitty-0.70.0.6.exe"" ",themartin,C:\Users\themartin\Documents,4839
+NW398TBV,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4572
+NW398TBV,WMIC.exe,"C:\Windows\System32\wbem\WMIC.exe /node:SC114QBQ process call create ""cmd.exe /c whoami /force""",,C:\Windows\System32\wbem\WMIC.exe,48
+NW398TBV,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",themartin,C:\Program Files\McAfee\WebAdvisor,4005
+NW398TBV,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4652
+NW398TBV,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,5500
+NW398TBV,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",themartin,C:\Windows\system32,4995
+NW398TBV,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2036
+NW398TBV,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",themartin,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,3051
+NW398TBV,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",themartin,C:\Program Files\RealVNC\VNC Viewer,4020
+NW398TBV,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",themartin,c:\program files\common files\mcafee\modulecore,6241
+NW398TBV,Wireshark.exe,"""C:\Program Files\Wireshark\Wireshark.exe"" ",themartin,C:\Program Files\Wireshark,6378
+NW398TBV,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",themartin,C:\Program Files\Common Files\McAfee\Platform\Core,1137
+NW398TBV,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,themartin,c:\program files\common files\mcafee\modulecore,2357
+NW398TBV,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",themartin,C:\Program Files\Common Files\mcafee\Platform,3310
+NW398TBV,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,NT AUTHORITY\SYSTEM,C:\Windows\system32,2248
+NW398TBV,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},NT AUTHORITY\SYSTEM,C:\Windows\system32,3276
+NW398TBV,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,themartin,C:\ProgramData\McAfee\Direct,1698
+NW398TBV,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,144
+NW398TBV,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",themartin,C:\Program Files\Common Files\McAfee\PEF\CORE,5567
+NW398TBV,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,5892
+NW398TBV,MpCmdRun.exe,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Defender,220

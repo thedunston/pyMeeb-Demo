@@ -1,0 +1,133 @@
+hostname,name,arguments,username,path,pid
+EE474IAV,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",tris.tur,C:\Program Files\RealVNC\VNC Viewer,1307
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s Dhcp,NT AUTHORITY\SYSTEM,c:\windows\system32,4160
+EE474IAV,NisSrv.exe,,NT AUTHORITY\SYSTEM,,6164
+EE474IAV,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",felicit.lee,C:\Windows\system32,532
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s CDPSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,468
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s SENS,NT AUTHORITY\SYSTEM,c:\windows\system32,4860
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DeviceAssociationService,NT AUTHORITY\SYSTEM,c:\windows\system32,556
+EE474IAV,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,5884
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s WdiServiceHost,NT AUTHORITY\SYSTEM,c:\windows\system32,5604
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s LanmanWorkstation,NT AUTHORITY\SYSTEM,c:\windows\system32,2884
+EE474IAV,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,c:\windows\system32,4700
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s lfsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,4092
+EE474IAV,ApplicationFrameHost.exe,C:\Windows\system32\ApplicationFrameHost.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,2312
+EE474IAV,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",tris.tur,C:\Program Files\McAfee\MfeAV,3678
+EE474IAV,ctfmon.exe,"""ctfmon.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4968
+EE474IAV,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,392
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup -s WpnUserService,NT AUTHORITY\SYSTEM,c:\windows\system32,6044
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s SstpSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,6396
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s AudioEndpointBuilder,NT AUTHORITY\SYSTEM,c:\windows\system32,5540
+EE474IAV,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,5908
+EE474IAV,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",tris.tur,C:\Program Files\Common Files\mcafee\Platform,2045
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Schedule,NT AUTHORITY\SYSTEM,c:\windows\system32,4376
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SensorService,NT AUTHORITY\SYSTEM,c:\windows\system32,2472
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k dcomlaunch -p -s LSM,NT AUTHORITY\SYSTEM,c:\windows\system32,2592
+EE474IAV,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",tris.tur,C:\Program Files\Common Files\McAfee\MMSSHost,4456
+EE474IAV,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",tris.tur,C:\Program Files\TightVNC,1790
+EE474IAV,LockApp.exe,"""C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe"" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy,948
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TrkWks,NT AUTHORITY\SYSTEM,c:\windows\system32,1344
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -s BTAGService,NT AUTHORITY\SYSTEM,c:\windows\system32,1720
+EE474IAV,DllHost.exe,C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F},NT AUTHORITY\SYSTEM,C:\Windows\system32,5396
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s EventLog,NT AUTHORITY\SYSTEM,c:\windows\system32,3228
+EE474IAV,powershell.exe,"""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" ",felicit.lee,C:\Windows\System32\WindowsPowerShell\v1.0,2269
+EE474IAV,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\System32,1624
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s PcaSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,6232
+EE474IAV,OneDrive.exe,"""C:\Users\felicit.lee\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",felicit.lee,C:\Users\felicit.lee\AppData\Local\Microsoft\OneDrive,3545
+EE474IAV,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,2808
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p,NT AUTHORITY\SYSTEM,c:\windows\system32,5052
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s EventSystem,NT AUTHORITY\SYSTEM,c:\windows\system32,3016
+EE474IAV,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,tris.tur,c:\program files\common files\mcafee\modulecore,1314
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s FontCache,NT AUTHORITY\SYSTEM,c:\windows\system32,3116
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TabletInputService,NT AUTHORITY\SYSTEM,c:\windows\system32,3452
+EE474IAV,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",felicit.lee,C:\Program Files\RealVNC\VNC Viewer,5786
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s UserManager,NT AUTHORITY\SYSTEM,c:\windows\system32,1596
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Winmgmt,NT AUTHORITY\SYSTEM,c:\windows\system32,2164
+EE474IAV,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",felicit.lee,C:\Program Files\TightVNC,3013
+EE474IAV,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,1888
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,c:\windows\system32,2476
+EE474IAV,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",tris.tur,C:\ProgramData\McAfee\Direct,5683
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s ProfSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,2572
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s BITS,NT AUTHORITY\SYSTEM,c:\windows\system32,1588
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s iphlpsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,280
+EE474IAV,svchost.exe,C:\Windows\system32\svchost.exe -k SDRSVC,NT AUTHORITY\SYSTEM,C:\Windows\system32,6456
+EE474IAV,Registry,,NT AUTHORITY\SYSTEM,,6016
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k dcomlaunch -p -s PlugPlay,NT AUTHORITY\SYSTEM,c:\windows\system32,508
+EE474IAV,Memory Compression,,NT AUTHORITY\SYSTEM,,500
+EE474IAV,MsMpEng.exe,,NT AUTHORITY\SYSTEM,,2924
+EE474IAV,WinLogon.exe,C:\Windows\System32\WinLogon.exe -SpecialSession,NT AUTHORITY\SYSTEM,C:\Windows\System32,3744
+EE474IAV,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",tris.tur,C:\Program Files\Common Files\McAfee\PEF\CORE,1980
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s TapiSrv,NT AUTHORITY\SYSTEM,c:\windows\system32,3432
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s NlaSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,5984
+EE474IAV,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",tris.tur,C:\Program Files\Common Files\McAfee\Platform\Core,4212
+EE474IAV,csrss.exe,,NT AUTHORITY\SYSTEM,,208
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k rpcss -p,NT AUTHORITY\SYSTEM,c:\windows\system32,1316
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup -s CDPUserSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,4400
+EE474IAV,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p,NT AUTHORITY\SYSTEM,C:\Windows\System32,4816
+EE474IAV,SearchIndexer.exe,C:\Windows\system32\SearchIndexer.exe /Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,380
+EE474IAV,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,2300
+EE474IAV,smss.exe,,NT AUTHORITY\SYSTEM,,2756
+EE474IAV,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",tris.tur,C:\Program Files\TightVNC,1035
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s Dnscache,NT AUTHORITY\SYSTEM,c:\windows\system32,2236
+EE474IAV,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,3588
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s bthserv,NT AUTHORITY\SYSTEM,c:\windows\system32,3092
+EE474IAV,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,1296
+EE474IAV,System,,NT AUTHORITY\SYSTEM,,2120
+EE474IAV,SgrmBroker.exe,,NT AUTHORITY\SYSTEM,,2468
+EE474IAV,jusched.exe,"""C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe"" ",NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Java\Java Update,5296
+EE474IAV,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,3272
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Themes,NT AUTHORITY\SYSTEM,c:\windows\system32,2888
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s StorSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,4012
+EE474IAV,BtwRSupportService.exe,C:\Windows\system32\BtwRSupportService.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,488
+EE474IAV,SearchFilterHost.exe,"""C:\Windows\system32\SearchFilterHost.exe"" 0 736 740 748 8192 744 ",NT AUTHORITY\SYSTEM,C:\Windows\system32,5456
+EE474IAV,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",tris.tur,C:\Program Files\McAfee\WebAdvisor,6246
+EE474IAV,fontdrvhost.exe,"""fontdrvhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,644
+EE474IAV,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",tris.tur,C:\Program Files\McAfee\MAT,3393
+EE474IAV,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService -p -s DoSvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,5944
+EE474IAV,fontdrvhost.exe,"""fontdrvhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\System32,2168
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SysMain,NT AUTHORITY\SYSTEM,c:\windows\system32,5764
+EE474IAV,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,c:\windows\system32,24
+EE474IAV,svchost.exe,,NT AUTHORITY\SYSTEM,,632
+EE474IAV,svchost.exe,C:\Windows\system32\svchost.exe -k imgsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,4656
+EE474IAV,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",tris.tur,c:\program files\common files\mcafee\modulecore,2805
+EE474IAV,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts,NT AUTHORITY\SYSTEM,C:\Windows\System32,2212
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s CryptSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,5696
+EE474IAV,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\tris.tur\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",tris.tur,C:\Users\tris.tur\AppData\Local\Temp\scoped_dir9616_4071,1175
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s netprofm,NT AUTHORITY\SYSTEM,c:\windows\system32,5336
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s ShellHWDetection,NT AUTHORITY\SYSTEM,c:\windows\system32,3884
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s LanmanServer,NT AUTHORITY\SYSTEM,c:\windows\system32,904
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Appinfo,NT AUTHORITY\SYSTEM,c:\windows\system32,4580
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s WebClient,NT AUTHORITY\SYSTEM,c:\windows\system32,756
+EE474IAV,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",tris.tur,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,5000
+EE474IAV,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe Get-Date,felicit.lee,C:\Windows\System32\powershell.exe,504
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s TimeBrokerSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,72
+EE474IAV,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",tris.tur,C:\Program Files\Common Files\McAfee\AMCore,1095
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s nsi,NT AUTHORITY\SYSTEM,c:\windows\system32,4680
+EE474IAV,wininit.exe,,NT AUTHORITY\SYSTEM,,4468
+EE474IAV,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,tris.tur,C:\ProgramData\McAfee\McInstruTrack,2593
+EE474IAV,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",tris.tur,C:\Program Files\Common Files\McAfee\TaskScheduler,5401
+EE474IAV,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",tris.tur,C:\Program Files\Common Files\McAfee\ModuleCore,5074
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s BthAvctpSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,928
+EE474IAV,SettingSyncHost.exe,C:\Windows\system32\SettingSyncHost.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,1920
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DsSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,676
+EE474IAV,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc -p,NT AUTHORITY\SYSTEM,C:\Windows\System32,2612
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservicenonetwork -p -s DPS,NT AUTHORITY\SYSTEM,c:\windows\system32,4636
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s wscsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,1396
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s TokenBroker,NT AUTHORITY\SYSTEM,c:\windows\system32,1040
+EE474IAV,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",tris.tur,C:\Program Files\McAfee\WebAdvisor,1289
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s WinHttpAutoProxySvc,NT AUTHORITY\SYSTEM,c:\windows\system32,2320
+EE474IAV,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,988
+EE474IAV,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",tris.tur,C:\Program Files\Common Files\McAfee\VSCore_18_6,2825
+EE474IAV,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,252
+EE474IAV,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,tris.tur,C:\ProgramData\McAfee\Direct,205
+EE474IAV,SecurityHealthService.exe,,NT AUTHORITY\SYSTEM,,4668
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s WpnService,NT AUTHORITY\SYSTEM,c:\windows\system32,2368
+EE474IAV,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s wlidsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,4756
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s LicenseManager,NT AUTHORITY\SYSTEM,c:\windows\system32,2420
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s NcbService,NT AUTHORITY\SYSTEM,c:\windows\system32,3004
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k localserviceandnoimpersonation -p -s SSDPSRV,NT AUTHORITY\SYSTEM,c:\windows\system32,3044
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup,NT AUTHORITY\SYSTEM,c:\windows\system32,1564
+EE474IAV,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",felicit.lee,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,656
+EE474IAV,services.exe,,NT AUTHORITY\SYSTEM,,3948
+EE474IAV,svchost.exe,c:\windows\system32\svchost.exe -k appmodel -p -s StateRepository,NT AUTHORITY\SYSTEM,c:\windows\system32,1500
+EE474IAV,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",felicit.lee,C:\Program Files\TightVNC,3534

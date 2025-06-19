@@ -1,0 +1,5 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,WB190DTJ,False,True
+james.kell,WB190DTJ,False,True
+eliza.brow,WB190DTJ,False,True
+bray.cooper,WB190DTJ,True,False

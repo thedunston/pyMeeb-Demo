@@ -1,0 +1,4 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,SC622FHJ,False,True
+diego.baker,SC622FHJ,True,False
+cartthompso22,SC622FHJ,False,True

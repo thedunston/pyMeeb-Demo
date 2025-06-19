@@ -1,0 +1,54 @@
+hostname,name,arguments,username,path,pid
+SS944NSU,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",nathanie.ros,C:\Program Files\Common Files\McAfee\VSCore_18_6,3457
+SS944NSU,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3436
+SS944NSU,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,420
+SS944NSU,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",nathanie.ros,C:\Program Files\Common Files\McAfee\ModuleCore,4306
+SS944NSU,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2360
+SS944NSU,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",nathanie.ros,C:\Program Files\McAfee\WebAdvisor,2523
+SS944NSU,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,5436
+SS944NSU,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",nathanie.ros,C:\Program Files\Common Files\McAfee\Platform\Core,2589
+SS944NSU,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",jacklopez,C:\Program Files\internet explorer,2112
+SS944NSU,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,3940
+SS944NSU,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",nathanie.ros,C:\Program Files\Common Files\McAfee\PEF\CORE,4041
+SS944NSU,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3908
+SS944NSU,putty.exe,"""C:\Program Files\PuTTY\putty.exe"" ",nathanie.ros,C:\Program Files\PuTTY,347
+SS944NSU,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,nathanie.ros,c:\program files\common files\mcafee\modulecore,5625
+SS944NSU,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,3336
+SS944NSU,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,6032
+SS944NSU,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\System32,236
+SS944NSU,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",nancy.taylo58,C:\Program Files\RealVNC\VNC Viewer,3255
+SS944NSU,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,248
+SS944NSU,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\nathanie.ros\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",nathanie.ros,C:\Users\nathanie.ros\AppData\Local\Temp\scoped_dir9616_4071,3616
+SS944NSU,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",nathanie.ros,C:\Program Files\McAfee\MAT,5958
+SS944NSU,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",nancy.taylo58,C:\Program Files\TightVNC,5470
+SS944NSU,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,2756
+SS944NSU,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,nathanie.ros,C:\ProgramData\McAfee\Direct,1175
+SS944NSU,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",nathanie.ros,c:\program files\common files\mcafee\modulecore,5067
+SS944NSU,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2628
+SS944NSU,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,6312
+SS944NSU,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{3EAE8C5E-B51F-4CBD-9DCE-FA6AA0BDF8B8},NT AUTHORITY\SYSTEM,C:\Windows\system32,3952
+SS944NSU,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",nathanie.ros,C:\Program Files\McAfee\MfeAV,5286
+SS944NSU,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,4948
+SS944NSU,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",nathanie.ros,C:\Program Files\Common Files\McAfee\AMCore,863
+SS944NSU,svchost.exe,C:\Windows\system32\svchost.exe -k regsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,1912
+SS944NSU,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,1164
+SS944NSU,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,4732
+SS944NSU,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",nathanie.ros,C:\Program Files\Common Files\McAfee\MMSSHost,3572
+SS944NSU,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",nancy.taylo58,C:\Program Files\TightVNC,4860
+SS944NSU,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,4720
+SS944NSU,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,4220
+SS944NSU,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,716
+SS944NSU,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",nathanie.ros,C:\ProgramData\McAfee\Direct,6234
+SS944NSU,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,nathanie.ros,C:\ProgramData\McAfee\McInstruTrack,702
+SS944NSU,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,1648
+SS944NSU,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3156
+SS944NSU,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",nathanie.ros,C:\Program Files\Common Files\McAfee\TaskScheduler,933
+SS944NSU,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,5448
+SS944NSU,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",nathanie.ros,C:\Program Files\McAfee\WebAdvisor,1117
+SS944NSU,cmd.exe,"""C:\Windows\system32\cmd.exe"" ",nancy.taylo58,C:\Windows\system32,299
+SS944NSU,conhost.exe,"\??\C:\Windows\system32\conhost.exe ""-29887463320281528418771495882049435123649789771-108284301750553232-1762948263",NT AUTHORITY\SYSTEM,C:\Windows\system32,3856
+SS944NSU,OneDrive.exe,"""C:\Users\jacklopez\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",jacklopez,C:\Users\jacklopez\AppData\Local\Microsoft\OneDrive,3470
+SS944NSU,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",nathanie.ros,C:\Program Files\Common Files\mcafee\Platform,452
+SS944NSU,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,6240
+SS944NSU,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",nathanie.ros,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,2152
+SS944NSU,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2732

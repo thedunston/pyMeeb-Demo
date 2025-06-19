@@ -1,0 +1,70 @@
+hostname,name,arguments,username,path,pid
+EC800MUT,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,bla.carter18,c:\program files\common files\mcafee\modulecore,1987
+EC800MUT,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",bla.carter18,C:\Program Files\Common Files\mcafee\Platform,4576
+EC800MUT,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5312
+EC800MUT,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,5728
+EC800MUT,git-bash.exe,"""C:\Program Files\Git\git-bash.exe"" ""--cd=C:\Users\bla.carter18\Desktop.""",bla.carter18,C:\Program Files\Git,6007
+EC800MUT,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",bla.carter18,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,2252
+EC800MUT,MpCmdRun.exe,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Defender,4492
+EC800MUT,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,1656
+EC800MUT,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,bla.carter18,C:\ProgramData\McAfee\Direct,4481
+EC800MUT,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,5056
+EC800MUT,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",bla.carter18,C:\Program Files\McAfee\MfeAV,2354
+EC800MUT,putty.exe,"""C:\Program Files\PuTTY\putty.exe"" ",eliza.ram,C:\Program Files\PuTTY,3999
+EC800MUT,LogonUI.exe,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",NT AUTHORITY\SYSTEM,C:\Windows\system32,1524
+EC800MUT,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",bla.carter18,c:\program files\common files\mcafee\modulecore,2260
+EC800MUT,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",bla.carter18,C:\Program Files\Common Files\McAfee\VSCore_18_6,967
+EC800MUT,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",eliza.ram,C:\Program Files\RealVNC\VNC Viewer,1343
+EC800MUT,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",bla.carter18,C:\Program Files\Common Files\McAfee\ModuleCore,2952
+EC800MUT,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4016
+EC800MUT,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",bla.carter18,C:\Program Files\Common Files\McAfee\TaskScheduler,3926
+EC800MUT,vmware-authd.exe,"""C:\Program Files (x86)\VMware\VMware Player\vmware-authd.exe""",bla.carter18,C:\Program Files (x86)\VMware\VMware Player,6443
+EC800MUT,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,5540
+EC800MUT,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,5980
+EC800MUT,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,6312
+EC800MUT,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,C:\Windows\System32,4872
+EC800MUT,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2704
+EC800MUT,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",bla.carter18,C:\ProgramData\McAfee\Direct,204
+EC800MUT,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",eliza.ram,C:\Windows\system32,2305
+EC800MUT,OneDrive.exe,"""C:\Users\bla.carter18\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",bla.carter18,C:\Users\bla.carter18\AppData\Local\Microsoft\OneDrive,1249
+EC800MUT,TabTip32.exe,/loadhooks /Parent:0000000000001188,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,5004
+EC800MUT,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,6176
+EC800MUT,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",bla.carter18,C:\Program Files\Common Files\McAfee\AMCore,4844
+EC800MUT,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,6124
+EC800MUT,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2540
+EC800MUT,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,4780
+EC800MUT,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",bla.carter18,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,1846
+EC800MUT,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel,NT AUTHORITY\SYSTEM,C:\Windows\system32,4
+EC800MUT,Microsoft.Notes.exe,"""C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.0.119.0_x64__8wekyb3d8bbwe\Microsoft.Notes.exe"" -ServerName:App.AppX495fygk72hjw82j58ny5h3nr8hpsd8vs.mca",themartin,C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.0.119.0_x64__8wekyb3d8bbwe,4538
+EC800MUT,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",eliza.ram,C:\Program Files\TightVNC,6216
+EC800MUT,bash.exe,"""C:\Program Files\Git\usr\bin\bash.exe""",bla.carter18,C:\Program Files\Git\usr\bin,6063
+EC800MUT,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4992
+EC800MUT,mintty.exe,"usr\bin\mintty.exe --nodaemon -o AppID=GitForWindows.Bash -o AppLaunchCmd=""C:\Program Files\Git\git-bash.exe"" -o AppName=""Git Bash"" -i ""C:\Program Files\Git\git-bash.exe"" --store-taskbar-properties -- /usr/bin/bash --login -i",bla.carter18,C:\Program Files\Git\usr\bin,5202
+EC800MUT,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,4244
+EC800MUT,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,320
+EC800MUT,mspaint.exe,"""C:\Windows\system32\mspaint.exe"" ",bla.carter18,C:\Windows\system32,1070
+EC800MUT,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2216
+EC800MUT,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,NT AUTHORITY\SYSTEM,C:\Windows\system32,4628
+EC800MUT,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",bla.carter18,C:\Program Files\Common Files\McAfee\Platform\Core,4526
+EC800MUT,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},NT AUTHORITY\SYSTEM,C:\Windows\system32,3140
+EC800MUT,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",bla.carter18,C:\Program Files\McAfee\WebAdvisor,2398
+EC800MUT,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,3372
+EC800MUT,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4092
+EC800MUT,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,4416
+EC800MUT,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,3232
+EC800MUT,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,6188
+EC800MUT,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",bla.carter18,C:\Program Files\Common Files\McAfee\MMSSHost,1849
+EC800MUT,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",bla.carter18,C:\Program Files\McAfee\WebAdvisor,1778
+EC800MUT,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,5988
+EC800MUT,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,488
+EC800MUT,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\bla.carter18\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",bla.carter18,C:\Users\bla.carter18\AppData\Local\Temp\scoped_dir9616_4071,1961
+EC800MUT,vmware-usbarbitrator64.exe,"""C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe""",bla.carter18,C:\Program Files (x86)\Common Files\VMware\USB,5573
+EC800MUT,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,744
+EC800MUT,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,3748
+EC800MUT,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",bla.carter18,C:\Program Files\Common Files\McAfee\PEF\CORE,1201
+EC800MUT,sqlservr.exe,"""C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn\sqlservr.exe"" -sSQLEXPRESS",bla.carter18,C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn,1001
+EC800MUT,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,4268
+EC800MUT,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",bla.carter18,C:\Program Files\McAfee\MAT,4107
+EC800MUT,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,3488
+EC800MUT,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,bla.carter18,C:\ProgramData\McAfee\McInstruTrack,3638
+EC800MUT,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",eliza.ram,C:\Program Files\TightVNC,4405

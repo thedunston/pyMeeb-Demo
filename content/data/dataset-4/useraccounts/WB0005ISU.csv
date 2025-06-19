@@ -1,0 +1,4 @@
+username,hostname,domain-admin,local-admin,domain-user,local-user
+Administrator,WB0005ISU,True,False,True,False
+matilbroo,WB0005ISU,False,False,True,False
+annflore,WB0005ISU,False,False,True,False

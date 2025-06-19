@@ -1,0 +1,137 @@
+hostname,name,arguments,username,path,pid
+WC781VXC,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,6320
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DeviceAssociationService,NT AUTHORITY\SYSTEM,c:\windows\system32,292
+WC781VXC,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,erin.ward64,C:\ProgramData\McAfee\McInstruTrack,5387
+WC781VXC,SearchIndexer.exe,C:\Windows\system32\SearchIndexer.exe /Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,6248
+WC781VXC,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,3904
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s LicenseManager,NT AUTHORITY\SYSTEM,c:\windows\system32,2032
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DsSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3820
+WC781VXC,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,968
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s SENS,NT AUTHORITY\SYSTEM,c:\windows\system32,88
+WC781VXC,svchost.exe,C:\Windows\system32\svchost.exe -k SDRSVC,NT AUTHORITY\SYSTEM,C:\Windows\system32,328
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s LanmanWorkstation,NT AUTHORITY\SYSTEM,c:\windows\system32,5880
+WC781VXC,slack.exe,"C:\Users\erin.ward64\AppData\Local\slack\app-3.1.1\slack.exe --reporter-url=https://slack.com/apps/breakpad?instanceUid=c116fa6f-e78f-4f7e-9927-09567265c493&amp;version=3.1.1&amp;channel=prod --application-name=Slack ""--crashes-directory=C:\Users\erin.ward64\AppData\Local\Temp\Slack Crashes"" --v=1",erin.ward64,C:\Users\erin.ward64\AppData\Local\slack\app-3.1.1,3993
+WC781VXC,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",zoe.watso51,C:\Program Files\RealVNC\VNC Viewer,5109
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s wscsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3856
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k appmodel -p -s StateRepository,NT AUTHORITY\SYSTEM,c:\windows\system32,6244
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TrkWks,NT AUTHORITY\SYSTEM,c:\windows\system32,1684
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k dcomlaunch -p -s LSM,NT AUTHORITY\SYSTEM,c:\windows\system32,4204
+WC781VXC,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",erin.ward64,C:\Program Files\McAfee\WebAdvisor,3595
+WC781VXC,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",zoe.watso51,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,3091
+WC781VXC,NisSrv.exe,,NT AUTHORITY\SYSTEM,,1048
+WC781VXC,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",zoe.watso51,C:\Program Files\internet explorer,2054
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s EventSystem,NT AUTHORITY\SYSTEM,c:\windows\system32,1904
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s SstpSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,5940
+WC781VXC,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,5040
+WC781VXC,System,,NT AUTHORITY\SYSTEM,,3760
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Themes,NT AUTHORITY\SYSTEM,c:\windows\system32,3520
+WC781VXC,slack.exe,"""C:\Users\erin.ward64\AppData\Local\slack\app-3.1.1\slack.exe""",erin.ward64,C:\Users\erin.ward64\AppData\Local\slack\app-3.1.1,924
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup -s WpnUserService,NT AUTHORITY\SYSTEM,c:\windows\system32,5584
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s BthAvctpSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,5724
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s UserManager,NT AUTHORITY\SYSTEM,c:\windows\system32,4492
+WC781VXC,svchost.exe,C:\Windows\system32\svchost.exe -k imgsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,324
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s TokenBroker,NT AUTHORITY\SYSTEM,c:\windows\system32,2720
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Schedule,NT AUTHORITY\SYSTEM,c:\windows\system32,1820
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s WpnService,NT AUTHORITY\SYSTEM,c:\windows\system32,4440
+WC781VXC,wininit.exe,,NT AUTHORITY\SYSTEM,,5972
+WC781VXC,WinLogon.exe,C:\Windows\System32\WinLogon.exe -SpecialSession,NT AUTHORITY\SYSTEM,C:\Windows\System32,3368
+WC781VXC,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,c:\windows\system32,3428
+WC781VXC,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts,NT AUTHORITY\SYSTEM,C:\Windows\System32,2848
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservicenonetwork -p -s DPS,NT AUTHORITY\SYSTEM,c:\windows\system32,732
+WC781VXC,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",erin.ward64,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,4543
+WC781VXC,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",erin.ward64,C:\Program Files\Common Files\McAfee\Platform\Core,1957
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s WdiServiceHost,NT AUTHORITY\SYSTEM,c:\windows\system32,6328
+WC781VXC,SgrmBroker.exe,,NT AUTHORITY\SYSTEM,,1352
+WC781VXC,Memory Compression,,NT AUTHORITY\SYSTEM,,2440
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s lfsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,32
+WC781VXC,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",erin.ward64,c:\program files\common files\mcafee\modulecore,6277
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SysMain,NT AUTHORITY\SYSTEM,c:\windows\system32,904
+WC781VXC,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3196
+WC781VXC,fontdrvhost.exe,"""fontdrvhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\System32,2300
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s TapiSrv,NT AUTHORITY\SYSTEM,c:\windows\system32,2920
+WC781VXC,fontdrvhost.exe,"""fontdrvhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2508
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Appinfo,NT AUTHORITY\SYSTEM,c:\windows\system32,608
+WC781VXC,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",erin.ward64,C:\Program Files\Common Files\McAfee\ModuleCore,1593
+WC781VXC,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",erin.ward64,C:\Program Files\Common Files\McAfee\PEF\CORE,1751
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s WebClient,NT AUTHORITY\SYSTEM,c:\windows\system32,700
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p,NT AUTHORITY\SYSTEM,c:\windows\system32,2388
+WC781VXC,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,c:\windows\system32,2680
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s bthserv,NT AUTHORITY\SYSTEM,c:\windows\system32,3168
+WC781VXC,vmware-authd.exe,"""C:\Program Files (x86)\VMware\VMware Player\vmware-authd.exe""",zoe.watso51,C:\Program Files (x86)\VMware\VMware Player,2635
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TabletInputService,NT AUTHORITY\SYSTEM,c:\windows\system32,4164
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s BITS,NT AUTHORITY\SYSTEM,c:\windows\system32,5756
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s ShellHWDetection,NT AUTHORITY\SYSTEM,c:\windows\system32,724
+WC781VXC,vmware-usbarbitrator64.exe,"""C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe""",zoe.watso51,C:\Program Files (x86)\Common Files\VMware\USB,5953
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s CDPSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,368
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s nsi,NT AUTHORITY\SYSTEM,c:\windows\system32,4420
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Winmgmt,NT AUTHORITY\SYSTEM,c:\windows\system32,6124
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localserviceandnoimpersonation -p -s SSDPSRV,NT AUTHORITY\SYSTEM,c:\windows\system32,6404
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup,NT AUTHORITY\SYSTEM,c:\windows\system32,4836
+WC781VXC,DllHost.exe,C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F},NT AUTHORITY\SYSTEM,C:\Windows\system32,4868
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SensorService,NT AUTHORITY\SYSTEM,c:\windows\system32,6496
+WC781VXC,OneDrive.exe,"""C:\Users\erin.ward64\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",erin.ward64,C:\Users\erin.ward64\AppData\Local\Microsoft\OneDrive,2870
+WC781VXC,slack.exe,"""C:\Users\erin.ward64\AppData\Local\slack\app-3.1.1\slack.exe"" --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=7 10 11 20 24 26 43 63 76 --disable-gl-extensions=""GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent"" --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor=""Intel Corporation"" --gpu-driver-version=20.19.15.4331 --gpu-driver-date=11-18-2015 --service-request-channel-token=801A57F64621336F74806802DB83B30B --mojo-platform-channel-handle=1628 /prefetch:2",erin.ward64,C:\Users\erin.ward64\AppData\Local\slack\app-3.1.1,4938
+WC781VXC,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",erin.ward64,C:\Program Files\McAfee\MAT,222
+WC781VXC,kitty-0.70.0.6.exe,"""C:\Users\zoe.watso51\Documents\kitty-0.70.0.6.exe"" ",zoe.watso51,C:\Users\zoe.watso51\Documents,4637
+WC781VXC,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",erin.ward64,C:\Program Files\Common Files\McAfee\MMSSHost,4502
+WC781VXC,ctfmon.exe,"""ctfmon.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3944
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s EventLog,NT AUTHORITY\SYSTEM,c:\windows\system32,1840
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,c:\windows\system32,2356
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s CryptSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,1216
+WC781VXC,smss.exe,,NT AUTHORITY\SYSTEM,,2080
+WC781VXC,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",zoe.watso51,C:\Program Files\TightVNC,620
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s NlaSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,108
+WC781VXC,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc -p,NT AUTHORITY\SYSTEM,C:\Windows\System32,20
+WC781VXC,python.exe,"""C:\Users\zoe.watso51\AppData\Local\Programs\Python\Python37\python.exe"" ",zoe.watso51,C:\Users\zoe.watso51\AppData\Local\Programs\Python\Python37,2022
+WC781VXC,BtwRSupportService.exe,C:\Windows\system32\BtwRSupportService.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,416
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s LanmanServer,NT AUTHORITY\SYSTEM,c:\windows\system32,1920
+WC781VXC,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",erin.ward64,C:\Program Files\McAfee\MfeAV,3371
+WC781VXC,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",erin.ward64,C:\ProgramData\McAfee\Direct,722
+WC781VXC,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,3604
+WC781VXC,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",erin.ward64,C:\Program Files\McAfee\WebAdvisor,6456
+WC781VXC,jusched.exe,"""C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe"" ",NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Java\Java Update,684
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s iphlpsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,6428
+WC781VXC,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",erin.ward64,C:\Program Files\Common Files\McAfee\AMCore,4007
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k rpcss -p,NT AUTHORITY\SYSTEM,c:\windows\system32,1528
+WC781VXC,SettingSyncHost.exe,C:\Windows\system32\SettingSyncHost.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,5296
+WC781VXC,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,erin.ward64,C:\ProgramData\McAfee\Direct,1301
+WC781VXC,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,2340
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s NcbService,NT AUTHORITY\SYSTEM,c:\windows\system32,1068
+WC781VXC,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,erin.ward64,c:\program files\common files\mcafee\modulecore,5859
+WC781VXC,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",zoe.watso51,C:\Program Files\TightVNC,5351
+WC781VXC,SecurityHealthService.exe,,NT AUTHORITY\SYSTEM,,1028
+WC781VXC,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",erin.ward64,C:\Program Files\Common Files\McAfee\TaskScheduler,541
+WC781VXC,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2016
+WC781VXC,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",erin.ward64,C:\Program Files\Common Files\McAfee\VSCore_18_6,2649
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s netprofm,NT AUTHORITY\SYSTEM,c:\windows\system32,6400
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s PcaSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3712
+WC781VXC,MsMpEng.exe,,NT AUTHORITY\SYSTEM,,6136
+WC781VXC,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService -p -s DoSvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,4360
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s WinHttpAutoProxySvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3152
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s ProfSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,2664
+WC781VXC,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\System32,3796
+WC781VXC,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,188
+WC781VXC,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,4328
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -s BTAGService,NT AUTHORITY\SYSTEM,c:\windows\system32,4592
+WC781VXC,SearchFilterHost.exe,"""C:\Windows\system32\SearchFilterHost.exe"" 0 736 740 748 8192 744 ",NT AUTHORITY\SYSTEM,C:\Windows\system32,1796
+WC781VXC,ApplicationFrameHost.exe,C:\Windows\system32\ApplicationFrameHost.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,3188
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s AudioEndpointBuilder,NT AUTHORITY\SYSTEM,c:\windows\system32,6196
+WC781VXC,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,388
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s Dnscache,NT AUTHORITY\SYSTEM,c:\windows\system32,3036
+WC781VXC,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\erin.ward64\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",erin.ward64,C:\Users\erin.ward64\AppData\Local\Temp\scoped_dir9616_4071,4917
+WC781VXC,LockApp.exe,"""C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe"" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy,2532
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s StorSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3580
+WC781VXC,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p,NT AUTHORITY\SYSTEM,C:\Windows\System32,2692
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k dcomlaunch -p -s PlugPlay,NT AUTHORITY\SYSTEM,c:\windows\system32,3248
+WC781VXC,pcalua.exe,C:\Windows\System32\pcalua.exe -a C:\Windows\audiodg.dll,erin.ward64,C:\Windows\System32\pcalua.exe,3444
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup -s CDPUserSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,4820
+WC781VXC,svchost.exe,,NT AUTHORITY\SYSTEM,,1132
+WC781VXC,services.exe,,NT AUTHORITY\SYSTEM,,1464
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s Dhcp,NT AUTHORITY\SYSTEM,c:\windows\system32,5660
+WC781VXC,Registry,,NT AUTHORITY\SYSTEM,,5628
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s TimeBrokerSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,1968
+WC781VXC,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s FontCache,NT AUTHORITY\SYSTEM,c:\windows\system32,2724
+WC781VXC,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s wlidsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,3220
+WC781VXC,slack.exe,"""C:\Users\erin.ward64\AppData\Local\slack\app-3.1.1\slack.exe"" --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=B3F36050C50A99BD488162270E67D4DD --lang=en-GB --standard-schemes=slack-resources slack-sounds slack-webapp-dev --app-user-model-id=com.squirrel.slack.slack --app-path=""C:\Users\erin.ward64\AppData\Local\slack\app-3.1.1\resources\app.asar"" --node-integration=true --webview-tag=false --no-sandbox --preload=""C:\Users\erin.ward64\AppData\Local\slack\app-3.1.1\resources\app.asar\src\static\index.js"" --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0 0 3553;0 1 3553;0 2 3553;0 3 3553;0 4 3553;0 5 3553;0 6 3553;0 7 3553;0 8 3553;0 9 3553;0 10 3553;0 11 3553;0 12 3553;0 13 3553;0 14 3553;0 15 3553;0 16 3553;1 0 3553;1 1 3553;1 2 3553;1 3 3553;1 4 3553;1 5 3553;1 6 3553;1 7 3553;1 8 3553;1 9 3553;1 10 3553;1 11 3553;1 12 3553;1 13 3553;1 14 3553;1 15 3553;1 16 3553;2 0 3553;2 1 3553;2 2 3553;2 3 3553;2 4 3553;2 5 3553;2 6 3553;2 7 3553;2 8 3553;2 9 3553;2 10 3553;2 11 3553;2 12 3553;2 13 3553;2 14 3553;2 15 3553;2 16 3553;3 0 3553;3 1 3553;3 2 3553;3 3 3553;3 4 3553;3 5 3553;3 6 3553;3 7 3553;3 8 3553;3 9 3553;3 10 3553;3 11 3553;3 12 3553;3 13 3553;3 14 3553;3 15 3553;3 16 3553;4 0 3553;4 1 3553;4 2 3553;4 3 3553;4 4 3553;4 5 3553;4 6 3553;4 7 3553;4 8 3553;4 9 3553;4 10 3553;4 11 3553;4 12 3553;4 13 3553;4 14 3553;4 15 3553;4 16 3553 --service-request-channel-token=B3F36050C50A99BD488162270E67D4DD --renderer-client-id=8 --mojo-platform-channel-handle=2336 /prefetch:1",erin.ward64,C:\Users\erin.ward64\AppData\Local\slack\app-3.1.1,1970
+WC781VXC,csrss.exe,,NT AUTHORITY\SYSTEM,,2108
+WC781VXC,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",erin.ward64,C:\Program Files\Common Files\mcafee\Platform,5504

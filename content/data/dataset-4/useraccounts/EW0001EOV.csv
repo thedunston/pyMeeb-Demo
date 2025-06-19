@@ -1,0 +1,4 @@
+username,hostname,domain-admin,local-admin,domain-user,local-user
+patri.mitc,EW0001EOV,False,False,True,False
+bonnie.cox,EW0001EOV,False,False,True,False
+carparke,EW0001EOV,False,False,False,True

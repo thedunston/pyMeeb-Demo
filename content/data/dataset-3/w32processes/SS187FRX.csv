@@ -1,0 +1,53 @@
+hostname,name,arguments,username,path,pid
+SS187FRX,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",anna.long96,C:\Program Files\Common Files\McAfee\VSCore_18_6,5111
+SS187FRX,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,748
+SS187FRX,wmiprvse.exe,C:\Windows\system32\wbem\wmiprvse.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32\wbem,2012
+SS187FRX,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,6304
+SS187FRX,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,652
+SS187FRX,Wireshark.exe,"""C:\Program Files\Wireshark\Wireshark.exe"" ",rubyhughe75,C:\Program Files\Wireshark,5144
+SS187FRX,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,anna.long96,C:\ProgramData\McAfee\Direct,4665
+SS187FRX,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,3084
+SS187FRX,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",anna.long96,C:\ProgramData\McAfee\Direct,4391
+SS187FRX,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",anna.long96,C:\Program Files\Common Files\McAfee\ModuleCore,2943
+SS187FRX,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,3484
+SS187FRX,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2944
+SS187FRX,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",rubyhughe75,C:\Program Files\TightVNC,370
+SS187FRX,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",anna.long96,C:\Program Files\McAfee\MfeAV,6324
+SS187FRX,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",anna.long96,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,1784
+SS187FRX,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,6332
+SS187FRX,taskhostex.exe,taskhostex.exe ,NT AUTHORITY\SYSTEM,C:\Windows\system32,5956
+SS187FRX,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\anna.long96\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",anna.long96,C:\Users\anna.long96\AppData\Local\Temp\scoped_dir9616_4071,1965
+SS187FRX,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,2920
+SS187FRX,OneDrive.exe,"""C:\Users\elipatt\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",elipatt,C:\Users\elipatt\AppData\Local\Microsoft\OneDrive,1922
+SS187FRX,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,5084
+SS187FRX,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",rubyhughe75,C:\Program Files\RealVNC\VNC Viewer,3151
+SS187FRX,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",anna.long96,C:\Program Files\Common Files\McAfee\Platform\Core,3698
+SS187FRX,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,2784
+SS187FRX,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",anna.long96,C:\Program Files\McAfee\WebAdvisor,6413
+SS187FRX,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",anna.long96,C:\Program Files\McAfee\WebAdvisor,5815
+SS187FRX,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",anna.long96,C:\Program Files\McAfee\MAT,711
+SS187FRX,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",anna.long96,c:\program files\common files\mcafee\modulecore,3986
+SS187FRX,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,anna.long96,c:\program files\common files\mcafee\modulecore,4501
+SS187FRX,Calculator.exe,"""C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1809.2731.0_x64__8wekyb3d8bbwe\Calculator.exe"" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca",elipatt,C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1809.2731.0_x64__8wekyb3d8bbwe,2799
+SS187FRX,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,1200
+SS187FRX,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4064
+SS187FRX,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,3556
+SS187FRX,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",anna.long96,C:\Program Files\Common Files\mcafee\Platform,1084
+SS187FRX,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4768
+SS187FRX,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",anna.long96,C:\Program Files\Common Files\McAfee\PEF\CORE,4771
+SS187FRX,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",anna.long96,C:\Program Files\Common Files\McAfee\TaskScheduler,1573
+SS187FRX,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,6248
+SS187FRX,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",anna.long96,C:\Program Files\Common Files\McAfee\MMSSHost,5359
+SS187FRX,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,anna.long96,C:\ProgramData\McAfee\McInstruTrack,6208
+SS187FRX,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,6416
+SS187FRX,CyberGhost.Service.exe,"""C:\Program Files\CyberGhost 6\CyberGhost.Service.exe""",rubyhughe75,C:\Program Files\CyberGhost 6,285
+SS187FRX,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",anna.long96,C:\Program Files\Common Files\McAfee\AMCore,1687
+SS187FRX,pcalua.exe,C:\Windows\System32\pcalua.exe -a C:\Windows\servicing\ttdinject.dll,rubyhughe75,C:\Windows\System32\pcalua.exe,2176
+SS187FRX,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,2636
+SS187FRX,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,324
+SS187FRX,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5152
+SS187FRX,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",elipatt,C:\Program Files\internet explorer,5777
+SS187FRX,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",rubyhughe75,C:\Program Files\TightVNC,1213
+SS187FRX,cmd.exe,"""C:\Windows\system32\cmd.exe"" ",rubyhughe75,C:\Windows\system32,3566
+SS187FRX,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,1280
+SS187FRX,mavinject.exe,C:\Windows\System32\mavinject.exe 1200 /INJECTRUNNING C:\Windows\Temp\C:\Windows\Microsoft.NET\Framework\umount.dll,NT AUTHORITY\SYSTEM,C:\Windows\System32\mavinject.exe,156

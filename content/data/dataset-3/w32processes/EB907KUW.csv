@@ -1,0 +1,64 @@
+hostname,name,arguments,username,path,pid
+EB907KUW,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,3172
+EB907KUW,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",eviemorri80,C:\Program Files\TightVNC,4082
+EB907KUW,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",eviemorri80,C:\Program Files\McAfee\WebAdvisor,4338
+EB907KUW,cmd.exe,"C:\WINDOWS\system32\cmd.exe /c """"C:\Ruby24-x64\bin\irb.cmd"" """,eviemorri80,C:\WINDOWS\system32,1687
+EB907KUW,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,4208
+EB907KUW,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,2160
+EB907KUW,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,3720
+EB907KUW,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,C:\Windows\System32,4820
+EB907KUW,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,3444
+EB907KUW,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",eviemorri80,C:\Program Files\Common Files\McAfee\MMSSHost,2420
+EB907KUW,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",eviemorri80,c:\program files\common files\mcafee\modulecore,4240
+EB907KUW,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,eviemorri80,c:\program files\common files\mcafee\modulecore,2428
+EB907KUW,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,1072
+EB907KUW,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",eviemorri80,C:\Program Files\Common Files\McAfee\PEF\CORE,3515
+EB907KUW,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",eviemorri80,C:\Program Files\Common Files\McAfee\Platform\Core,4826
+EB907KUW,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1248
+EB907KUW,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,120
+EB907KUW,OneDrive.exe,"""C:\Users\eviemorri80\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",eviemorri80,C:\Users\eviemorri80\AppData\Local\Microsoft\OneDrive,1437
+EB907KUW,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel,NT AUTHORITY\SYSTEM,C:\Windows\system32,68
+EB907KUW,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,5928
+EB907KUW,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",eviemorri80,C:\Program Files\Common Files\McAfee\AMCore,2666
+EB907KUW,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",eviemorri80,C:\Program Files\Common Files\mcafee\Platform,4933
+EB907KUW,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",eviemorri80,C:\ProgramData\McAfee\Direct,5467
+EB907KUW,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",eviemorri80,C:\Program Files\RealVNC\VNC Viewer,790
+EB907KUW,ruby.exe,"""C:\Ruby24-x64\bin\ruby.exe"" ",eviemorri80,C:\Ruby24-x64\bin,406
+EB907KUW,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,924
+EB907KUW,LogonUI.exe,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",NT AUTHORITY\SYSTEM,C:\Windows\system32,5256
+EB907KUW,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",eviemorri80,C:\Program Files\McAfee\MAT,6303
+EB907KUW,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,5492
+EB907KUW,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3088
+EB907KUW,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,6236
+EB907KUW,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,1704
+EB907KUW,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\eviemorri80\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",eviemorri80,C:\Users\eviemorri80\AppData\Local\Temp\scoped_dir9616_4071,343
+EB907KUW,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4908
+EB907KUW,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4412
+EB907KUW,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",eviemorri80,C:\Program Files\Common Files\McAfee\ModuleCore,1957
+EB907KUW,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",eviemorri80,C:\Program Files\McAfee\WebAdvisor,3285
+EB907KUW,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,eviemorri80,C:\ProgramData\McAfee\McInstruTrack,5283
+EB907KUW,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,eviemorri80,C:\ProgramData\McAfee\Direct,5889
+EB907KUW,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,4336
+EB907KUW,TabTip32.exe,/loadhooks /Parent:0000000000001188,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,4312
+EB907KUW,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",eviemorri80,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,4196
+EB907KUW,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1012
+EB907KUW,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4328
+EB907KUW,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,6168
+EB907KUW,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",eviemorri80,C:\Program Files\McAfee\MfeAV,5605
+EB907KUW,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",eviemorri80,C:\Program Files\internet explorer,1043
+EB907KUW,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,520
+EB907KUW,WINWORD.EXE,"""C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"" ",eviemorri80,C:\Program Files\Microsoft Office\root\Office16,4202
+EB907KUW,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,208
+EB907KUW,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2992
+EB907KUW,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2132
+EB907KUW,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",eviemorri80,C:\Program Files\Common Files\McAfee\VSCore_18_6,3634
+EB907KUW,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,3468
+EB907KUW,MpCmdRun.exe,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Defender,4652
+EB907KUW,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},NT AUTHORITY\SYSTEM,C:\Windows\system32,2076
+EB907KUW,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,3300
+EB907KUW,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",eviemorri80,C:\Program Files\Common Files\McAfee\TaskScheduler,4411
+EB907KUW,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,NT AUTHORITY\SYSTEM,C:\Windows\system32,6140
+EB907KUW,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,4700
+EB907KUW,KeePassXC.exe,"""C:\Program Files\KeePassXC\KeePassXC.exe"" ",eviemorri80,C:\Program Files\KeePassXC,4654
+EB907KUW,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",eviemorri80,C:\Program Files\TightVNC,3703
+EB907KUW,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,6164

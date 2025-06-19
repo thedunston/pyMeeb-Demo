@@ -1,0 +1,62 @@
+hostname,name,arguments,username,path,pid
+NL930NGM,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",dyla.moore,C:\Program Files\Common Files\McAfee\AMCore,5224
+NL930NGM,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",dyla.moore,c:\program files\common files\mcafee\modulecore,4482
+NL930NGM,git-bash.exe,"""C:\Program Files\Git\git-bash.exe"" ""--cd=C:\Users\dyla.moore\Desktop.""",dyla.moore,C:\Program Files\Git,3810
+NL930NGM,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3816
+NL930NGM,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,4908
+NL930NGM,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,dyla.moore,c:\program files\common files\mcafee\modulecore,4634
+NL930NGM,bash.exe,"""C:\Program Files\Git\usr\bin\bash.exe""",dyla.moore,C:\Program Files\Git\usr\bin,1387
+NL930NGM,taskhostex.exe,taskhostex.exe ,NT AUTHORITY\SYSTEM,C:\Windows\system32,4356
+NL930NGM,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2520
+NL930NGM,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3976
+NL930NGM,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\dyla.moore\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",dyla.moore,C:\Users\dyla.moore\AppData\Local\Temp\scoped_dir9616_4071,4089
+NL930NGM,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,5720
+NL930NGM,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",dyla.moore,C:\ProgramData\McAfee\Direct,3126
+NL930NGM,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",dyla.moore,C:\Program Files\Common Files\McAfee\MMSSHost,624
+NL930NGM,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",millibar,C:\Program Files\RealVNC\VNC Viewer,6189
+NL930NGM,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,1528
+NL930NGM,slack.exe,"""C:\Users\millibar\AppData\Local\slack\app-3.1.1\slack.exe"" --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=B3F36050C50A99BD488162270E67D4DD --lang=en-GB --standard-schemes=slack-resources slack-sounds slack-webapp-dev --app-user-model-id=com.squirrel.slack.slack --app-path=""C:\Users\millibar\AppData\Local\slack\app-3.1.1\resources\app.asar"" --node-integration=true --webview-tag=false --no-sandbox --preload=""C:\Users\millibar\AppData\Local\slack\app-3.1.1\resources\app.asar\src\static\index.js"" --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0 0 3553;0 1 3553;0 2 3553;0 3 3553;0 4 3553;0 5 3553;0 6 3553;0 7 3553;0 8 3553;0 9 3553;0 10 3553;0 11 3553;0 12 3553;0 13 3553;0 14 3553;0 15 3553;0 16 3553;1 0 3553;1 1 3553;1 2 3553;1 3 3553;1 4 3553;1 5 3553;1 6 3553;1 7 3553;1 8 3553;1 9 3553;1 10 3553;1 11 3553;1 12 3553;1 13 3553;1 14 3553;1 15 3553;1 16 3553;2 0 3553;2 1 3553;2 2 3553;2 3 3553;2 4 3553;2 5 3553;2 6 3553;2 7 3553;2 8 3553;2 9 3553;2 10 3553;2 11 3553;2 12 3553;2 13 3553;2 14 3553;2 15 3553;2 16 3553;3 0 3553;3 1 3553;3 2 3553;3 3 3553;3 4 3553;3 5 3553;3 6 3553;3 7 3553;3 8 3553;3 9 3553;3 10 3553;3 11 3553;3 12 3553;3 13 3553;3 14 3553;3 15 3553;3 16 3553;4 0 3553;4 1 3553;4 2 3553;4 3 3553;4 4 3553;4 5 3553;4 6 3553;4 7 3553;4 8 3553;4 9 3553;4 10 3553;4 11 3553;4 12 3553;4 13 3553;4 14 3553;4 15 3553;4 16 3553 --service-request-channel-token=B3F36050C50A99BD488162270E67D4DD --renderer-client-id=8 --mojo-platform-channel-handle=2336 /prefetch:1",millibar,C:\Users\millibar\AppData\Local\slack\app-3.1.1,5866
+NL930NGM,SkypeBackgroundHost.exe,"""C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe"" -ServerName:SkypeBackgroundHost",brya.rog,C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c,1495
+NL930NGM,slack.exe,"""C:\Users\millibar\AppData\Local\slack\app-3.1.1\slack.exe"" --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=7 10 11 20 24 26 43 63 76 --disable-gl-extensions=""GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent"" --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor=""Intel Corporation"" --gpu-driver-version=20.19.15.4331 --gpu-driver-date=11-18-2015 --service-request-channel-token=801A57F64621336F74806802DB83B30B --mojo-platform-channel-handle=1628 /prefetch:2",millibar,C:\Users\millibar\AppData\Local\slack\app-3.1.1,3863
+NL930NGM,SkypeBackgroundHost.exe,"""C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe"" -ServerName:SkypeBackgroundHost",millibar,C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c,3257
+NL930NGM,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",dyla.moore,C:\Program Files\Common Files\McAfee\PEF\CORE,4168
+NL930NGM,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,2888
+NL930NGM,wmiprvse.exe,C:\Windows\system32\wbem\wmiprvse.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32\wbem,2376
+NL930NGM,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",dyla.moore,C:\Program Files\Common Files\McAfee\ModuleCore,6114
+NL930NGM,OneDrive.exe,"""C:\Users\dyla.moore\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",dyla.moore,C:\Users\dyla.moore\AppData\Local\Microsoft\OneDrive,1605
+NL930NGM,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",dyla.moore,C:\Program Files\McAfee\MfeAV,4341
+NL930NGM,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",millibar,C:\Program Files\TightVNC,3356
+NL930NGM,mintty.exe,"usr\bin\mintty.exe --nodaemon -o AppID=GitForWindows.Bash -o AppLaunchCmd=""C:\Program Files\Git\git-bash.exe"" -o AppName=""Git Bash"" -i ""C:\Program Files\Git\git-bash.exe"" --store-taskbar-properties -- /usr/bin/bash --login -i",dyla.moore,C:\Program Files\Git\usr\bin,3713
+NL930NGM,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",dyla.moore,C:\Program Files\RealVNC\VNC Viewer,1312
+NL930NGM,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4292
+NL930NGM,pcalua.exe,C:\Windows\System32\pcalua.exe -a C:\Windows\Logs\bfsvc.dll,millibar,C:\Windows\System32\pcalua.exe,6216
+NL930NGM,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",millibar,C:\Program Files\TightVNC,805
+NL930NGM,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4588
+NL930NGM,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,dyla.moore,C:\ProgramData\McAfee\McInstruTrack,4263
+NL930NGM,slack.exe,"C:\Users\millibar\AppData\Local\slack\app-3.1.1\slack.exe --reporter-url=https://slack.com/apps/breakpad?instanceUid=c116fa6f-e78f-4f7e-9927-09567265c493&amp;version=3.1.1&amp;channel=prod --application-name=Slack ""--crashes-directory=C:\Users\millibar\AppData\Local\Temp\Slack Crashes"" --v=1",millibar,C:\Users\millibar\AppData\Local\slack\app-3.1.1,3136
+NL930NGM,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",dyla.moore,C:\Program Files\Common Files\McAfee\TaskScheduler,5726
+NL930NGM,slack.exe,"""C:\Users\millibar\AppData\Local\slack\app-3.1.1\slack.exe""",millibar,C:\Users\millibar\AppData\Local\slack\app-3.1.1,6323
+NL930NGM,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,dyla.moore,C:\ProgramData\McAfee\Direct,4815
+NL930NGM,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,4460
+NL930NGM,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,2164
+NL930NGM,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4996
+NL930NGM,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,4424
+NL930NGM,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",dyla.moore,C:\Program Files\TightVNC,2408
+NL930NGM,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",dyla.moore,C:\Program Files\TightVNC,6338
+NL930NGM,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,5932
+NL930NGM,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",dyla.moore,C:\Program Files\Common Files\mcafee\Platform,2149
+NL930NGM,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",dyla.moore,C:\Program Files\McAfee\MAT,4603
+NL930NGM,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,996
+NL930NGM,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,4244
+NL930NGM,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2152
+NL930NGM,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",dyla.moore,C:\Program Files\McAfee\WebAdvisor,3589
+NL930NGM,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",dyla.moore,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,3225
+NL930NGM,mavinject.exe,C:\Windows\System32\mavinject.exe 2152 /INJECTRUNNING C:\Windows\System32\drivers\C:\Windows\System\TsWpfWrp.dll,NT AUTHORITY\SYSTEM,C:\Windows\System32\mavinject.exe,716
+NL930NGM,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,5752
+NL930NGM,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4468
+NL930NGM,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",dyla.moore,C:\Program Files\Common Files\McAfee\VSCore_18_6,2073
+NL930NGM,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",brya.rog,C:\Program Files\internet explorer,4136
+NL930NGM,Calculator.exe,"""C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1809.2731.0_x64__8wekyb3d8bbwe\Calculator.exe"" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca",dyla.moore,C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1809.2731.0_x64__8wekyb3d8bbwe,6155
+NL930NGM,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,3132
+NL930NGM,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",dyla.moore,C:\Program Files\Common Files\McAfee\Platform\Core,4949
+NL930NGM,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",dyla.moore,C:\Program Files\McAfee\WebAdvisor,6055

@@ -1,0 +1,4 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,EL0000LLP,False,True
+harrdiaz,EL0000LLP,True,False
+gabri.brooks,EL0000LLP,False,True

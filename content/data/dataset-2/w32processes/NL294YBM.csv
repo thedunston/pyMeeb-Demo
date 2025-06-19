@@ -1,0 +1,59 @@
+hostname,name,arguments,username,path,pid
+NL294YBM,taskhostex.exe,taskhostex.exe ,NT AUTHORITY\SYSTEM,C:\Windows\system32,5184
+NL294YBM,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,2360
+NL294YBM,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,georgcoop,c:\program files\common files\mcafee\modulecore,3081
+NL294YBM,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,1176
+NL294YBM,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5960
+NL294YBM,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,5412
+NL294YBM,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5072
+NL294YBM,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",georgcoop,C:\Program Files\TightVNC,5229
+NL294YBM,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",xaviehayes35,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,1661
+NL294YBM,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",xaviehayes35,C:\Program Files\TightVNC,1094
+NL294YBM,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,964
+NL294YBM,AcroRd32.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe"" --type=renderer /prefetch:1",xaviehayes35,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader,4638
+NL294YBM,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",georgcoop,C:\Program Files\Common Files\McAfee\MMSSHost,2258
+NL294YBM,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",xaviehayes35,C:\Program Files\RealVNC\VNC Viewer,3956
+NL294YBM,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\georgcoop\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",georgcoop,C:\Users\georgcoop\AppData\Local\Temp\scoped_dir9616_4071,5415
+NL294YBM,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",georgcoop,C:\Program Files\RealVNC\VNC Viewer,815
+NL294YBM,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",georgcoop,C:\Program Files\Common Files\McAfee\Platform\Core,712
+NL294YBM,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",georgcoop,C:\Program Files\McAfee\MAT,4622
+NL294YBM,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,5864
+NL294YBM,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1368
+NL294YBM,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,5784
+NL294YBM,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",georgcoop,c:\program files\common files\mcafee\modulecore,6336
+NL294YBM,armsvc.exe,"""C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe""",xaviehayes35,C:\Program Files (x86)\Common Files\Adobe\ARM\1.0,386
+NL294YBM,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",georgcoop,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,4599
+NL294YBM,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",georgcoop,C:\Program Files\Common Files\McAfee\TaskScheduler,904
+NL294YBM,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,4412
+NL294YBM,wmiprvse.exe,C:\Windows\system32\wbem\wmiprvse.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32\wbem,6212
+NL294YBM,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,georgcoop,C:\ProgramData\McAfee\McInstruTrack,2050
+NL294YBM,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",georgcoop,C:\Program Files\Common Files\McAfee\ModuleCore,6042
+NL294YBM,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",georgcoop,C:\Program Files\TightVNC,4731
+NL294YBM,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",georgcoop,C:\Program Files\Common Files\McAfee\AMCore,4091
+NL294YBM,RdrCEF.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF.exe"" --type=renderer --disable-browser-side-navigation --disable-gpu-compositing --service-pipe-token=49849BA2F50EBF33EAD978C1E9CA6D55 --lang=en-US --disable-pack-loading --lang=en-US --log-file=""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\debug.log"" --log-severity=disable --product-version=""ReaderServices/19.8.20071 Chrome/64.0.3282.119"" --enable-pinch --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0 0 3553;0 1 3553;0 2 3553;0 3 3553;0 4 3553;0 5 3553;0 6 3553;0 7 3553;0 8 3553;0 9 3553;0 10 3553;0 11 3553;0 12 3553;0 13 3553;0 14 3553;0 15 3553;0 16 3553;0 17 3553;0 18 3553;1 0 3553;1 1 3553;1 2 3553;1 3 3553;1 4 3553;1 5 3553;1 6 3553;1 7 3553;1 8 3553;1 9 3553;1 10 3553;1 11 3553;1 12 3553;1 13 3553;1 14 3553;1 15 3553;1 16 3553;1 17 3553;1 18 3553;2 0 3553;2 1 3553;2 2 3553;2 3 3553;2 4 3553;2 5 3553;2 6 3553;2 7 3553;2 8 3553;2 9 3553;2 10 3553;2 11 3553;2 12 3553;2 13 3553;2 14 3553;2 15 3553;2 16 3553;2 17 3553;2 18 3553;3 0 3553;3 1 3553;3 2 3553;3 3 3553;3 4 3553;3 5 3553;3 6 3553;3 7 3553;3 8 3553;3 9 3553;3 10 3553;3 11 3553;3 12 3553;3 13 3553;3 14 3553;3 15 3553;3 16 3553;3 17 3553;3 18 3553;4 0 3553;4 1 3553;4 2 3553;4 3 3553;4 4 3553;4 5 3553;4 6 3553;4 7 3553;4 8 3553;4 9 3553;4 10 3553;4 11 3553;4 12 3553;4 13 3553;4 14 3553;4 15 3553;4 16 3553;4 17 3553;4 18 3553;5 0 3553;5 1 3553;5 2 3553;5 3 3553;5 4 3553;5 5 3553;5 6 3553;5 7 3553;5 8 3553;5 9 3553;5 10 3553;5 11 3553;5 12 3553;5 13 3553;5 14 3553;5 15 3553;5 16 3553;5 17 3553;5 18 3553;6 0 3553;6 1 3553;6 2 3553;6 3 3553;6 4 3553;6 5 3553;6 6 3553;6 7 3553;6 8 3553;6 9 3553;6 10 3553;6 11 3553;6 12 3553;6 13 3553;6 14 3553;6 15 3553;6 16 3553;6 17 3553;6 18 3553 --disable-accelerated-video-decode --service-request-channel-token=49849BA2F50EBF33EAD978C1E9CA6D55 --renderer-client-id=4 --mojo-platform-channel-handle=2328 --allow-no-sandbox-job /prefetch:1",xaviehayes35,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF,666
+NL294YBM,RdrCEF.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF.exe"" --backgroundcolor=16514043",xaviehayes35,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF,1364
+NL294YBM,GitHubDesktop.exe,"""C:\Users\xaviehayes35\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --squirrel-firstrun",xaviehayes35,C:\Users\xaviehayes35\AppData\Local\GitHubDesktop\app-1.4.3,3611
+NL294YBM,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",georgcoop,C:\Program Files\McAfee\WebAdvisor,3502
+NL294YBM,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",georgcoop,C:\Program Files\McAfee\WebAdvisor,5811
+NL294YBM,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2056
+NL294YBM,OneDrive.exe,"""C:\Users\rob.san\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",rob.san,C:\Users\rob.san\AppData\Local\Microsoft\OneDrive,5666
+NL294YBM,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,848
+NL294YBM,WINWORD.EXE,"""C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"" ",xaviehayes35,C:\Program Files\Microsoft Office\root\Office16,1664
+NL294YBM,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,4080
+NL294YBM,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",georgcoop,C:\Program Files\Common Files\McAfee\PEF\CORE,5965
+NL294YBM,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,2176
+NL294YBM,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4720
+NL294YBM,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",georgcoop,C:\ProgramData\McAfee\Direct,4087
+NL294YBM,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,2416
+NL294YBM,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",georgcoop,C:\Program Files\Common Files\mcafee\Platform,267
+NL294YBM,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,3700
+NL294YBM,putty.exe,"""C:\Program Files\PuTTY\putty.exe"" ",rob.san,C:\Program Files\PuTTY,4893
+NL294YBM,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,georgcoop,C:\ProgramData\McAfee\Direct,3353
+NL294YBM,GitHubDesktop.exe,"""C:\Users\xaviehayes35\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=9 12 13 23 27 29 49 70 84 --disable-gl-extensions=""GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent"" --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor=""Intel Corporation"" --gpu-driver-version=20.19.15.4331 --gpu-driver-date=11-18-2015 --service-request-channel-token=29571E74A71F5219E432184D13D76C95 --mojo-platform-channel-handle=1732 /prefetch:2",xaviehayes35,C:\Users\xaviehayes35\AppData\Local\GitHubDesktop\app-1.4.3,3256
+NL294YBM,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1112
+NL294YBM,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",xaviehayes35,C:\Program Files\TightVNC,5889
+NL294YBM,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,1136
+NL294YBM,AcroRd32.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe"" ",xaviehayes35,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader,650
+NL294YBM,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",georgcoop,C:\Program Files\McAfee\MfeAV,4930
+NL294YBM,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",georgcoop,C:\Program Files\Common Files\McAfee\VSCore_18_6,1266
+NL294YBM,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,1340

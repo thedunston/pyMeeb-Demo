@@ -1,0 +1,26 @@
+hostname,fullpath,filepath,drive,filename,fileextension,username
+ET0000VXR,c:\Windows\System32\drivers\rdpvideominiport.sys,Windows\System32\drivers,c,rdpvideominiport.sys,sys,NT SERVICE\TrustedInstaller
+ET0000VXR,c:\Windows\System32\rdpencom.dll,Windows\System32,c,rdpencom.dll,dll,NT SERVICE\TrustedInstaller
+ET0000VXR,c:\Windows\System32\onedrivesettingsyncprovider.dll,Windows\System32,c,onedrivesettingsyncprovider.dll,dll,NT SERVICE\TrustedInstaller
+ET0000VXR,c:\program files (x86)\VMware\vmware player\vmware-authd.exe,program files (x86)\VMware\vmware player,c,vmware-authd.exe,exe,NT AUTHORITY\SYSTEM
+ET0000VXR,c:\program files (x86)\VMware\vmware player\elevated.dll,program files (x86)\VMware\vmware player,c,elevated.dll,dll,NT AUTHORITY\SYSTEM
+ET0000VXR,c:\Windows\System32\rdpcorets.dll,Windows\System32,c,rdpcorets.dll,dll,NT SERVICE\TrustedInstaller
+ET0000VXR,c:\program files (x86)\common files\VMware\USB\vmware-usbarbitrator64.exe,program files (x86)\common files\VMware\USB,c,vmware-usbarbitrator64.exe,exe,NT AUTHORITY\SYSTEM
+ET0000VXR,c:\Windows\System32\umrdp.dll,Windows\System32,c,umrdp.dll,dll,NT SERVICE\TrustedInstaller
+ET0000VXR,c:\Windows\SysWOW64\onedrivesetup.exe,Windows\SysWOW64,c,onedrivesetup.exe,exe,NT SERVICE\TrustedInstaller
+ET0000VXR,c:\program files (x86)\panda security\panda security protection\PSANHost.exe,program files (x86)\panda security\panda security protection,c,PSANHost.exe,exe,NT AUTHORITY\SYSTEM
+ET0000VXR,c:\Windows\System32\rdpendp.dll,Windows\System32,c,rdpendp.dll,dll,NT SERVICE\TrustedInstaller
+ET0000VXR,c:\program files (x86)\panda security\panda devices agent\AgentSvc.exe,program files (x86)\panda security\panda devices agent,c,AgentSvc.exe,exe,NT AUTHORITY\SYSTEM
+ET0000VXR,c:\program files (x86)\panda security\panda security protection\psuashell.dll,program files (x86)\panda security\panda security protection,c,psuashell.dll,dll,NT AUTHORITY\SYSTEM
+ET0000VXR,c:\program files (x86)\panda security\panda security protection\psuaservice.exe,program files (x86)\panda security\panda security protection,c,psuaservice.exe,exe,NT AUTHORITY\SYSTEM
+ET0000VXR,c:\program files (x86)\VMware\vmware player\vmdkshellext.dll,program files (x86)\VMware\vmware player,c,vmdkshellext.dll,dll,NT AUTHORITY\SYSTEM
+ET0000VXR,c:\program files (x86)\panda security\panda security protection\hydra.sdk.windows.service.exe,program files (x86)\panda security\panda security protection,c,hydra.sdk.windows.service.exe,exe,NT AUTHORITY\SYSTEM
+ET0000VXR,c:\Windows\System32\RdpSaPs.dll,Windows\System32,c,RdpSaPs.dll,dll,NT SERVICE\TrustedInstaller
+ET0000VXR,c:\Windows\System32\drivers\rdpdr.sys,Windows\System32\drivers,c,rdpdr.sys,sys,NT SERVICE\TrustedInstaller
+ET0000VXR,c:\Users\$user\AppData\Local\microsoft\OneDrive\OneDrive.exe,Users\$user\AppData\Local\microsoft\OneDrive,c,OneDrive.exe,exe,$domain\$user
+ET0000VXR,c:\program files\cyberghost 6\cyberghost.exe,program files\cyberghost 6,c,cyberghost.exe,exe,BUILTIN\Administrators
+ET0000VXR,c:\program files (x86)\panda security\panda security protection\PSUAMain.exe,program files (x86)\panda security\panda security protection,c,PSUAMain.exe,exe,NT AUTHORITY\SYSTEM
+ET0000VXR,c:\Windows\System32\msrdpwebaccess.dll,Windows\System32,c,msrdpwebaccess.dll,dll,NT SERVICE\TrustedInstaller
+ET0000VXR,c:\program files (x86)\VMware\vmware player\x64\vmdkshellext64.dll,program files (x86)\VMware\vmware player\x64,c,vmdkshellext64.dll,dll,NT AUTHORITY\SYSTEM
+ET0000VXR,c:\Windows\System32\drivers\rdpbus.sys,Windows\System32\drivers,c,rdpbus.sys,sys,NT SERVICE\TrustedInstaller
+ET0000VXR,C:\Windows\system32\rdpclip.EXE,Windows\system32,C,rdpclip.EXE,EXE,NT SERVICE\TrustedInstaller

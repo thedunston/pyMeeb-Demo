@@ -1,0 +1,58 @@
+hostname,name,arguments,username,path,pid
+EL290KLP,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",carree42,C:\Program Files\Common Files\McAfee\ModuleCore,677
+EL290KLP,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,3424
+EL290KLP,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,716
+EL290KLP,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",carree42,C:\ProgramData\McAfee\Direct,303
+EL290KLP,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{3EAE8C5E-B51F-4CBD-9DCE-FA6AA0BDF8B8},NT AUTHORITY\SYSTEM,C:\Windows\system32,2828
+EL290KLP,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",carree42,C:\Program Files\McAfee\WebAdvisor,6440
+EL290KLP,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4844
+EL290KLP,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,116
+EL290KLP,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5572
+EL290KLP,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4288
+EL290KLP,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",carree42,C:\Program Files\Common Files\McAfee\AMCore,1592
+EL290KLP,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",carree42,C:\Program Files\RealVNC\VNC Viewer,538
+EL290KLP,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",carree42,C:\Program Files\Common Files\McAfee\PEF\CORE,3850
+EL290KLP,OneDrive.exe,"""C:\Users\zar.gar\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",zar.gar,C:\Users\zar.gar\AppData\Local\Microsoft\OneDrive,5830
+EL290KLP,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",carree42,C:\Program Files\TightVNC,205
+EL290KLP,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",carree42,C:\Program Files\TightVNC,5582
+EL290KLP,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,5164
+EL290KLP,powershell.exe,"""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" ",carree42,C:\Windows\System32\WindowsPowerShell\v1.0,5324
+EL290KLP,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3476
+EL290KLP,kitty-0.70.0.6.exe,"""C:\Users\zar.gar\Documents\kitty-0.70.0.6.exe"" ",zar.gar,C:\Users\zar.gar\Documents,4482
+EL290KLP,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",carree42,C:\Program Files\McAfee\MfeAV,5916
+EL290KLP,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",carree42,C:\Program Files\Common Files\McAfee\Platform\Core,787
+EL290KLP,svchost.exe,C:\Windows\system32\svchost.exe -k regsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,5772
+EL290KLP,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,4624
+EL290KLP,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",carree42,C:\Program Files\Common Files\McAfee\TaskScheduler,2841
+EL290KLP,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,4168
+EL290KLP,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",zar.gar,C:\Program Files\internet explorer,1430
+EL290KLP,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4828
+EL290KLP,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,1328
+EL290KLP,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,6428
+EL290KLP,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,4428
+EL290KLP,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,1292
+EL290KLP,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",carree42,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,2300
+EL290KLP,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4164
+EL290KLP,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\carree42\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",carree42,C:\Users\carree42\AppData\Local\Temp\scoped_dir9616_4071,3600
+EL290KLP,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",carree42,c:\program files\common files\mcafee\modulecore,6005
+EL290KLP,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\System32,6216
+EL290KLP,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",carree42,C:\Program Files\Common Files\McAfee\MMSSHost,3846
+EL290KLP,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,carree42,C:\ProgramData\McAfee\McInstruTrack,1237
+EL290KLP,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",carree42,C:\Program Files\McAfee\WebAdvisor,6386
+EL290KLP,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,carree42,C:\ProgramData\McAfee\Direct,1722
+EL290KLP,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",carree42,C:\Program Files\Common Files\mcafee\Platform,3776
+EL290KLP,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,3856
+EL290KLP,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,252
+EL290KLP,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,5688
+EL290KLP,python.exe,"""C:\Users\zar.gar\AppData\Local\Programs\Python\Python37\python.exe"" ",zar.gar,C:\Users\zar.gar\AppData\Local\Programs\Python\Python37,993
+EL290KLP,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,carree42,c:\program files\common files\mcafee\modulecore,5879
+EL290KLP,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",zar.gar,C:\Program Files\internet explorer,2835
+EL290KLP,conhost.exe,"\??\C:\Windows\system32\conhost.exe ""-29887463320281528418771495882049435123649789771-108284301750553232-1762948263",NT AUTHORITY\SYSTEM,C:\Windows\system32,240
+EL290KLP,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",carree42,C:\Program Files\Common Files\McAfee\VSCore_18_6,674
+EL290KLP,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2044
+EL290KLP,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5716
+EL290KLP,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5812
+EL290KLP,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",carree42,C:\Program Files\McAfee\MAT,4390
+EL290KLP,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,3124
+EL290KLP,cmd.exe,C:\Windows\System32\cmd.exe /C C:\Windows\System32\run_pd.bat,NT AUTHORITY\SYSTEM,C:\Windows\System32\cmd.exe,6368
+EL290KLP,cmd.exe,C:\Windows\System32\cmd.exe /C C:\Windows\Logs\run_pd.bat,NT AUTHORITY\SYSTEM,C:\Windows\System32\cmd.exe,1044

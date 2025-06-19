@@ -1,0 +1,59 @@
+hostname,name,arguments,username,path,pid
+SW526FHQ,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,sophparker27,C:\ProgramData\McAfee\Direct,1574
+SW526FHQ,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5300
+SW526FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,1812
+SW526FHQ,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",sophparker27,C:\Program Files\Common Files\McAfee\MMSSHost,1454
+SW526FHQ,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,1136
+SW526FHQ,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",charhaye,C:\Windows\system32,2686
+SW526FHQ,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",sophparker27,C:\Program Files\Common Files\mcafee\Platform,4357
+SW526FHQ,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\System32,940
+SW526FHQ,GitHubDesktop.exe,"""C:\Users\charhaye\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --squirrel-firstrun",charhaye,C:\Users\charhaye\AppData\Local\GitHubDesktop\app-1.4.3,5545
+SW526FHQ,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,2812
+SW526FHQ,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",sophparker27,C:\Program Files\Common Files\McAfee\Platform\Core,4345
+SW526FHQ,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,4924
+SW526FHQ,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",sophparker27,C:\Program Files\Common Files\McAfee\PEF\CORE,1056
+SW526FHQ,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",sophparker27,C:\Program Files\McAfee\MfeAV,2937
+SW526FHQ,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",sophparker27,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,3288
+SW526FHQ,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",roby.adam96,C:\Program Files\RealVNC\VNC Viewer,3270
+SW526FHQ,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,4824
+SW526FHQ,kitty-0.70.0.6.exe,"""C:\Users\roby.adam96\Documents\kitty-0.70.0.6.exe"" ",roby.adam96,C:\Users\roby.adam96\Documents,657
+SW526FHQ,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5280
+SW526FHQ,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",sophparker27,C:\Program Files\Common Files\McAfee\VSCore_18_6,2320
+SW526FHQ,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,4896
+SW526FHQ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,5468
+SW526FHQ,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,sophparker27,C:\ProgramData\McAfee\McInstruTrack,4354
+SW526FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,4768
+SW526FHQ,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,sophparker27,c:\program files\common files\mcafee\modulecore,6362
+SW526FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,3876
+SW526FHQ,mspaint.exe,"""C:\Windows\system32\mspaint.exe"" ",roby.adam96,C:\Windows\system32,4376
+SW526FHQ,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",roby.adam96,C:\Program Files\TightVNC,5123
+SW526FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k regsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,4488
+SW526FHQ,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",sophparker27,C:\Program Files\Common Files\McAfee\AMCore,5107
+SW526FHQ,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",sophparker27,C:\Program Files\Common Files\McAfee\TaskScheduler,200
+SW526FHQ,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3256
+SW526FHQ,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",sophparker27,c:\program files\common files\mcafee\modulecore,5684
+SW526FHQ,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\sophparker27\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",sophparker27,C:\Users\sophparker27\AppData\Local\Temp\scoped_dir9616_4071,969
+SW526FHQ,pcalua.exe,C:\Windows\System32\pcalua.exe -a C:\Program Files\Common Files\Internet Explorer\iisual.dll,roby.adam96,C:\Windows\System32\pcalua.exe,1424
+SW526FHQ,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,956
+SW526FHQ,OneDrive.exe,"""C:\Users\roby.adam96\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",roby.adam96,C:\Users\roby.adam96\AppData\Local\Microsoft\OneDrive,2541
+SW526FHQ,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4920
+SW526FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,3404
+SW526FHQ,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",sophparker27,C:\Program Files\McAfee\WebAdvisor,4712
+SW526FHQ,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",sophparker27,C:\Program Files\McAfee\WebAdvisor,5527
+SW526FHQ,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",sophparker27,C:\Program Files\McAfee\MAT,4556
+SW526FHQ,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",sophparker27,C:\Program Files\Common Files\McAfee\ModuleCore,5928
+SW526FHQ,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{3EAE8C5E-B51F-4CBD-9DCE-FA6AA0BDF8B8},NT AUTHORITY\SYSTEM,C:\Windows\system32,3040
+SW526FHQ,GitHubDesktop.exe,"""C:\Users\charhaye\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=9 12 13 23 27 29 49 70 84 --disable-gl-extensions=""GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent"" --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor=""Intel Corporation"" --gpu-driver-version=20.19.15.4331 --gpu-driver-date=11-18-2015 --service-request-channel-token=29571E74A71F5219E432184D13D76C95 --mojo-platform-channel-handle=1732 /prefetch:2",charhaye,C:\Users\charhaye\AppData\Local\GitHubDesktop\app-1.4.3,4738
+SW526FHQ,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,3928
+SW526FHQ,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",roby.adam96,C:\Program Files\internet explorer,4635
+SW526FHQ,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,1048
+SW526FHQ,python.exe,"""C:\Users\charhaye\AppData\Local\Programs\Python\Python37\python.exe"" ",charhaye,C:\Users\charhaye\AppData\Local\Programs\Python\Python37,1087
+SW526FHQ,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",sophparker27,C:\ProgramData\McAfee\Direct,2975
+SW526FHQ,conhost.exe,"\??\C:\Windows\system32\conhost.exe ""-29887463320281528418771495882049435123649789771-108284301750553232-1762948263",NT AUTHORITY\SYSTEM,C:\Windows\system32,500
+SW526FHQ,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,6468
+SW526FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,504
+SW526FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,2604
+SW526FHQ,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,6408
+SW526FHQ,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",roby.adam96,C:\Program Files\TightVNC,979
+SW526FHQ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,3700
+SW526FHQ,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,1032

@@ -1,0 +1,115 @@
+hostname,name,arguments,username,path,pid
+111RWHSW,BtwRSupportService.exe,C:\Windows\system32\BtwRSupportService.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1848
+111RWHSW,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,2780
+111RWHSW,SecurityHealthService.exe,,NT AUTHORITY\SYSTEM,,424
+111RWHSW,smss.exe,,NT AUTHORITY\SYSTEM,,1636
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s LicenseManager,NT AUTHORITY\SYSTEM,c:\windows\system32,2808
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k dcomlaunch -p -s LSM,NT AUTHORITY\SYSTEM,c:\windows\system32,1960
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k dcomlaunch -p -s PlugPlay,NT AUTHORITY\SYSTEM,c:\windows\system32,196
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k appmodel -p -s StateRepository,NT AUTHORITY\SYSTEM,c:\windows\system32,4704
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s FontCache,NT AUTHORITY\SYSTEM,c:\windows\system32,3100
+111RWHSW,Memory Compression,,NT AUTHORITY\SYSTEM,,1684
+111RWHSW,fontdrvhost.exe,"""fontdrvhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,6156
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localserviceandnoimpersonation -p -s SSDPSRV,NT AUTHORITY\SYSTEM,c:\windows\system32,4648
+111RWHSW,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\System32,984
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Schedule,NT AUTHORITY\SYSTEM,c:\windows\system32,5980
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup,NT AUTHORITY\SYSTEM,c:\windows\system32,3708
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s EventLog,NT AUTHORITY\SYSTEM,c:\windows\system32,36
+111RWHSW,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,4400
+111RWHSW,SkypeBackgroundHost.exe,"""C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe"" -ServerName:SkypeBackgroundHost",blake.parke45,C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c,2551
+111RWHSW,svchost.exe,C:\Windows\system32\svchost.exe -k SDRSVC,NT AUTHORITY\SYSTEM,C:\Windows\system32,572
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s iphlpsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,6100
+111RWHSW,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,4108
+111RWHSW,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",blake.parke45,C:\Program Files\TightVNC,1794
+111RWHSW,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts,NT AUTHORITY\SYSTEM,C:\Windows\System32,3756
+111RWHSW,SgrmBroker.exe,,NT AUTHORITY\SYSTEM,,896
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s SstpSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,1336
+111RWHSW,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,c:\windows\system32,4308
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k rpcss -p,NT AUTHORITY\SYSTEM,c:\windows\system32,3180
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SensorService,NT AUTHORITY\SYSTEM,c:\windows\system32,2140
+111RWHSW,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,2824
+111RWHSW,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc -p,NT AUTHORITY\SYSTEM,C:\Windows\System32,2384
+111RWHSW,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",blake.parke45,C:\Program Files\TightVNC,2792
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup -s CDPUserSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3864
+111RWHSW,SettingSyncHost.exe,C:\Windows\system32\SettingSyncHost.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,4136
+111RWHSW,mbamservice.exe,"""C:\Program Files\Malwarebytes\Anti-Malware\mbamservice.exe""",blake.parke45,C:\Program Files\Malwarebytes\Anti-Malware,6133
+111RWHSW,csrss.exe,,NT AUTHORITY\SYSTEM,,2860
+111RWHSW,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,4032
+111RWHSW,NisSrv.exe,,NT AUTHORITY\SYSTEM,,6392
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s TokenBroker,NT AUTHORITY\SYSTEM,c:\windows\system32,5008
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s SENS,NT AUTHORITY\SYSTEM,c:\windows\system32,5020
+111RWHSW,DllHost.exe,C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F},NT AUTHORITY\SYSTEM,C:\Windows\system32,1548
+111RWHSW,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,1572
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s nsi,NT AUTHORITY\SYSTEM,c:\windows\system32,2848
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s UserManager,NT AUTHORITY\SYSTEM,c:\windows\system32,332
+111RWHSW,OneDrive.exe,"""C:\Users\blake.parke45\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",blake.parke45,C:\Users\blake.parke45\AppData\Local\Microsoft\OneDrive,5686
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s WdiServiceHost,NT AUTHORITY\SYSTEM,c:\windows\system32,3632
+111RWHSW,SearchFilterHost.exe,"""C:\Windows\system32\SearchFilterHost.exe"" 0 736 740 748 8192 744 ",NT AUTHORITY\SYSTEM,C:\Windows\system32,308
+111RWHSW,fontdrvhost.exe,"""fontdrvhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\System32,5364
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p,NT AUTHORITY\SYSTEM,c:\windows\system32,2080
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s Dnscache,NT AUTHORITY\SYSTEM,c:\windows\system32,3828
+111RWHSW,WinLogon.exe,C:\Windows\System32\WinLogon.exe -SpecialSession,NT AUTHORITY\SYSTEM,C:\Windows\System32,4416
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s StorSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,4252
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s AudioEndpointBuilder,NT AUTHORITY\SYSTEM,c:\windows\system32,3676
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -s BTAGService,NT AUTHORITY\SYSTEM,c:\windows\system32,4572
+111RWHSW,wininit.exe,,NT AUTHORITY\SYSTEM,,3524
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TrkWks,NT AUTHORITY\SYSTEM,c:\windows\system32,2400
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DsSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3896
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s BITS,NT AUTHORITY\SYSTEM,c:\windows\system32,596
+111RWHSW,jusched.exe,"""C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe"" ",NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Java\Java Update,908
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s ShellHWDetection,NT AUTHORITY\SYSTEM,c:\windows\system32,5748
+111RWHSW,System,,NT AUTHORITY\SYSTEM,,2084
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s lfsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,1796
+111RWHSW,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p,NT AUTHORITY\SYSTEM,C:\Windows\System32,4716
+111RWHSW,ApplicationFrameHost.exe,C:\Windows\system32\ApplicationFrameHost.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,5080
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s ProfSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,5420
+111RWHSW,services.exe,,NT AUTHORITY\SYSTEM,,1080
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s WebClient,NT AUTHORITY\SYSTEM,c:\windows\system32,1480
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s LanmanWorkstation,NT AUTHORITY\SYSTEM,c:\windows\system32,5752
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservicenonetwork -p -s DPS,NT AUTHORITY\SYSTEM,c:\windows\system32,328
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s NlaSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,2012
+111RWHSW,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,c:\windows\system32,4300
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s PcaSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,1916
+111RWHSW,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,4596
+111RWHSW,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5300
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s NcbService,NT AUTHORITY\SYSTEM,c:\windows\system32,5436
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s BthAvctpSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,2288
+111RWHSW,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",blake.parke45,C:\Program Files\RealVNC\VNC Viewer,969
+111RWHSW,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,3004
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s CryptSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,2132
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s TimeBrokerSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,6248
+111RWHSW,Wireshark.exe,"""C:\Program Files\Wireshark\Wireshark.exe"" ",aaro.gri34,C:\Program Files\Wireshark,2112
+111RWHSW,svchost.exe,C:\Windows\system32\svchost.exe -k imgsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,3988
+111RWHSW,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3184
+111RWHSW,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /uac",zacharramir,C:\Program Files\CCleaner,5490
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,c:\windows\system32,4996
+111RWHSW,mbam.exe,"""C:\Program Files\Malwarebytes\Anti-Malware\mbam.exe""",blake.parke45,C:\Program Files\Malwarebytes\Anti-Malware,5105
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s TapiSrv,NT AUTHORITY\SYSTEM,c:\windows\system32,3852
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s bthserv,NT AUTHORITY\SYSTEM,c:\windows\system32,948
+111RWHSW,ctfmon.exe,"""ctfmon.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3000
+111RWHSW,svchost.exe,,NT AUTHORITY\SYSTEM,,6052
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DeviceAssociationService,NT AUTHORITY\SYSTEM,c:\windows\system32,2320
+111RWHSW,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService -p -s DoSvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,5188
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Winmgmt,NT AUTHORITY\SYSTEM,c:\windows\system32,1132
+111RWHSW,WINWORD.EXE,"""C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"" ",blake.parke45,C:\Program Files\Microsoft Office\root\Office16,1315
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TabletInputService,NT AUTHORITY\SYSTEM,c:\windows\system32,5376
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s Dhcp,NT AUTHORITY\SYSTEM,c:\windows\system32,3336
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s CDPSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3616
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup -s WpnUserService,NT AUTHORITY\SYSTEM,c:\windows\system32,2352
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Appinfo,NT AUTHORITY\SYSTEM,c:\windows\system32,268
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s WinHttpAutoProxySvc,NT AUTHORITY\SYSTEM,c:\windows\system32,1700
+111RWHSW,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,2300
+111RWHSW,LockApp.exe,"""C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe"" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy,1116
+111RWHSW,MsMpEng.exe,,NT AUTHORITY\SYSTEM,,2888
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SysMain,NT AUTHORITY\SYSTEM,c:\windows\system32,2096
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s wscsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,1584
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s netprofm,NT AUTHORITY\SYSTEM,c:\windows\system32,3924
+111RWHSW,SearchIndexer.exe,C:\Windows\system32\SearchIndexer.exe /Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,3328
+111RWHSW,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s wlidsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,1600
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s EventSystem,NT AUTHORITY\SYSTEM,c:\windows\system32,4000
+111RWHSW,chrome.exe,"""C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"" --type=renderer --field-trial-handle=1556 1270622256617353588 15561965010207222735 131072 --service-pipe-token=1352282089870284743 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --service-request-channel-token=1352282089870284743 --renderer-client-id=45 --mojo-platform-channel-handle=7884 /prefetch:1",blake.parke45,C:\Program Files (x86)\Google\Chrome\Application,292
+111RWHSW,Registry,,NT AUTHORITY\SYSTEM,,108
+111RWHSW,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /MONITOR /uac",zacharramir,C:\Program Files\CCleaner,2498
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Themes,NT AUTHORITY\SYSTEM,c:\windows\system32,52
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s WpnService,NT AUTHORITY\SYSTEM,c:\windows\system32,444
+111RWHSW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s LanmanServer,NT AUTHORITY\SYSTEM,c:\windows\system32,348

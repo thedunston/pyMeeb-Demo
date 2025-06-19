@@ -1,0 +1,56 @@
+hostname,name,arguments,username,path,pid
+EB219HPI,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",vionelso32,c:\program files\common files\mcafee\modulecore,3970
+EB219HPI,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",vionelso32,C:\Program Files\Common Files\McAfee\AMCore,248
+EB219HPI,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",victoria.morga,C:\Program Files\TightVNC,4715
+EB219HPI,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,6432
+EB219HPI,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5828
+EB219HPI,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",lilroger8,C:\Program Files\internet explorer,4041
+EB219HPI,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,vionelso32,c:\program files\common files\mcafee\modulecore,5365
+EB219HPI,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",victoria.morga,C:\Program Files\TightVNC,1410
+EB219HPI,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",vionelso32,C:\Program Files\Common Files\McAfee\Platform\Core,2884
+EB219HPI,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",vionelso32,C:\Program Files\McAfee\MfeAV,762
+EB219HPI,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,2736
+EB219HPI,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",vionelso32,C:\Program Files\Common Files\McAfee\PEF\CORE,3675
+EB219HPI,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",vionelso32,C:\Program Files\Common Files\McAfee\VSCore_18_6,4089
+EB219HPI,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5912
+EB219HPI,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3632
+EB219HPI,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,1328
+EB219HPI,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,3000
+EB219HPI,powershell.exe,"""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" ",vionelso32,C:\Windows\System32\WindowsPowerShell\v1.0,5421
+EB219HPI,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,6036
+EB219HPI,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3260
+EB219HPI,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",vionelso32,C:\Program Files\McAfee\MAT,3387
+EB219HPI,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",vionelso32,C:\Program Files\McAfee\WebAdvisor,5449
+EB219HPI,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",vionelso32,C:\Windows\system32,5716
+EB219HPI,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",vionelso32,C:\Program Files\Common Files\McAfee\TaskScheduler,4659
+EB219HPI,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,3316
+EB219HPI,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",vionelso32,C:\Program Files\RealVNC\VNC Viewer,4595
+EB219HPI,g2mcomm.exe,"""C:\Users\vionelso32\AppData\Local\GoToMeeting\9508\g2mcomm.exe"" ""Action=Host&amp;BrokerServiceSuffix=@ISL1&amp;Build=9508&amp;colClientUiReadyEvent=Global\55848945-2CEA-4978-BF24-0C6A3B11E66E&amp;Digest=1bc982ef0552b1fb859a423b1f290ef0&amp;Dir=C:\Users\vionelso32\AppData\Local\GoToMeeting\9508\&amp;Download=Auto&amp;EGWAddress=216.115.208.230&amp;EGWDNS=egwglobal.gotomeeting.com&amp;EGWPort=80 443 8200&amp;LoaderPath=C:\Users\vionelso32\AppData\Local\GoToMeeting\9508\g2mstart.exe&amp;LogName=c:\users\vionelso32\appdata\local\temp\logmeinlogs\gotomeeting\9508\2018-10-29_12.04.18.379\GoToMeeting.log&amp;Mode=Normal&amp;Path=g2mlauncher.exe&amp;Plugin=G2MLauncher&amp;Product=g2m&amp;sessionTrackingId=e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP&amp;UniqueId=16cc""",vionelso32,C:\Users\vionelso32\AppData\Local\GoToMeeting\9508,1636
+EB219HPI,taskhostex.exe,taskhostex.exe ,NT AUTHORITY\SYSTEM,C:\Windows\system32,4896
+EB219HPI,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",vionelso32,C:\Program Files\TightVNC,5975
+EB219HPI,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,vionelso32,C:\ProgramData\McAfee\Direct,6465
+EB219HPI,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",victoria.morga,C:\Program Files\RealVNC\VNC Viewer,1821
+EB219HPI,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,2708
+EB219HPI,sqlservr.exe,"""C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn\sqlservr.exe"" -sSQLEXPRESS",victoria.morga,C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn,6477
+EB219HPI,Calculator.exe,"""C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1809.2731.0_x64__8wekyb3d8bbwe\Calculator.exe"" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca",lilroger8,C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1809.2731.0_x64__8wekyb3d8bbwe,2481
+EB219HPI,OneDrive.exe,"""C:\Users\vionelso32\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",vionelso32,C:\Users\vionelso32\AppData\Local\Microsoft\OneDrive,325
+EB219HPI,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",vionelso32,C:\Program Files\Common Files\mcafee\Platform,2025
+EB219HPI,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",vionelso32,C:\Program Files\Common Files\McAfee\MMSSHost,5092
+EB219HPI,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",vionelso32,C:\Program Files\McAfee\WebAdvisor,6462
+EB219HPI,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4048
+EB219HPI,wmiprvse.exe,C:\Windows\system32\wbem\wmiprvse.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32\wbem,4632
+EB219HPI,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,2988
+EB219HPI,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5048
+EB219HPI,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1156
+EB219HPI,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\vionelso32\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",vionelso32,C:\Users\vionelso32\AppData\Local\Temp\scoped_dir9616_4071,1379
+EB219HPI,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,2396
+EB219HPI,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",vionelso32,C:\Program Files\TightVNC,2464
+EB219HPI,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,312
+EB219HPI,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,5928
+EB219HPI,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",vionelso32,C:\ProgramData\McAfee\Direct,1270
+EB219HPI,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",vionelso32,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,5648
+EB219HPI,g2mstart.exe,"""C:\Users\vionelso32\AppData\Local\GoToMeeting\9508\g2mstart.exe"" ""/Action Host"" ""/BrokerServiceSuffix @ISL1"" ""/Build 9508"" ""/Download Auto"" ""/EGWAddress 216.115.208.230"" ""/EGWDNS egwglobal.gotomeeting.com"" ""/EGWPort 80 443 8200"" ""/Mode Normal"" ""/Product g2m"" ""/colClientUiReadyEvent Global\55848945-2CEA-4978-BF24-0C6A3B11E66E"" ""/sessionTrackingId e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP""",vionelso32,C:\Users\vionelso32\AppData\Local\GoToMeeting\9508,2965
+EB219HPI,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1048
+EB219HPI,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,vionelso32,C:\ProgramData\McAfee\McInstruTrack,3397
+EB219HPI,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",vionelso32,C:\Program Files\Common Files\McAfee\ModuleCore,5172
+EB219HPI,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,1228

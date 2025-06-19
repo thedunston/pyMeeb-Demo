@@ -1,0 +1,4 @@
+username,hostname,domain-admin,local-admin,domain-user,local-user
+bray.cooper,WB190DTJ,False,False,True,False
+eliza.brow,WB190DTJ,False,False,False,True
+james.kell,WB190DTJ,False,False,False,True

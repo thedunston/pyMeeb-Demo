@@ -1,0 +1,5 @@
+username,hostname,domain-admin,local-admin,domain-user,local-user
+bonnie.cox,SC0002YAT,False,False,True,False
+evadiaz,SC0002YAT,False,False,True,False
+jack.sander,SC0002YAT,False,False,False,True
+admin_8710481,SC0002YAT,False,True,False,True

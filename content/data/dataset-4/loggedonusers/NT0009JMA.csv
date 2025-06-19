@@ -1,0 +1,4 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,NT0009JMA,False,True
+jonathan.peterso,NT0009JMA,False,True
+michelande38,NT0009JMA,True,False

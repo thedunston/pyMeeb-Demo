@@ -1,0 +1,5 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,SC0002YAT,False,True
+bonnie.cox,SC0002YAT,True,False
+evadiaz,SC0002YAT,True,False
+jack.sander,SC0002YAT,False,True

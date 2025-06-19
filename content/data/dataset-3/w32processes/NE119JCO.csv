@@ -1,0 +1,58 @@
+hostname,name,arguments,username,path,pid
+NE119JCO,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",jad.wilson,C:\Program Files\RealVNC\VNC Viewer,531
+NE119JCO,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",lucas.mille27,c:\program files\common files\mcafee\modulecore,3051
+NE119JCO,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,2764
+NE119JCO,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,676
+NE119JCO,soffice.bin,"""C:\Program Files (x86)\OpenOffice 4\program\soffice.exe"" ""-env:OOO_CWD=2C:\\Program Files (x86)\\OpenOffice 4""",jonatha.harr78,C:\Program Files (x86)\OpenOffice 4\program,5855
+NE119JCO,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,lucas.mille27,C:\ProgramData\McAfee\McInstruTrack,4819
+NE119JCO,pcalua.exe,C:\Windows\System32\pcalua.exe -a C:\Windows\WmsSvc.dll,jad.wilson,C:\Windows\System32\pcalua.exe,108
+NE119JCO,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,6024
+NE119JCO,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",lucas.mille27,C:\Program Files\Common Files\McAfee\TaskScheduler,2624
+NE119JCO,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",lucas.mille27,C:\Program Files\Common Files\McAfee\ModuleCore,5665
+NE119JCO,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5352
+NE119JCO,OneDrive.exe,"""C:\Users\lucas.mille27\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",lucas.mille27,C:\Users\lucas.mille27\AppData\Local\Microsoft\OneDrive,3110
+NE119JCO,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,3400
+NE119JCO,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,6440
+NE119JCO,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",lucas.mille27,C:\Program Files\McAfee\WebAdvisor,694
+NE119JCO,taskhostex.exe,taskhostex.exe ,NT AUTHORITY\SYSTEM,C:\Windows\system32,4204
+NE119JCO,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,lucas.mille27,c:\program files\common files\mcafee\modulecore,5286
+NE119JCO,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,3960
+NE119JCO,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,2060
+NE119JCO,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,4824
+NE119JCO,AcroRd32.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe"" ",jonatha.harr78,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader,612
+NE119JCO,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",jonatha.harr78,C:\Program Files\internet explorer,3941
+NE119JCO,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,4436
+NE119JCO,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,3100
+NE119JCO,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",lucas.mille27,C:\Program Files\Common Files\McAfee\VSCore_18_6,3335
+NE119JCO,RdrCEF.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF.exe"" --type=renderer --disable-browser-side-navigation --disable-gpu-compositing --service-pipe-token=49849BA2F50EBF33EAD978C1E9CA6D55 --lang=en-US --disable-pack-loading --lang=en-US --log-file=""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\debug.log"" --log-severity=disable --product-version=""ReaderServices/19.8.20071 Chrome/64.0.3282.119"" --enable-pinch --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0 0 3553;0 1 3553;0 2 3553;0 3 3553;0 4 3553;0 5 3553;0 6 3553;0 7 3553;0 8 3553;0 9 3553;0 10 3553;0 11 3553;0 12 3553;0 13 3553;0 14 3553;0 15 3553;0 16 3553;0 17 3553;0 18 3553;1 0 3553;1 1 3553;1 2 3553;1 3 3553;1 4 3553;1 5 3553;1 6 3553;1 7 3553;1 8 3553;1 9 3553;1 10 3553;1 11 3553;1 12 3553;1 13 3553;1 14 3553;1 15 3553;1 16 3553;1 17 3553;1 18 3553;2 0 3553;2 1 3553;2 2 3553;2 3 3553;2 4 3553;2 5 3553;2 6 3553;2 7 3553;2 8 3553;2 9 3553;2 10 3553;2 11 3553;2 12 3553;2 13 3553;2 14 3553;2 15 3553;2 16 3553;2 17 3553;2 18 3553;3 0 3553;3 1 3553;3 2 3553;3 3 3553;3 4 3553;3 5 3553;3 6 3553;3 7 3553;3 8 3553;3 9 3553;3 10 3553;3 11 3553;3 12 3553;3 13 3553;3 14 3553;3 15 3553;3 16 3553;3 17 3553;3 18 3553;4 0 3553;4 1 3553;4 2 3553;4 3 3553;4 4 3553;4 5 3553;4 6 3553;4 7 3553;4 8 3553;4 9 3553;4 10 3553;4 11 3553;4 12 3553;4 13 3553;4 14 3553;4 15 3553;4 16 3553;4 17 3553;4 18 3553;5 0 3553;5 1 3553;5 2 3553;5 3 3553;5 4 3553;5 5 3553;5 6 3553;5 7 3553;5 8 3553;5 9 3553;5 10 3553;5 11 3553;5 12 3553;5 13 3553;5 14 3553;5 15 3553;5 16 3553;5 17 3553;5 18 3553;6 0 3553;6 1 3553;6 2 3553;6 3 3553;6 4 3553;6 5 3553;6 6 3553;6 7 3553;6 8 3553;6 9 3553;6 10 3553;6 11 3553;6 12 3553;6 13 3553;6 14 3553;6 15 3553;6 16 3553;6 17 3553;6 18 3553 --disable-accelerated-video-decode --service-request-channel-token=49849BA2F50EBF33EAD978C1E9CA6D55 --renderer-client-id=4 --mojo-platform-channel-handle=2328 --allow-no-sandbox-job /prefetch:1",jonatha.harr78,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF,943
+NE119JCO,RdrCEF.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF.exe"" --backgroundcolor=16514043",jonatha.harr78,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF,830
+NE119JCO,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4856
+NE119JCO,soffice.exe,"""C:\Program Files (x86)\OpenOffice 4\program\soffice.exe"" ",jonatha.harr78,C:\Program Files (x86)\OpenOffice 4\program,3160
+NE119JCO,AcroRd32.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe"" --type=renderer /prefetch:1",jonatha.harr78,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader,3380
+NE119JCO,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4120
+NE119JCO,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",lucas.mille27,C:\Program Files\McAfee\MfeAV,5091
+NE119JCO,CyberGhost.Service.exe,"""C:\Program Files\CyberGhost 6\CyberGhost.Service.exe""",jonatha.harr78,C:\Program Files\CyberGhost 6,3698
+NE119JCO,kitty-0.70.0.6.exe,"""C:\Users\jad.wilson\Documents\kitty-0.70.0.6.exe"" ",jad.wilson,C:\Users\jad.wilson\Documents,1672
+NE119JCO,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,5392
+NE119JCO,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",lucas.mille27,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,4179
+NE119JCO,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,836
+NE119JCO,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3424
+NE119JCO,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",lucas.mille27,C:\Program Files\Common Files\McAfee\Platform\Core,3775
+NE119JCO,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",lucas.mille27,C:\Program Files\McAfee\MAT,3471
+NE119JCO,wmiprvse.exe,C:\Windows\system32\wbem\wmiprvse.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32\wbem,4156
+NE119JCO,armsvc.exe,"""C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe""",jonatha.harr78,C:\Program Files (x86)\Common Files\Adobe\ARM\1.0,1704
+NE119JCO,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\lucas.mille27\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",lucas.mille27,C:\Users\lucas.mille27\AppData\Local\Temp\scoped_dir9616_4071,5848
+NE119JCO,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",lucas.mille27,C:\ProgramData\McAfee\Direct,4931
+NE119JCO,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",lucas.mille27,C:\Program Files\Common Files\McAfee\MMSSHost,980
+NE119JCO,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",jad.wilson,C:\Program Files\TightVNC,727
+NE119JCO,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",jad.wilson,C:\Program Files\TightVNC,1058
+NE119JCO,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5708
+NE119JCO,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,2824
+NE119JCO,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,2332
+NE119JCO,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4260
+NE119JCO,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",lucas.mille27,C:\Program Files\Common Files\McAfee\PEF\CORE,3708
+NE119JCO,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",lucas.mille27,C:\Program Files\Common Files\McAfee\AMCore,6460
+NE119JCO,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",lucas.mille27,C:\Program Files\Common Files\mcafee\Platform,3084
+NE119JCO,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,lucas.mille27,C:\ProgramData\McAfee\Direct,3294
+NE119JCO,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",lucas.mille27,C:\Program Files\McAfee\WebAdvisor,4357
+NE119JCO,mavinject.exe,C:\Windows\System32\mavinject.exe 5392 /INJECTRUNNING C:\Windows\Boot\PCAT\bfsvc.dll,NT AUTHORITY\SYSTEM,C:\Windows\System32\mavinject.exe,3012

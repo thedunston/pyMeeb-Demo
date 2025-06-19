@@ -1,0 +1,3 @@
+username,hostname,domain-admin,local-admin,domain-user,local-user
+patri.mitc,WN0000LLP,False,False,True,False
+bonnie.cox,WN0000LLP,False,True,True,False

@@ -1,0 +1,4 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,SE517BHT,False,True
+dev.thompso72,SE517BHT,True,False
+timbailey,SE517BHT,False,True

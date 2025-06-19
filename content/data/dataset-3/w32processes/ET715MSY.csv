@@ -1,0 +1,74 @@
+hostname,name,arguments,username,path,pid
+ET715MSY,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",erinsande,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,2714
+ET715MSY,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",erinsande,C:\Program Files\Common Files\McAfee\Platform\Core,1977
+ET715MSY,mspaint.exe,"""C:\Windows\system32\mspaint.exe"" ",erinsande,C:\Windows\system32,5920
+ET715MSY,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,erinsande,C:\ProgramData\McAfee\McInstruTrack,3350
+ET715MSY,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,1352
+ET715MSY,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",erinsande,C:\Program Files\McAfee\WebAdvisor,5109
+ET715MSY,g2mstart.exe,"""C:\Users\leabutl71\AppData\Local\GoToMeeting\9508\g2mstart.exe"" ""/Action Host"" ""/BrokerServiceSuffix @ISL1"" ""/Build 9508"" ""/Download Auto"" ""/EGWAddress 216.115.208.230"" ""/EGWDNS egwglobal.gotomeeting.com"" ""/EGWPort 80 443 8200"" ""/Mode Normal"" ""/Product g2m"" ""/colClientUiReadyEvent Global\55848945-2CEA-4978-BF24-0C6A3B11E66E"" ""/sessionTrackingId e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP""",leabutl71,C:\Users\leabutl71\AppData\Local\GoToMeeting\9508,4183
+ET715MSY,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,4584
+ET715MSY,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,2768
+ET715MSY,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,C:\Windows\System32,5412
+ET715MSY,soffice.bin,"""C:\Program Files (x86)\OpenOffice 4\program\soffice.exe"" ""-env:OOO_CWD=2C:\\Program Files (x86)\\OpenOffice 4""",erinsande,C:\Program Files (x86)\OpenOffice 4\program,2454
+ET715MSY,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",erinsande,C:\Program Files\McAfee\WebAdvisor,5397
+ET715MSY,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,5764
+ET715MSY,pcalua.exe,C:\Windows\System32\pcalua.exe -a C:\Windows\servicing\tcpsvcs.dll,Lost_367843,C:\Windows\System32\pcalua.exe,552
+ET715MSY,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,6000
+ET715MSY,TabTip32.exe,/loadhooks /Parent:0000000000001188,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,5008
+ET715MSY,g2mcomm.exe,"""C:\Users\leabutl71\AppData\Local\GoToMeeting\9508\g2mcomm.exe"" ""Action=Host&amp;BrokerServiceSuffix=@ISL1&amp;Build=9508&amp;colClientUiReadyEvent=Global\55848945-2CEA-4978-BF24-0C6A3B11E66E&amp;Digest=1bc982ef0552b1fb859a423b1f290ef0&amp;Dir=C:\Users\leabutl71\AppData\Local\GoToMeeting\9508\&amp;Download=Auto&amp;EGWAddress=216.115.208.230&amp;EGWDNS=egwglobal.gotomeeting.com&amp;EGWPort=80 443 8200&amp;LoaderPath=C:\Users\leabutl71\AppData\Local\GoToMeeting\9508\g2mstart.exe&amp;LogName=c:\users\leabutl71\appdata\local\temp\logmeinlogs\gotomeeting\9508\2018-10-29_12.04.18.379\GoToMeeting.log&amp;Mode=Normal&amp;Path=g2mlauncher.exe&amp;Plugin=G2MLauncher&amp;Product=g2m&amp;sessionTrackingId=e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP&amp;UniqueId=16cc""",leabutl71,C:\Users\leabutl71\AppData\Local\GoToMeeting\9508,2567
+ET715MSY,WINWORD.EXE,"""C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"" ",justimoo90,C:\Program Files\Microsoft Office\root\Office16,5807
+ET715MSY,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,2392
+ET715MSY,mspaint.exe,"""C:\Windows\system32\mspaint.exe"" ",justimoo90,C:\Windows\system32,1179
+ET715MSY,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,erinsande,c:\program files\common files\mcafee\modulecore,1305
+ET715MSY,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",erinsande,C:\Program Files\TightVNC,6158
+ET715MSY,soffice.exe,"""C:\Program Files (x86)\OpenOffice 4\program\soffice.exe"" ",erinsande,C:\Program Files (x86)\OpenOffice 4\program,616
+ET715MSY,MpCmdRun.exe,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Defender,6368
+ET715MSY,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,904
+ET715MSY,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1956
+ET715MSY,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",erinsande,C:\Program Files\Common Files\McAfee\ModuleCore,5582
+ET715MSY,slack.exe,"""C:\Users\justimoo90\AppData\Local\slack\app-3.1.1\slack.exe""",justimoo90,C:\Users\justimoo90\AppData\Local\slack\app-3.1.1,4038
+ET715MSY,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,1340
+ET715MSY,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",erinsande,C:\Program Files\McAfee\MfeAV,3417
+ET715MSY,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4244
+ET715MSY,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2160
+ET715MSY,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",erinsande,C:\Program Files\Common Files\McAfee\MMSSHost,296
+ET715MSY,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,4200
+ET715MSY,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},NT AUTHORITY\SYSTEM,C:\Windows\system32,6416
+ET715MSY,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,4756
+ET715MSY,mavinject.exe,C:\Windows\System32\mavinject.exe 4952 /INJECTRUNNING C:\Windows\aspnet_state.dll,NT AUTHORITY\SYSTEM,C:\Windows\System32\mavinject.exe,120
+ET715MSY,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",erinsande,C:\ProgramData\McAfee\Direct,4907
+ET715MSY,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,3192
+ET715MSY,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",justimoo90,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,5558
+ET715MSY,slack.exe,"""C:\Users\justimoo90\AppData\Local\slack\app-3.1.1\slack.exe"" --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=B3F36050C50A99BD488162270E67D4DD --lang=en-GB --standard-schemes=slack-resources slack-sounds slack-webapp-dev --app-user-model-id=com.squirrel.slack.slack --app-path=""C:\Users\justimoo90\AppData\Local\slack\app-3.1.1\resources\app.asar"" --node-integration=true --webview-tag=false --no-sandbox --preload=""C:\Users\justimoo90\AppData\Local\slack\app-3.1.1\resources\app.asar\src\static\index.js"" --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0 0 3553;0 1 3553;0 2 3553;0 3 3553;0 4 3553;0 5 3553;0 6 3553;0 7 3553;0 8 3553;0 9 3553;0 10 3553;0 11 3553;0 12 3553;0 13 3553;0 14 3553;0 15 3553;0 16 3553;1 0 3553;1 1 3553;1 2 3553;1 3 3553;1 4 3553;1 5 3553;1 6 3553;1 7 3553;1 8 3553;1 9 3553;1 10 3553;1 11 3553;1 12 3553;1 13 3553;1 14 3553;1 15 3553;1 16 3553;2 0 3553;2 1 3553;2 2 3553;2 3 3553;2 4 3553;2 5 3553;2 6 3553;2 7 3553;2 8 3553;2 9 3553;2 10 3553;2 11 3553;2 12 3553;2 13 3553;2 14 3553;2 15 3553;2 16 3553;3 0 3553;3 1 3553;3 2 3553;3 3 3553;3 4 3553;3 5 3553;3 6 3553;3 7 3553;3 8 3553;3 9 3553;3 10 3553;3 11 3553;3 12 3553;3 13 3553;3 14 3553;3 15 3553;3 16 3553;4 0 3553;4 1 3553;4 2 3553;4 3 3553;4 4 3553;4 5 3553;4 6 3553;4 7 3553;4 8 3553;4 9 3553;4 10 3553;4 11 3553;4 12 3553;4 13 3553;4 14 3553;4 15 3553;4 16 3553 --service-request-channel-token=B3F36050C50A99BD488162270E67D4DD --renderer-client-id=8 --mojo-platform-channel-handle=2336 /prefetch:1",justimoo90,C:\Users\justimoo90\AppData\Local\slack\app-3.1.1,4923
+ET715MSY,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",erinsande,C:\Program Files\RealVNC\VNC Viewer,3620
+ET715MSY,slack.exe,"C:\Users\justimoo90\AppData\Local\slack\app-3.1.1\slack.exe --reporter-url=https://slack.com/apps/breakpad?instanceUid=c116fa6f-e78f-4f7e-9927-09567265c493&amp;version=3.1.1&amp;channel=prod --application-name=Slack ""--crashes-directory=C:\Users\justimoo90\AppData\Local\Temp\Slack Crashes"" --v=1",justimoo90,C:\Users\justimoo90\AppData\Local\slack\app-3.1.1,4523
+ET715MSY,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,916
+ET715MSY,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",erinsande,C:\Program Files\McAfee\MAT,604
+ET715MSY,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5488
+ET715MSY,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",erinsande,C:\Program Files\Common Files\McAfee\AMCore,4070
+ET715MSY,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,NT AUTHORITY\SYSTEM,C:\Windows\system32,4128
+ET715MSY,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,3584
+ET715MSY,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",erinsande,C:\Program Files\Common Files\McAfee\TaskScheduler,4926
+ET715MSY,LogonUI.exe,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",NT AUTHORITY\SYSTEM,C:\Windows\system32,5864
+ET715MSY,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,6308
+ET715MSY,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,erinsande,C:\ProgramData\McAfee\Direct,5957
+ET715MSY,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",erinsande,C:\Program Files\Common Files\McAfee\VSCore_18_6,4094
+ET715MSY,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",erinsande,C:\Program Files\Common Files\mcafee\Platform,3694
+ET715MSY,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel,NT AUTHORITY\SYSTEM,C:\Windows\system32,4952
+ET715MSY,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,4460
+ET715MSY,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,3636
+ET715MSY,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,6236
+ET715MSY,slack.exe,"""C:\Users\justimoo90\AppData\Local\slack\app-3.1.1\slack.exe"" --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=7 10 11 20 24 26 43 63 76 --disable-gl-extensions=""GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent"" --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor=""Intel Corporation"" --gpu-driver-version=20.19.15.4331 --gpu-driver-date=11-18-2015 --service-request-channel-token=801A57F64621336F74806802DB83B30B --mojo-platform-channel-handle=1628 /prefetch:2",justimoo90,C:\Users\justimoo90\AppData\Local\slack\app-3.1.1,5878
+ET715MSY,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,4052
+ET715MSY,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2504
+ET715MSY,OneDrive.exe,"""C:\Users\justimoo90\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",justimoo90,C:\Users\justimoo90\AppData\Local\Microsoft\OneDrive,613
+ET715MSY,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2284
+ET715MSY,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,3724
+ET715MSY,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,536
+ET715MSY,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,1424
+ET715MSY,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",leabutl71,C:\Program Files\internet explorer,5376
+ET715MSY,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,4252
+ET715MSY,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",erinsande,C:\Program Files\Common Files\McAfee\PEF\CORE,3189
+ET715MSY,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\erinsande\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",erinsande,C:\Users\erinsande\AppData\Local\Temp\scoped_dir9616_4071,5380
+ET715MSY,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",erinsande,c:\program files\common files\mcafee\modulecore,6089
+ET715MSY,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",erinsande,C:\Program Files\TightVNC,3918

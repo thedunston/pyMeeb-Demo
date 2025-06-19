@@ -1,0 +1,4 @@
+username,hostname,domain-admin,local-admin,domain-user,local-user
+came.smith80,NT0003VEO,False,True,True,False
+darrob96,NT0003VEO,False,False,True,False
+svc_gc,NT0003VEO,True,False,True,False

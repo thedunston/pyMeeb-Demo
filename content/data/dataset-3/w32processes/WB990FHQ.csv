@@ -1,0 +1,60 @@
+hostname,name,arguments,username,path,pid
+WB990FHQ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4220
+WB990FHQ,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",haydesanch39,C:\Program Files\Common Files\McAfee\AMCore,3056
+WB990FHQ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,6204
+WB990FHQ,SearchProtocolHost.exe,"""C:\Windows\system32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe15_ Global\UsGthrCtrlFltPipeMssGthrPipe15 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon"" ",NT AUTHORITY\SYSTEM,C:\Windows\system32,3508
+WB990FHQ,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,3932
+WB990FHQ,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",haydesanch39,C:\Program Files\Common Files\McAfee\Platform\Core,548
+WB990FHQ,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",ryangray81,C:\Program Files\TightVNC,976
+WB990FHQ,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",haydesanch39,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,5936
+WB990FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,5952
+WB990FHQ,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,haydesanch39,C:\ProgramData\McAfee\McInstruTrack,2429
+WB990FHQ,wmpnetwk.exe,"""C:\Program Files\Windows Media Player\wmpnetwk.exe""",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Media Player,5888
+WB990FHQ,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",haydesanch39,C:\Program Files\Common Files\McAfee\MMSSHost,362
+WB990FHQ,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,1184
+WB990FHQ,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1240
+WB990FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,4696
+WB990FHQ,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",haydesanch39,C:\Program Files\Common Files\mcafee\Platform,4784
+WB990FHQ,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2140
+WB990FHQ,sppsvc.exe,C:\Windows\system32\sppsvc.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5448
+WB990FHQ,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\haydesanch39\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",haydesanch39,C:\Users\haydesanch39\AppData\Local\Temp\scoped_dir9616_4071,4838
+WB990FHQ,TrustedInstaller.exe,C:\Windows\servicing\TrustedInstaller.exe,NT AUTHORITY\SYSTEM,C:\Windows\servicing,4896
+WB990FHQ,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,haydesanch39,c:\program files\common files\mcafee\modulecore,1817
+WB990FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,16
+WB990FHQ,Calculator.exe,"""C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1809.2731.0_x64__8wekyb3d8bbwe\Calculator.exe"" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca",haydesanch39,C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1809.2731.0_x64__8wekyb3d8bbwe,4786
+WB990FHQ,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",ryangray81,C:\Program Files\TightVNC,2291
+WB990FHQ,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",haydesanch39,C:\Program Files\McAfee\WebAdvisor,3730
+WB990FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,4280
+WB990FHQ,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",haydesanch39,C:\Program Files\McAfee\MfeAV,311
+WB990FHQ,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",haydesanch39,C:\Program Files\McAfee\WebAdvisor,4300
+WB990FHQ,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",haydesanch39,C:\Program Files\Common Files\McAfee\PEF\CORE,561
+WB990FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,592
+WB990FHQ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServicePeerNet,NT AUTHORITY\SYSTEM,C:\Windows\System32,1388
+WB990FHQ,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",haydesanch39,C:\Program Files\McAfee\MAT,1894
+WB990FHQ,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,haydesanch39,C:\ProgramData\McAfee\Direct,4830
+WB990FHQ,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",haydesanch39,C:\Program Files\Common Files\McAfee\TaskScheduler,3769
+WB990FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,4216
+WB990FHQ,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",haydesanch39,C:\Program Files\Common Files\McAfee\ModuleCore,2064
+WB990FHQ,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5016
+WB990FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,1036
+WB990FHQ,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3720
+WB990FHQ,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5364
+WB990FHQ,OneDrive.exe,"""C:\Users\zacrobi\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",zacrobi,C:\Users\zacrobi\AppData\Local\Microsoft\OneDrive,2898
+WB990FHQ,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,4720
+WB990FHQ,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",zacrobi,C:\Program Files\internet explorer,5876
+WB990FHQ,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4404
+WB990FHQ,GitHubDesktop.exe,"""C:\Users\zacrobi\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --squirrel-firstrun",zacrobi,C:\Users\zacrobi\AppData\Local\GitHubDesktop\app-1.4.3,654
+WB990FHQ,KeePassXC.exe,"""C:\Program Files\KeePassXC\KeePassXC.exe"" ",haydesanch39,C:\Program Files\KeePassXC,5482
+WB990FHQ,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",haydesanch39,c:\program files\common files\mcafee\modulecore,2474
+WB990FHQ,SearchIndexer.exe,C:\Windows\system32\SearchIndexer.exe /Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,1952
+WB990FHQ,wuauclt.exe,"""C:\Windows\system32\wuauclt.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2016
+WB990FHQ,VBoxService.exe,C:\Windows\System32\VBoxService.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5656
+WB990FHQ,GitHubDesktop.exe,"""C:\Users\zacrobi\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=9 12 13 23 27 29 49 70 84 --disable-gl-extensions=""GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent"" --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor=""Intel Corporation"" --gpu-driver-version=20.19.15.4331 --gpu-driver-date=11-18-2015 --service-request-channel-token=29571E74A71F5219E432184D13D76C95 --mojo-platform-channel-handle=1732 /prefetch:2",zacrobi,C:\Users\zacrobi\AppData\Local\GitHubDesktop\app-1.4.3,3782
+WB990FHQ,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",haydesanch39,C:\Program Files\Common Files\McAfee\VSCore_18_6,3164
+WB990FHQ,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4736
+WB990FHQ,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",ryangray81,C:\Program Files\RealVNC\VNC Viewer,5643
+WB990FHQ,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3824
+WB990FHQ,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",ryangray81,C:\Windows\system32,5282
+WB990FHQ,svchost.exe,C:\Windows\System32\svchost.exe -k secsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,1900
+WB990FHQ,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",haydesanch39,C:\ProgramData\McAfee\Direct,404
+WB990FHQ,conhost.exe,\??\C:\Windows\system32\conhost.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2352

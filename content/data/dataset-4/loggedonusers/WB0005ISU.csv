@@ -1,0 +1,5 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,WB0005ISU,False,True
+Administrator,WB0005ISU,True,False
+matilbroo,WB0005ISU,True,False
+annflore,WB0005ISU,True,False

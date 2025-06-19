@@ -1,0 +1,5 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,EC800MUT,False,True
+bla.carter18,EC800MUT,True,False
+eliza.ram,EC800MUT,True,False
+themartin,EC800MUT,True,False

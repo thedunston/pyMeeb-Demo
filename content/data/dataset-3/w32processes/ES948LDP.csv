@@ -1,0 +1,69 @@
+hostname,name,arguments,username,path,pid
+ES948LDP,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",jesse.ross8,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,2891
+ES948LDP,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,5796
+ES948LDP,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{3EAE8C5E-B51F-4CBD-9DCE-FA6AA0BDF8B8},NT AUTHORITY\SYSTEM,C:\Windows\system32,3004
+ES948LDP,python.exe,"""C:\Users\jesse.ross8\AppData\Local\Programs\Python\Python37\python.exe"" ",jesse.ross8,C:\Users\jesse.ross8\AppData\Local\Programs\Python\Python37,872
+ES948LDP,slack.exe,"C:\Users\jesse.ross8\AppData\Local\slack\app-3.1.1\slack.exe --reporter-url=https://slack.com/apps/breakpad?instanceUid=c116fa6f-e78f-4f7e-9927-09567265c493&amp;version=3.1.1&amp;channel=prod --application-name=Slack ""--crashes-directory=C:\Users\jesse.ross8\AppData\Local\Temp\Slack Crashes"" --v=1",jesse.ross8,C:\Users\jesse.ross8\AppData\Local\slack\app-3.1.1,2726
+ES948LDP,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2364
+ES948LDP,conhost.exe,"\??\C:\Windows\system32\conhost.exe ""-29887463320281528418771495882049435123649789771-108284301750553232-1762948263",NT AUTHORITY\SYSTEM,C:\Windows\system32,6348
+ES948LDP,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,jesse.ross8,C:\ProgramData\McAfee\McInstruTrack,2971
+ES948LDP,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,2220
+ES948LDP,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,6120
+ES948LDP,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,892
+ES948LDP,git-bash.exe,"""C:\Program Files\Git\git-bash.exe"" ""--cd=C:\Users\jesse.ross8\Desktop.""",jesse.ross8,C:\Program Files\Git,3086
+ES948LDP,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",jesse.ross8,C:\Program Files\Common Files\McAfee\ModuleCore,4812
+ES948LDP,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,jesse.ross8,c:\program files\common files\mcafee\modulecore,6028
+ES948LDP,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",jesse.ross8,C:\Program Files\Common Files\McAfee\AMCore,4249
+ES948LDP,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5256
+ES948LDP,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3640
+ES948LDP,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",jesse.ross8,C:\Program Files\TightVNC,3495
+ES948LDP,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,3296
+ES948LDP,slack.exe,"""C:\Users\jesse.ross8\AppData\Local\slack\app-3.1.1\slack.exe"" --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=7 10 11 20 24 26 43 63 76 --disable-gl-extensions=""GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent"" --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor=""Intel Corporation"" --gpu-driver-version=20.19.15.4331 --gpu-driver-date=11-18-2015 --service-request-channel-token=801A57F64621336F74806802DB83B30B --mojo-platform-channel-handle=1628 /prefetch:2",jesse.ross8,C:\Users\jesse.ross8\AppData\Local\slack\app-3.1.1,2813
+ES948LDP,OneDrive.exe,"""C:\Users\imog.kelly62\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",imog.kelly62,C:\Users\imog.kelly62\AppData\Local\Microsoft\OneDrive,3025
+ES948LDP,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",jesse.ross8,C:\Program Files\TightVNC,6086
+ES948LDP,reg.exe,"C:\Windows\System32\reg.exe add ""HKEY_CURRENT_USER\Control Panel\Desktop"" /v ScreenSaveActive /t REG_SZ /d 1 /f",imog.kelly62,C:\Windows\System32\reg.exe,3028
+ES948LDP,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,4756
+ES948LDP,mintty.exe,"usr\bin\mintty.exe --nodaemon -o AppID=GitForWindows.Bash -o AppLaunchCmd=""C:\Program Files\Git\git-bash.exe"" -o AppName=""Git Bash"" -i ""C:\Program Files\Git\git-bash.exe"" --store-taskbar-properties -- /usr/bin/bash --login -i",jesse.ross8,C:\Program Files\Git\usr\bin,3259
+ES948LDP,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\jesse.ross8\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",jesse.ross8,C:\Users\jesse.ross8\AppData\Local\Temp\scoped_dir9616_4071,4344
+ES948LDP,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",jesse.ross8,C:\Program Files\Common Files\McAfee\PEF\CORE,4605
+ES948LDP,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4556
+ES948LDP,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",jesse.ross8,C:\Program Files\McAfee\WebAdvisor,5309
+ES948LDP,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,6304
+ES948LDP,slack.exe,"""C:\Users\jesse.ross8\AppData\Local\slack\app-3.1.1\slack.exe""",jesse.ross8,C:\Users\jesse.ross8\AppData\Local\slack\app-3.1.1,4973
+ES948LDP,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",jesse.ross8,C:\ProgramData\McAfee\Direct,5991
+ES948LDP,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5212
+ES948LDP,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",jesse.ross8,C:\Program Files\McAfee\MfeAV,2321
+ES948LDP,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,1892
+ES948LDP,slack.exe,"""C:\Users\jesse.ross8\AppData\Local\slack\app-3.1.1\slack.exe"" --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=B3F36050C50A99BD488162270E67D4DD --lang=en-GB --standard-schemes=slack-resources slack-sounds slack-webapp-dev --app-user-model-id=com.squirrel.slack.slack --app-path=""C:\Users\jesse.ross8\AppData\Local\slack\app-3.1.1\resources\app.asar"" --node-integration=true --webview-tag=false --no-sandbox --preload=""C:\Users\jesse.ross8\AppData\Local\slack\app-3.1.1\resources\app.asar\src\static\index.js"" --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0 0 3553;0 1 3553;0 2 3553;0 3 3553;0 4 3553;0 5 3553;0 6 3553;0 7 3553;0 8 3553;0 9 3553;0 10 3553;0 11 3553;0 12 3553;0 13 3553;0 14 3553;0 15 3553;0 16 3553;1 0 3553;1 1 3553;1 2 3553;1 3 3553;1 4 3553;1 5 3553;1 6 3553;1 7 3553;1 8 3553;1 9 3553;1 10 3553;1 11 3553;1 12 3553;1 13 3553;1 14 3553;1 15 3553;1 16 3553;2 0 3553;2 1 3553;2 2 3553;2 3 3553;2 4 3553;2 5 3553;2 6 3553;2 7 3553;2 8 3553;2 9 3553;2 10 3553;2 11 3553;2 12 3553;2 13 3553;2 14 3553;2 15 3553;2 16 3553;3 0 3553;3 1 3553;3 2 3553;3 3 3553;3 4 3553;3 5 3553;3 6 3553;3 7 3553;3 8 3553;3 9 3553;3 10 3553;3 11 3553;3 12 3553;3 13 3553;3 14 3553;3 15 3553;3 16 3553;4 0 3553;4 1 3553;4 2 3553;4 3 3553;4 4 3553;4 5 3553;4 6 3553;4 7 3553;4 8 3553;4 9 3553;4 10 3553;4 11 3553;4 12 3553;4 13 3553;4 14 3553;4 15 3553;4 16 3553 --service-request-channel-token=B3F36050C50A99BD488162270E67D4DD --renderer-client-id=8 --mojo-platform-channel-handle=2336 /prefetch:1",jesse.ross8,C:\Users\jesse.ross8\AppData\Local\slack\app-3.1.1,330
+ES948LDP,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,4672
+ES948LDP,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe Get-Date,imog.kelly62,C:\Windows\System32\powershell.exe,1580
+ES948LDP,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",jesse.ross8,C:\Program Files\Common Files\mcafee\Platform,1709
+ES948LDP,kitty-0.70.0.6.exe,"""C:\Users\jesse.ross8\Documents\kitty-0.70.0.6.exe"" ",jesse.ross8,C:\Users\jesse.ross8\Documents,4309
+ES948LDP,reg.exe,"C:\Windows\System32\reg.exe add ""HKEY_CURRENT_USER\Control Panel\Desktop"" /v ScreenSaverIsSecure /t REG_SZ /d 0 /f",jesse.ross8,C:\Windows\System32\reg.exe,1868
+ES948LDP,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,2456
+ES948LDP,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\System32,4588
+ES948LDP,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,1596
+ES948LDP,WINWORD.EXE,"""C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"" ",jesse.ross8,C:\Program Files\Microsoft Office\root\Office16,1762
+ES948LDP,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",jesse.ross8,C:\Program Files\Common Files\McAfee\Platform\Core,5529
+ES948LDP,bash.exe,"""C:\Program Files\Git\usr\bin\bash.exe""",jesse.ross8,C:\Program Files\Git\usr\bin,999
+ES948LDP,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,3052
+ES948LDP,svchost.exe,C:\Windows\system32\svchost.exe -k regsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,5636
+ES948LDP,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",jesse.ross8,C:\Program Files\McAfee\MAT,2340
+ES948LDP,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,3620
+ES948LDP,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",jesse.ross8,C:\Program Files\internet explorer,1940
+ES948LDP,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",jesse.ross8,C:\Program Files\Common Files\McAfee\VSCore_18_6,6225
+ES948LDP,SkypeBackgroundHost.exe,"""C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe"" -ServerName:SkypeBackgroundHost",imog.kelly62,C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c,1890
+ES948LDP,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,1328
+ES948LDP,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",jesse.ross8,c:\program files\common files\mcafee\modulecore,3660
+ES948LDP,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",jesse.ross8,C:\Program Files\RealVNC\VNC Viewer,4990
+ES948LDP,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,1792
+ES948LDP,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,jesse.ross8,C:\ProgramData\McAfee\Direct,2039
+ES948LDP,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",jesse.ross8,C:\Program Files\Common Files\McAfee\MMSSHost,696
+ES948LDP,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,6076
+ES948LDP,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",jesse.ross8,C:\Program Files\Common Files\McAfee\TaskScheduler,1944
+ES948LDP,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",jesse.ross8,C:\Program Files\McAfee\WebAdvisor,6079
+ES948LDP,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,6212
+ES948LDP,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3212
+ES948LDP,Microsoft.Notes.exe,"""C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.0.119.0_x64__8wekyb3d8bbwe\Microsoft.Notes.exe"" -ServerName:App.AppX495fygk72hjw82j58ny5h3nr8hpsd8vs.mca",jesse.ross8,C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.0.119.0_x64__8wekyb3d8bbwe,3807
+ES948LDP,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe Get-Date,imog.kelly62,C:\Windows\System32\powershell.exe,3608
+ES948LDP,reg.exe,"C:\Windows\System32\reg.exe add ""HKEY_CURRENT_USER\Control Panel\Desktop"" /v ScreenSaverTimeout /t REG_SZ /d 60 /f",jesse.ross8,C:\Windows\System32\reg.exe,2888

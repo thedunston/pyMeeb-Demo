@@ -1,0 +1,63 @@
+hostname,name,arguments,username,path,pid
+SB682YOC,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",alexander.bell53,C:\Program Files\TightVNC,3558
+SB682YOC,putty.exe,"""C:\Program Files\PuTTY\putty.exe"" ",alexander.bell53,C:\Program Files\PuTTY,4712
+SB682YOC,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",jackrod,C:\Program Files\Common Files\McAfee\VSCore_18_6,4025
+SB682YOC,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",jackrod,C:\Program Files\McAfee\MfeAV,1022
+SB682YOC,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,3832
+SB682YOC,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",jackrod,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,4246
+SB682YOC,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",jackrod,c:\program files\common files\mcafee\modulecore,2822
+SB682YOC,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2684
+SB682YOC,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",jackrod,C:\Program Files\Common Files\McAfee\ModuleCore,1202
+SB682YOC,SkypeBackgroundHost.exe,"""C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe"" -ServerName:SkypeBackgroundHost",alexander.bell53,C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c,1196
+SB682YOC,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",jackrod,C:\Program Files\Common Files\mcafee\Platform,5867
+SB682YOC,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,jackrod,c:\program files\common files\mcafee\modulecore,850
+SB682YOC,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,368
+SB682YOC,svchost.exe,C:\Windows\system32\svchost.exe -k regsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,1984
+SB682YOC,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,1420
+SB682YOC,OneDrive.exe,"""C:\Users\sophithom\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",sophithom,C:\Users\sophithom\AppData\Local\Microsoft\OneDrive,3189
+SB682YOC,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",jackrod,C:\Program Files\Common Files\McAfee\Platform\Core,2281
+SB682YOC,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",alexander.bell53,C:\Program Files\TightVNC,4151
+SB682YOC,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2628
+SB682YOC,sqlservr.exe,"""C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn\sqlservr.exe"" -sSQLEXPRESS",jackrod,C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn,5999
+SB682YOC,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4968
+SB682YOC,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",jackrod,C:\Program Files\McAfee\WebAdvisor,5764
+SB682YOC,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",jackrod,C:\Program Files\Common Files\McAfee\PEF\CORE,4999
+SB682YOC,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,3544
+SB682YOC,pcalua.exe,C:\Windows\System32\pcalua.exe -a C:\Program Files\Common Files\Services\Microsoft.UpdateServices.UI.OOBEWizard.dll,Lost_102634,C:\Windows\System32\pcalua.exe,4476
+SB682YOC,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",jackrod,C:\Program Files\Common Files\McAfee\TaskScheduler,572
+SB682YOC,git-bash.exe,"""C:\Program Files\Git\git-bash.exe"" ""--cd=C:\Users\alexander.bell53\Desktop.""",alexander.bell53,C:\Program Files\Git,3196
+SB682YOC,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,2760
+SB682YOC,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,3608
+SB682YOC,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,3224
+SB682YOC,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\jackrod\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",jackrod,C:\Users\jackrod\AppData\Local\Temp\scoped_dir9616_4071,4303
+SB682YOC,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,6032
+SB682YOC,kitty-0.70.0.6.exe,"""C:\Users\sophithom\Documents\kitty-0.70.0.6.exe"" ",sophithom,C:\Users\sophithom\Documents,2478
+SB682YOC,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,3368
+SB682YOC,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5440
+SB682YOC,conhost.exe,"\??\C:\Windows\system32\conhost.exe ""-29887463320281528418771495882049435123649789771-108284301750553232-1762948263",NT AUTHORITY\SYSTEM,C:\Windows\system32,5060
+SB682YOC,mspaint.exe,"""C:\Windows\system32\mspaint.exe"" ",jackrod,C:\Windows\system32,2342
+SB682YOC,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3616
+SB682YOC,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",jackrod,C:\ProgramData\McAfee\Direct,1656
+SB682YOC,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,1256
+SB682YOC,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2872
+SB682YOC,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2156
+SB682YOC,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3812
+SB682YOC,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\System32,4568
+SB682YOC,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",alexander.bell53,C:\Program Files\RealVNC\VNC Viewer,5227
+SB682YOC,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,3060
+SB682YOC,bash.exe,"""C:\Program Files\Git\usr\bin\bash.exe""",alexander.bell53,C:\Program Files\Git\usr\bin,3488
+SB682YOC,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",jackrod,C:\Program Files\McAfee\MAT,3247
+SB682YOC,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{3EAE8C5E-B51F-4CBD-9DCE-FA6AA0BDF8B8},NT AUTHORITY\SYSTEM,C:\Windows\system32,2580
+SB682YOC,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,5104
+SB682YOC,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,244
+SB682YOC,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,jackrod,C:\ProgramData\McAfee\McInstruTrack,5052
+SB682YOC,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",jackrod,C:\Program Files\internet explorer,1539
+SB682YOC,putty.exe,"""C:\Program Files\PuTTY\putty.exe"" ",sophithom,C:\Program Files\PuTTY,4334
+SB682YOC,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",jackrod,C:\Program Files\Common Files\McAfee\AMCore,2808
+SB682YOC,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,jackrod,C:\ProgramData\McAfee\Direct,5375
+SB682YOC,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,20
+SB682YOC,mavinject.exe,C:\Windows\System32\mavinject.exe 1420 /INJECTRUNNING C:\Program Files\Common Files\Internet Explorer\instnm.dll,NT AUTHORITY\SYSTEM,C:\Windows\System32\mavinject.exe,844
+SB682YOC,mintty.exe,"usr\bin\mintty.exe --nodaemon -o AppID=GitForWindows.Bash -o AppLaunchCmd=""C:\Program Files\Git\git-bash.exe"" -o AppName=""Git Bash"" -i ""C:\Program Files\Git\git-bash.exe"" --store-taskbar-properties -- /usr/bin/bash --login -i",alexander.bell53,C:\Program Files\Git\usr\bin,5761
+SB682YOC,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",jackrod,C:\Program Files\McAfee\WebAdvisor,3275
+SB682YOC,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",jackrod,C:\Program Files\Common Files\McAfee\MMSSHost,2410
+SB682YOC,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,380

@@ -1,0 +1,46 @@
+hostname,name,arguments,username,path,pid
+738QRINB,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5024
+738QRINB,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,3392
+738QRINB,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,5080
+738QRINB,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServicePeerNet,NT AUTHORITY\SYSTEM,C:\Windows\System32,3300
+738QRINB,chrome.exe,"""C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"" --type=renderer --field-trial-handle=1556 1270622256617353588 15561965010207222735 131072 --service-pipe-token=1352282089870284743 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --service-request-channel-token=1352282089870284743 --renderer-client-id=45 --mojo-platform-channel-handle=7884 /prefetch:1",aidebennet81,C:\Program Files (x86)\Google\Chrome\Application,6407
+738QRINB,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,5228
+738QRINB,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",austincoll,C:\Program Files\TightVNC,2477
+738QRINB,mbam.exe,"""C:\Program Files\Malwarebytes\Anti-Malware\mbam.exe""",aidebennet81,C:\Program Files\Malwarebytes\Anti-Malware,1785
+738QRINB,SearchProtocolHost.exe,"""C:\Windows\system32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe15_ Global\UsGthrCtrlFltPipeMssGthrPipe15 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon"" ",NT AUTHORITY\SYSTEM,C:\Windows\system32,3328
+738QRINB,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4000
+738QRINB,wmpnetwk.exe,"""C:\Program Files\Windows Media Player\wmpnetwk.exe""",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Media Player,1768
+738QRINB,cmd.exe,"""C:\Windows\system32\cmd.exe"" ",aidebennet81,C:\Windows\system32,1983
+738QRINB,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4328
+738QRINB,vmware-usbarbitrator64.exe,"""C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe""",austincoll,C:\Program Files (x86)\Common Files\VMware\USB,6296
+738QRINB,mbamservice.exe,"""C:\Program Files\Malwarebytes\Anti-Malware\mbamservice.exe""",aidebennet81,C:\Program Files\Malwarebytes\Anti-Malware,5368
+738QRINB,OneDrive.exe,"""C:\Users\austincoll\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",austincoll,C:\Users\austincoll\AppData\Local\Microsoft\OneDrive,4180
+738QRINB,wuauclt.exe,"""C:\Windows\system32\wuauclt.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,328
+738QRINB,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5984
+738QRINB,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,4424
+738QRINB,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5196
+738QRINB,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,6340
+738QRINB,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,5180
+738QRINB,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,124
+738QRINB,TrustedInstaller.exe,C:\Windows\servicing\TrustedInstaller.exe,NT AUTHORITY\SYSTEM,C:\Windows\servicing,3840
+738QRINB,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,1804
+738QRINB,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,3812
+738QRINB,VBoxService.exe,C:\Windows\System32\VBoxService.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,664
+738QRINB,KeePassXC.exe,"""C:\Program Files\KeePassXC\KeePassXC.exe"" ",austincoll,C:\Program Files\KeePassXC,4217
+738QRINB,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,1284
+738QRINB,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",austincoll,C:\Program Files\TightVNC,5933
+738QRINB,vmware-authd.exe,"""C:\Program Files (x86)\VMware\VMware Player\vmware-authd.exe""",austincoll,C:\Program Files (x86)\VMware\VMware Player,3368
+738QRINB,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4236
+738QRINB,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,5040
+738QRINB,KeePassXC.exe,"""C:\Program Files\KeePassXC\KeePassXC.exe"" ",aidebennet81,C:\Program Files\KeePassXC,6024
+738QRINB,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2416
+738QRINB,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /uac",evamorg,C:\Program Files\CCleaner,5491
+738QRINB,sppsvc.exe,C:\Windows\system32\sppsvc.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2548
+738QRINB,Program.exe,Files\CCleaner\CCUpdate.exe,aidebennet81,C:\Program.exe,5144
+738QRINB,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4964
+738QRINB,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,568
+738QRINB,SearchIndexer.exe,C:\Windows\system32\SearchIndexer.exe /Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,1220
+738QRINB,svchost.exe,C:\Windows\System32\svchost.exe -k secsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,1436
+738QRINB,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",austincoll,C:\Program Files\RealVNC\VNC Viewer,2786
+738QRINB,conhost.exe,\??\C:\Windows\system32\conhost.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,6332
+738QRINB,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /MONITOR /uac",evamorg,C:\Program Files\CCleaner,3533

@@ -1,0 +1,121 @@
+hostname,name,arguments,username,path,pid
+416QOMNW,wininit.exe,,NT AUTHORITY\SYSTEM,,4504
+416QOMNW,chrome.exe,"""C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"" --type=renderer --field-trial-handle=1556 1270622256617353588 15561965010207222735 131072 --service-pipe-token=1352282089870284743 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --service-request-channel-token=1352282089870284743 --renderer-client-id=45 --mojo-platform-channel-handle=7884 /prefetch:1",nich.edward5,C:\Program Files (x86)\Google\Chrome\Application,5483
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s netprofm,NT AUTHORITY\SYSTEM,c:\windows\system32,1064
+416QOMNW,svchost.exe,,NT AUTHORITY\SYSTEM,,6176
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s ShellHWDetection,NT AUTHORITY\SYSTEM,c:\windows\system32,5448
+416QOMNW,DllHost.exe,C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F},NT AUTHORITY\SYSTEM,C:\Windows\system32,6476
+416QOMNW,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3640
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup -s WpnUserService,NT AUTHORITY\SYSTEM,c:\windows\system32,5208
+416QOMNW,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p,NT AUTHORITY\SYSTEM,C:\Windows\System32,6172
+416QOMNW,GitHubDesktop.exe,"""C:\Users\emma.patt\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --squirrel-firstrun",emma.patt,C:\Users\emma.patt\AppData\Local\GitHubDesktop\app-1.4.3,6471
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s WdiServiceHost,NT AUTHORITY\SYSTEM,c:\windows\system32,2652
+416QOMNW,services.exe,,NT AUTHORITY\SYSTEM,,3288
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s CDPSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3168
+416QOMNW,mbamservice.exe,"""C:\Program Files\Malwarebytes\Anti-Malware\mbamservice.exe""",nich.edward5,C:\Program Files\Malwarebytes\Anti-Malware,4177
+416QOMNW,SgrmBroker.exe,,NT AUTHORITY\SYSTEM,,388
+416QOMNW,jusched.exe,"""C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe"" ",NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Java\Java Update,1784
+416QOMNW,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,304
+416QOMNW,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,3764
+416QOMNW,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,6408
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s NlaSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,484
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,c:\windows\system32,2184
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s Dnscache,NT AUTHORITY\SYSTEM,c:\windows\system32,2816
+416QOMNW,SearchFilterHost.exe,"""C:\Windows\system32\SearchFilterHost.exe"" 0 736 740 748 8192 744 ",NT AUTHORITY\SYSTEM,C:\Windows\system32,3120
+416QOMNW,System,,NT AUTHORITY\SYSTEM,,3928
+416QOMNW,WinLogon.exe,C:\Windows\System32\WinLogon.exe -SpecialSession,NT AUTHORITY\SYSTEM,C:\Windows\System32,4352
+416QOMNW,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,c:\windows\system32,1668
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s WpnService,NT AUTHORITY\SYSTEM,c:\windows\system32,4588
+416QOMNW,csrss.exe,,NT AUTHORITY\SYSTEM,,3080
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p,NT AUTHORITY\SYSTEM,c:\windows\system32,5200
+416QOMNW,Memory Compression,,NT AUTHORITY\SYSTEM,,4808
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s AudioEndpointBuilder,NT AUTHORITY\SYSTEM,c:\windows\system32,3812
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s LanmanServer,NT AUTHORITY\SYSTEM,c:\windows\system32,4204
+416QOMNW,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",emma.patt,C:\Program Files\TightVNC,3508
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservicenonetwork -p -s DPS,NT AUTHORITY\SYSTEM,c:\windows\system32,1156
+416QOMNW,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts,NT AUTHORITY\SYSTEM,C:\Windows\System32,3552
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k dcomlaunch -p -s PlugPlay,NT AUTHORITY\SYSTEM,c:\windows\system32,1600
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s lfsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3636
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s CryptSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,6080
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s nsi,NT AUTHORITY\SYSTEM,c:\windows\system32,1360
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s iphlpsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,4040
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -s BTAGService,NT AUTHORITY\SYSTEM,c:\windows\system32,412
+416QOMNW,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,720
+416QOMNW,fontdrvhost.exe,"""fontdrvhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\System32,468
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Themes,NT AUTHORITY\SYSTEM,c:\windows\system32,2512
+416QOMNW,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,632
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s LanmanWorkstation,NT AUTHORITY\SYSTEM,c:\windows\system32,4824
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DsSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,4660
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s SstpSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3328
+416QOMNW,Microsoft.Notes.exe,"""C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.0.119.0_x64__8wekyb3d8bbwe\Microsoft.Notes.exe"" -ServerName:App.AppX495fygk72hjw82j58ny5h3nr8hpsd8vs.mca",emma.patt,C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.0.119.0_x64__8wekyb3d8bbwe,2453
+416QOMNW,MsMpEng.exe,,NT AUTHORITY\SYSTEM,,3384
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s wscsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,1944
+416QOMNW,SearchIndexer.exe,C:\Windows\system32\SearchIndexer.exe /Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,1768
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k appmodel -p -s StateRepository,NT AUTHORITY\SYSTEM,c:\windows\system32,3604
+416QOMNW,svchost.exe,C:\Windows\system32\svchost.exe -k imgsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,5636
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s bthserv,NT AUTHORITY\SYSTEM,c:\windows\system32,3312
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s NcbService,NT AUTHORITY\SYSTEM,c:\windows\system32,148
+416QOMNW,Registry,,NT AUTHORITY\SYSTEM,,4424
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s TapiSrv,NT AUTHORITY\SYSTEM,c:\windows\system32,6032
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s BITS,NT AUTHORITY\SYSTEM,c:\windows\system32,4848
+416QOMNW,svchost.exe,C:\Windows\system32\svchost.exe -k SDRSVC,NT AUTHORITY\SYSTEM,C:\Windows\system32,628
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s PcaSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,1328
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s EventLog,NT AUTHORITY\SYSTEM,c:\windows\system32,6236
+416QOMNW,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,4052
+416QOMNW,g2mstart.exe,"""C:\Users\nich.edward5\AppData\Local\GoToMeeting\9508\g2mstart.exe"" ""/Action Host"" ""/BrokerServiceSuffix @ISL1"" ""/Build 9508"" ""/Download Auto"" ""/EGWAddress 216.115.208.230"" ""/EGWDNS egwglobal.gotomeeting.com"" ""/EGWPort 80 443 8200"" ""/Mode Normal"" ""/Product g2m"" ""/colClientUiReadyEvent Global\55848945-2CEA-4978-BF24-0C6A3B11E66E"" ""/sessionTrackingId e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP""",nich.edward5,C:\Users\nich.edward5\AppData\Local\GoToMeeting\9508,1258
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s ProfSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,5188
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s LicenseManager,NT AUTHORITY\SYSTEM,c:\windows\system32,6396
+416QOMNW,mbam.exe,"""C:\Program Files\Malwarebytes\Anti-Malware\mbam.exe""",nich.edward5,C:\Program Files\Malwarebytes\Anti-Malware,352
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Winmgmt,NT AUTHORITY\SYSTEM,c:\windows\system32,4292
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s WinHttpAutoProxySvc,NT AUTHORITY\SYSTEM,c:\windows\system32,924
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s TokenBroker,NT AUTHORITY\SYSTEM,c:\windows\system32,908
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s UserManager,NT AUTHORITY\SYSTEM,c:\windows\system32,4908
+416QOMNW,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",emma.patt,C:\Program Files\TightVNC,5312
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s Dhcp,NT AUTHORITY\SYSTEM,c:\windows\system32,5224
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Appinfo,NT AUTHORITY\SYSTEM,c:\windows\system32,376
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup,NT AUTHORITY\SYSTEM,c:\windows\system32,828
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s TimeBrokerSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,244
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Schedule,NT AUTHORITY\SYSTEM,c:\windows\system32,4344
+416QOMNW,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s wlidsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,1304
+416QOMNW,Wireshark.exe,"""C:\Program Files\Wireshark\Wireshark.exe"" ",emma.patt,C:\Program Files\Wireshark,749
+416QOMNW,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,c:\windows\system32,2984
+416QOMNW,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,972
+416QOMNW,fontdrvhost.exe,"""fontdrvhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5580
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s SENS,NT AUTHORITY\SYSTEM,c:\windows\system32,1136
+416QOMNW,LockApp.exe,"""C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe"" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy,1904
+416QOMNW,ApplicationFrameHost.exe,C:\Windows\system32\ApplicationFrameHost.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,1840
+416QOMNW,tv_w32.exe,"""C:\Program Files (x86)\TeamViewer\tv_w32.exe"" --action hooks  --log C:\Program Files (x86)\TeamViewer\TeamViewer13_Logfile.log  ",emma.patt,C:\Program Files (x86)\TeamViewer,263
+416QOMNW,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc -p,NT AUTHORITY\SYSTEM,C:\Windows\System32,2180
+416QOMNW,TeamViewer_Service.exe,"""C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe""",emma.patt,C:\Program Files (x86)\TeamViewer,540
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s BthAvctpSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3408
+416QOMNW,SettingSyncHost.exe,C:\Windows\system32\SettingSyncHost.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,5008
+416QOMNW,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,3128
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k rpcss -p,NT AUTHORITY\SYSTEM,c:\windows\system32,3612
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s WebClient,NT AUTHORITY\SYSTEM,c:\windows\system32,5688
+416QOMNW,TeamViewer.exe,"""C:\Program Files (x86)\TeamViewer\TeamViewer.exe"" ",emma.patt,C:\Program Files (x86)\TeamViewer,4661
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TrkWks,NT AUTHORITY\SYSTEM,c:\windows\system32,3244
+416QOMNW,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,3988
+416QOMNW,GitHubDesktop.exe,"""C:\Users\emma.patt\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=9 12 13 23 27 29 49 70 84 --disable-gl-extensions=""GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent"" --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor=""Intel Corporation"" --gpu-driver-version=20.19.15.4331 --gpu-driver-date=11-18-2015 --service-request-channel-token=29571E74A71F5219E432184D13D76C95 --mojo-platform-channel-handle=1732 /prefetch:2",emma.patt,C:\Users\emma.patt\AppData\Local\GitHubDesktop\app-1.4.3,3208
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TabletInputService,NT AUTHORITY\SYSTEM,c:\windows\system32,1416
+416QOMNW,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\System32,4380
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k dcomlaunch -p -s LSM,NT AUTHORITY\SYSTEM,c:\windows\system32,6132
+416QOMNW,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService -p -s DoSvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,1984
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SensorService,NT AUTHORITY\SYSTEM,c:\windows\system32,652
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s StorSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,24
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DeviceAssociationService,NT AUTHORITY\SYSTEM,c:\windows\system32,2284
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s FontCache,NT AUTHORITY\SYSTEM,c:\windows\system32,5604
+416QOMNW,NisSrv.exe,,NT AUTHORITY\SYSTEM,,2664
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s EventSystem,NT AUTHORITY\SYSTEM,c:\windows\system32,3424
+416QOMNW,OneDrive.exe,"""C:\Users\kylenelson\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",kylenelson,C:\Users\kylenelson\AppData\Local\Microsoft\OneDrive,1052
+416QOMNW,SecurityHealthService.exe,,NT AUTHORITY\SYSTEM,,1372
+416QOMNW,smss.exe,,NT AUTHORITY\SYSTEM,,2504
+416QOMNW,BtwRSupportService.exe,C:\Windows\system32\BtwRSupportService.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,6164
+416QOMNW,WMIC.exe,"C:\Windows\System32\wbem\WMIC.exe /node:891ZYKNL process call create ""cmd.exe /c whoami /force""",,C:\Windows\System32\wbem\WMIC.exe,1992
+416QOMNW,cmd.exe,C:\Windows\System32\cmd.exe /C C:\Windows\System32\run_pd.bat,NT AUTHORITY\SYSTEM,C:\Windows\System32\cmd.exe,200
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SysMain,NT AUTHORITY\SYSTEM,c:\windows\system32,4436
+416QOMNW,g2mcomm.exe,"""C:\Users\nich.edward5\AppData\Local\GoToMeeting\9508\g2mcomm.exe"" ""Action=Host&amp;BrokerServiceSuffix=@ISL1&amp;Build=9508&amp;colClientUiReadyEvent=Global\55848945-2CEA-4978-BF24-0C6A3B11E66E&amp;Digest=1bc982ef0552b1fb859a423b1f290ef0&amp;Dir=C:\Users\nich.edward5\AppData\Local\GoToMeeting\9508\&amp;Download=Auto&amp;EGWAddress=216.115.208.230&amp;EGWDNS=egwglobal.gotomeeting.com&amp;EGWPort=80 443 8200&amp;LoaderPath=C:\Users\nich.edward5\AppData\Local\GoToMeeting\9508\g2mstart.exe&amp;LogName=c:\users\nich.edward5\appdata\local\temp\logmeinlogs\gotomeeting\9508\2018-10-29_12.04.18.379\GoToMeeting.log&amp;Mode=Normal&amp;Path=g2mlauncher.exe&amp;Plugin=G2MLauncher&amp;Product=g2m&amp;sessionTrackingId=e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP&amp;UniqueId=16cc""",nich.edward5,C:\Users\nich.edward5\AppData\Local\GoToMeeting\9508,3665
+416QOMNW,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",emma.patt,C:\Program Files\RealVNC\VNC Viewer,5799
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k localserviceandnoimpersonation -p -s SSDPSRV,NT AUTHORITY\SYSTEM,c:\windows\system32,5600
+416QOMNW,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup -s CDPUserSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,4128
+416QOMNW,ctfmon.exe,"""ctfmon.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,1776
+416QOMNW,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,1508

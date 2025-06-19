@@ -1,0 +1,12 @@
+hostname,fullpath,filepath,drive,filename,fileextension,username
+416QOMNW,c:\Windows\System32\wabsyncprovider.dll,Windows\System32,c,wabsyncprovider.dll,dll,NT SERVICE\TrustedInstaller
+416QOMNW,c:\Windows\System32\onedrivesettingsyncprovider.dll,Windows\System32,c,onedrivesettingsyncprovider.dll,dll,NT SERVICE\TrustedInstaller
+416QOMNW,c:\program files (x86)\mozilla thunderbird\accessiblemarshal.dll,program files (x86)\mozilla thunderbird,c,accessiblemarshal.dll,dll,BUILTIN\Administrators
+416QOMNW,C:\Program Files\Common Files\system\wab32.dll,Program Files\Common Files\system,C,wab32.dll,dll,NT SERVICE\TrustedInstaller
+416QOMNW,c:\Windows\SysWOW64\onedrivesetup.exe,Windows\SysWOW64,c,onedrivesetup.exe,exe,NT SERVICE\TrustedInstaller
+416QOMNW,c:\program files (x86)\mozilla thunderbird\mapiproxy_inuse.dll,program files (x86)\mozilla thunderbird,c,mapiproxy_inuse.dll,dll,BUILTIN\Administrators
+416QOMNW,c:\program files\malwarebytes\anti-malware\mbamservice.exe,program files\malwarebytes\anti-malware,c,mbamservice.exe,exe,BUILTIN\Administrators
+416QOMNW,c:\program files\windows mail\wab.exe,program files\windows mail,c,wab.exe,exe,NT SERVICE\TrustedInstaller
+416QOMNW,c:\program files\TightVNC\tvnserver.exe,program files\TightVNC,c,tvnserver.exe,exe,NT AUTHORITY\SYSTEM
+416QOMNW,c:\Users\$user\AppData\Local\microsoft\OneDrive\OneDrive.exe,Users\$user\AppData\Local\microsoft\OneDrive,c,OneDrive.exe,exe,$domain\$user
+416QOMNW,c:\program files\windows photo viewer\PhotoAcq.dll,program files\windows photo viewer,c,PhotoAcq.dll,dll,NT SERVICE\TrustedInstaller

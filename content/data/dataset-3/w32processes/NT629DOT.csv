@@ -1,0 +1,141 @@
+hostname,name,arguments,username,path,pid
+NT629DOT,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,5024
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s ShellHWDetection,NT AUTHORITY\SYSTEM,c:\windows\system32,1024
+NT629DOT,Registry,,NT AUTHORITY\SYSTEM,,4876
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s LicenseManager,NT AUTHORITY\SYSTEM,c:\windows\system32,1420
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s TapiSrv,NT AUTHORITY\SYSTEM,c:\windows\system32,5292
+NT629DOT,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,6088
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s WinHttpAutoProxySvc,NT AUTHORITY\SYSTEM,c:\windows\system32,5976
+NT629DOT,AcroRd32.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe"" --type=renderer /prefetch:1",zar.gar,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader,3294
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p,NT AUTHORITY\SYSTEM,c:\windows\system32,1844
+NT629DOT,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\System32,3264
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k dcomlaunch -p -s LSM,NT AUTHORITY\SYSTEM,c:\windows\system32,4336
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s WdiServiceHost,NT AUTHORITY\SYSTEM,c:\windows\system32,5564
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s StorSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,5080
+NT629DOT,smss.exe,,NT AUTHORITY\SYSTEM,,252
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s SENS,NT AUTHORITY\SYSTEM,c:\windows\system32,6352
+NT629DOT,DllHost.exe,C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F},NT AUTHORITY\SYSTEM,C:\Windows\system32,1124
+NT629DOT,mintty.exe,"usr\bin\mintty.exe --nodaemon -o AppID=GitForWindows.Bash -o AppLaunchCmd=""C:\Program Files\Git\git-bash.exe"" -o AppName=""Git Bash"" -i ""C:\Program Files\Git\git-bash.exe"" --store-taskbar-properties -- /usr/bin/bash --login -i",ellicoleman,C:\Program Files\Git\usr\bin,5644
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s bthserv,NT AUTHORITY\SYSTEM,c:\windows\system32,3084
+NT629DOT,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,672
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s WebClient,NT AUTHORITY\SYSTEM,c:\windows\system32,596
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SysMain,NT AUTHORITY\SYSTEM,c:\windows\system32,3476
+NT629DOT,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,c:\windows\system32,1640
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s AudioEndpointBuilder,NT AUTHORITY\SYSTEM,c:\windows\system32,4428
+NT629DOT,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",ellicoleman,C:\Program Files\Common Files\McAfee\MMSSHost,5144
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TabletInputService,NT AUTHORITY\SYSTEM,c:\windows\system32,6212
+NT629DOT,SecurityHealthService.exe,,NT AUTHORITY\SYSTEM,,5736
+NT629DOT,cmd.exe,"""C:\Windows\system32\cmd.exe"" ",zar.gar,C:\Windows\system32,4304
+NT629DOT,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",ellicoleman,C:\Program Files\McAfee\WebAdvisor,2674
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Winmgmt,NT AUTHORITY\SYSTEM,c:\windows\system32,5924
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TrkWks,NT AUTHORITY\SYSTEM,c:\windows\system32,2636
+NT629DOT,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",leabutl71,C:\Windows\system32,5701
+NT629DOT,LockApp.exe,"""C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe"" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy,3136
+NT629DOT,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /MONITOR /uac",ellicoleman,C:\Program Files\CCleaner,5643
+NT629DOT,WinLogon.exe,C:\Windows\System32\WinLogon.exe -SpecialSession,NT AUTHORITY\SYSTEM,C:\Windows\System32,2804
+NT629DOT,SkypeBackgroundHost.exe,"""C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe"" -ServerName:SkypeBackgroundHost",ellicoleman,C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c,713
+NT629DOT,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",ellicoleman,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,2901
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s LanmanWorkstation,NT AUTHORITY\SYSTEM,c:\windows\system32,1876
+NT629DOT,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,4044
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservicenonetwork -p -s DPS,NT AUTHORITY\SYSTEM,c:\windows\system32,5572
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s CryptSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,4416
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SensorService,NT AUTHORITY\SYSTEM,c:\windows\system32,4060
+NT629DOT,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,ellicoleman,c:\program files\common files\mcafee\modulecore,4436
+NT629DOT,RdrCEF.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF.exe"" --type=renderer --disable-browser-side-navigation --disable-gpu-compositing --service-pipe-token=49849BA2F50EBF33EAD978C1E9CA6D55 --lang=en-US --disable-pack-loading --lang=en-US --log-file=""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\debug.log"" --log-severity=disable --product-version=""ReaderServices/19.8.20071 Chrome/64.0.3282.119"" --enable-pinch --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0 0 3553;0 1 3553;0 2 3553;0 3 3553;0 4 3553;0 5 3553;0 6 3553;0 7 3553;0 8 3553;0 9 3553;0 10 3553;0 11 3553;0 12 3553;0 13 3553;0 14 3553;0 15 3553;0 16 3553;0 17 3553;0 18 3553;1 0 3553;1 1 3553;1 2 3553;1 3 3553;1 4 3553;1 5 3553;1 6 3553;1 7 3553;1 8 3553;1 9 3553;1 10 3553;1 11 3553;1 12 3553;1 13 3553;1 14 3553;1 15 3553;1 16 3553;1 17 3553;1 18 3553;2 0 3553;2 1 3553;2 2 3553;2 3 3553;2 4 3553;2 5 3553;2 6 3553;2 7 3553;2 8 3553;2 9 3553;2 10 3553;2 11 3553;2 12 3553;2 13 3553;2 14 3553;2 15 3553;2 16 3553;2 17 3553;2 18 3553;3 0 3553;3 1 3553;3 2 3553;3 3 3553;3 4 3553;3 5 3553;3 6 3553;3 7 3553;3 8 3553;3 9 3553;3 10 3553;3 11 3553;3 12 3553;3 13 3553;3 14 3553;3 15 3553;3 16 3553;3 17 3553;3 18 3553;4 0 3553;4 1 3553;4 2 3553;4 3 3553;4 4 3553;4 5 3553;4 6 3553;4 7 3553;4 8 3553;4 9 3553;4 10 3553;4 11 3553;4 12 3553;4 13 3553;4 14 3553;4 15 3553;4 16 3553;4 17 3553;4 18 3553;5 0 3553;5 1 3553;5 2 3553;5 3 3553;5 4 3553;5 5 3553;5 6 3553;5 7 3553;5 8 3553;5 9 3553;5 10 3553;5 11 3553;5 12 3553;5 13 3553;5 14 3553;5 15 3553;5 16 3553;5 17 3553;5 18 3553;6 0 3553;6 1 3553;6 2 3553;6 3 3553;6 4 3553;6 5 3553;6 6 3553;6 7 3553;6 8 3553;6 9 3553;6 10 3553;6 11 3553;6 12 3553;6 13 3553;6 14 3553;6 15 3553;6 16 3553;6 17 3553;6 18 3553 --disable-accelerated-video-decode --service-request-channel-token=49849BA2F50EBF33EAD978C1E9CA6D55 --renderer-client-id=4 --mojo-platform-channel-handle=2328 --allow-no-sandbox-job /prefetch:1",zar.gar,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF,5894
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s PcaSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,1252
+NT629DOT,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",ellicoleman,C:\Program Files\TightVNC,2820
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localserviceandnoimpersonation -p -s SSDPSRV,NT AUTHORITY\SYSTEM,c:\windows\system32,5256
+NT629DOT,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",ellicoleman,C:\Program Files\RealVNC\VNC Viewer,1378
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s LanmanServer,NT AUTHORITY\SYSTEM,c:\windows\system32,2196
+NT629DOT,SearchIndexer.exe,C:\Windows\system32\SearchIndexer.exe /Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,1380
+NT629DOT,jusched.exe,"""C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe"" ",NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Java\Java Update,6012
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s WpnService,NT AUTHORITY\SYSTEM,c:\windows\system32,940
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup,NT AUTHORITY\SYSTEM,c:\windows\system32,2868
+NT629DOT,svchost.exe,C:\Windows\system32\svchost.exe -k SDRSVC,NT AUTHORITY\SYSTEM,C:\Windows\system32,5684
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s ProfSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3672
+NT629DOT,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",ellicoleman,C:\Program Files\Common Files\McAfee\ModuleCore,5919
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DsSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,4264
+NT629DOT,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,ellicoleman,C:\ProgramData\McAfee\McInstruTrack,2918
+NT629DOT,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",ellicoleman,C:\Program Files\McAfee\MfeAV,1313
+NT629DOT,RdrCEF.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF.exe"" --backgroundcolor=16514043",zar.gar,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF,5086
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k appmodel -p -s StateRepository,NT AUTHORITY\SYSTEM,c:\windows\system32,2024
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s lfsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3804
+NT629DOT,git-bash.exe,"""C:\Program Files\Git\git-bash.exe"" ""--cd=C:\Users\ellicoleman\Desktop.""",ellicoleman,C:\Program Files\Git,2819
+NT629DOT,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,5720
+NT629DOT,OneDrive.exe,"""C:\Users\ellicoleman\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",ellicoleman,C:\Users\ellicoleman\AppData\Local\Microsoft\OneDrive,4210
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Schedule,NT AUTHORITY\SYSTEM,c:\windows\system32,3796
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s NlaSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,536
+NT629DOT,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",ellicoleman,C:\Program Files\Common Files\McAfee\VSCore_18_6,3869
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Appinfo,NT AUTHORITY\SYSTEM,c:\windows\system32,4008
+NT629DOT,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",ellicoleman,c:\program files\common files\mcafee\modulecore,2304
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -s BTAGService,NT AUTHORITY\SYSTEM,c:\windows\system32,6296
+NT629DOT,SearchFilterHost.exe,"""C:\Windows\system32\SearchFilterHost.exe"" 0 736 740 748 8192 744 ",NT AUTHORITY\SYSTEM,C:\Windows\system32,5872
+NT629DOT,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",leabutl71,C:\Program Files\internet explorer,4629
+NT629DOT,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",ellicoleman,C:\Program Files\Common Files\McAfee\PEF\CORE,1866
+NT629DOT,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts,NT AUTHORITY\SYSTEM,C:\Windows\System32,2508
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Themes,NT AUTHORITY\SYSTEM,c:\windows\system32,444
+NT629DOT,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4000
+NT629DOT,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,3512
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup -s CDPUserSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,196
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s EventLog,NT AUTHORITY\SYSTEM,c:\windows\system32,5796
+NT629DOT,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s wlidsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,64
+NT629DOT,bash.exe,"""C:\Program Files\Git\usr\bin\bash.exe""",ellicoleman,C:\Program Files\Git\usr\bin,2571
+NT629DOT,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",ellicoleman,C:\Program Files\Common Files\McAfee\Platform\Core,2640
+NT629DOT,csrss.exe,,NT AUTHORITY\SYSTEM,,268
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s CDPSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3064
+NT629DOT,SettingSyncHost.exe,C:\Windows\system32\SettingSyncHost.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,2156
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s wscsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,5980
+NT629DOT,ApplicationFrameHost.exe,C:\Windows\system32\ApplicationFrameHost.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,952
+NT629DOT,BtwRSupportService.exe,C:\Windows\system32\BtwRSupportService.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3272
+NT629DOT,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",ellicoleman,C:\Program Files\Common Files\McAfee\TaskScheduler,3854
+NT629DOT,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,ellicoleman,C:\ProgramData\McAfee\Direct,4055
+NT629DOT,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",ellicoleman,C:\Program Files\McAfee\MAT,2826
+NT629DOT,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,1852
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s TimeBrokerSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,1512
+NT629DOT,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /uac",ellicoleman,C:\Program Files\CCleaner,6117
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s SstpSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,5716
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s EventSystem,NT AUTHORITY\SYSTEM,c:\windows\system32,6380
+NT629DOT,ctfmon.exe,"""ctfmon.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2040
+NT629DOT,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",ellicoleman,C:\Program Files\McAfee\WebAdvisor,1787
+NT629DOT,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",ellicoleman,C:\Program Files\TightVNC,3024
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k rpcss -p,NT AUTHORITY\SYSTEM,c:\windows\system32,2828
+NT629DOT,KeePassXC.exe,"""C:\Program Files\KeePassXC\KeePassXC.exe"" ",ellicoleman,C:\Program Files\KeePassXC,401
+NT629DOT,System,,NT AUTHORITY\SYSTEM,,3108
+NT629DOT,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p,NT AUTHORITY\SYSTEM,C:\Windows\System32,3364
+NT629DOT,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc -p,NT AUTHORITY\SYSTEM,C:\Windows\System32,4728
+NT629DOT,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,728
+NT629DOT,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",ellicoleman,C:\Program Files\Common Files\mcafee\Platform,1016
+NT629DOT,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",ellicoleman,C:\ProgramData\McAfee\Direct,5532
+NT629DOT,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService -p -s DoSvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,124
+NT629DOT,AcroRd32.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe"" ",zar.gar,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader,1101
+NT629DOT,Memory Compression,,NT AUTHORITY\SYSTEM,,5312
+NT629DOT,armsvc.exe,"""C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe""",zar.gar,C:\Program Files (x86)\Common Files\Adobe\ARM\1.0,4918
+NT629DOT,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,3280
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s UserManager,NT AUTHORITY\SYSTEM,c:\windows\system32,36
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s Dnscache,NT AUTHORITY\SYSTEM,c:\windows\system32,1312
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s nsi,NT AUTHORITY\SYSTEM,c:\windows\system32,3412
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s FontCache,NT AUTHORITY\SYSTEM,c:\windows\system32,2940
+NT629DOT,MsMpEng.exe,,NT AUTHORITY\SYSTEM,,2944
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup -s WpnUserService,NT AUTHORITY\SYSTEM,c:\windows\system32,3784
+NT629DOT,wininit.exe,,NT AUTHORITY\SYSTEM,,748
+NT629DOT,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,c:\windows\system32,2220
+NT629DOT,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\ellicoleman\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",ellicoleman,C:\Users\ellicoleman\AppData\Local\Temp\scoped_dir9616_4071,397
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s BthAvctpSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,1120
+NT629DOT,NisSrv.exe,,NT AUTHORITY\SYSTEM,,5072
+NT629DOT,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,4496
+NT629DOT,fontdrvhost.exe,"""fontdrvhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,6252
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DeviceAssociationService,NT AUTHORITY\SYSTEM,c:\windows\system32,4676
+NT629DOT,svchost.exe,C:\Windows\system32\svchost.exe -k imgsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,4388
+NT629DOT,services.exe,,NT AUTHORITY\SYSTEM,,3380
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s BITS,NT AUTHORITY\SYSTEM,c:\windows\system32,4268
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s TokenBroker,NT AUTHORITY\SYSTEM,c:\windows\system32,3168
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s NcbService,NT AUTHORITY\SYSTEM,c:\windows\system32,840
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k dcomlaunch -p -s PlugPlay,NT AUTHORITY\SYSTEM,c:\windows\system32,2244
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s netprofm,NT AUTHORITY\SYSTEM,c:\windows\system32,2576
+NT629DOT,SgrmBroker.exe,,NT AUTHORITY\SYSTEM,,5568
+NT629DOT,fontdrvhost.exe,"""fontdrvhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\System32,2812
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s Dhcp,NT AUTHORITY\SYSTEM,c:\windows\system32,4260
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,c:\windows\system32,5624
+NT629DOT,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s iphlpsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,5804
+NT629DOT,svchost.exe,,NT AUTHORITY\SYSTEM,,848
+NT629DOT,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",ellicoleman,C:\Program Files\Common Files\McAfee\AMCore,6474

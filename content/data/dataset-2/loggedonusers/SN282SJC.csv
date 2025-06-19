@@ -1,0 +1,5 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,SN282SJC,False,True
+svc_dira,SN282SJC,True,False
+sofia.wright,SN282SJC,True,False
+miabarn,SN282SJC,True,False

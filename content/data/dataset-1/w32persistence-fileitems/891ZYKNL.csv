@@ -1,0 +1,16 @@
+hostname,fullpath,filepath,drive,filename,fileextension,username
+891ZYKNL,c:\program files (x86)\common files\Adobe\Acrobat\ActiveX\acropdfimpl64.dll,program files (x86)\common files\Adobe\Acrobat\ActiveX,c,acropdfimpl64.dll,dll,NT AUTHORITY\SYSTEM
+891ZYKNL,c:\Windows\System32\onedrivesettingsyncprovider.dll,Windows\System32,c,onedrivesettingsyncprovider.dll,dll,NT SERVICE\TrustedInstaller
+891ZYKNL,c:\program files (x86)\Adobe\acrobat reader dc\Reader\adoberfp.dll,program files (x86)\Adobe\acrobat reader dc\Reader,c,adoberfp.dll,dll,NT AUTHORITY\SYSTEM
+891ZYKNL,c:\program files (x86)\common files\Adobe\ARM\1.0\armsvc.exe,program files (x86)\common files\Adobe\ARM\1.0,c,armsvc.exe,exe,NT AUTHORITY\SYSTEM
+891ZYKNL,c:\Windows\System32\iisrstap.dll,Windows\System32,c,iisrstap.dll,dll,NT SERVICE\TrustedInstaller
+891ZYKNL,c:\Windows\SysWOW64\onedrivesetup.exe,Windows\SysWOW64,c,onedrivesetup.exe,exe,NT SERVICE\TrustedInstaller
+891ZYKNL,c:\program files (x86)\Adobe\acrobat reader dc\Reader\ViewerPS.dll,program files (x86)\Adobe\acrobat reader dc\Reader,c,ViewerPS.dll,dll,NT AUTHORITY\SYSTEM
+891ZYKNL,c:\program files (x86)\common files\Adobe\Acrobat\ActiveX\acropdf64.dll,program files (x86)\common files\Adobe\Acrobat\ActiveX,c,acropdf64.dll,dll,NT AUTHORITY\SYSTEM
+891ZYKNL,c:\Windows\System32\inetsrv\iisw3adm.dll,Windows\System32\inetsrv,c,iisw3adm.dll,dll,NT SERVICE\TrustedInstaller
+891ZYKNL,c:\Users\$user\AppData\Local\microsoft\OneDrive\OneDrive.exe,Users\$user\AppData\Local\microsoft\OneDrive,c,OneDrive.exe,exe,$domain\$user
+891ZYKNL,c:\program files (x86)\Adobe\acrobat reader dc\Reader\pdfprevhndlr.dll,program files (x86)\Adobe\acrobat reader dc\Reader,c,pdfprevhndlr.dll,dll,NT AUTHORITY\SYSTEM
+891ZYKNL,c:\program files\TightVNC\tvnserver.exe,program files\TightVNC,c,tvnserver.exe,exe,NT AUTHORITY\SYSTEM
+891ZYKNL,c:\program files (x86)\common files\Adobe\Acrobat\ActiveX\AcroPDF.dll,program files (x86)\common files\Adobe\Acrobat\ActiveX,c,AcroPDF.dll,dll,NT AUTHORITY\SYSTEM
+891ZYKNL,c:\program files (x86)\common files\Adobe\Acrobat\ActiveX\acropdfimpl.dll,program files (x86)\common files\Adobe\Acrobat\ActiveX,c,acropdfimpl.dll,dll,NT AUTHORITY\SYSTEM
+891ZYKNL,c:\program files\malwarebytes\anti-malware\mbamservice.exe,program files\malwarebytes\anti-malware,c,mbamservice.exe,exe,BUILTIN\Administrators

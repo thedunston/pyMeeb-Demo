@@ -1,0 +1,56 @@
+hostname,name,arguments,username,path,pid
+SB559CLL,sqlservr.exe,"""C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn\sqlservr.exe"" -sSQLEXPRESS",elli.flo,C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn,2737
+SB559CLL,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,6040
+SB559CLL,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",elli.flo,c:\program files\common files\mcafee\modulecore,1460
+SB559CLL,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,1888
+SB559CLL,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4264
+SB559CLL,cmd.exe,"""C:\Windows\system32\cmd.exe"" ",justimoo90,C:\Windows\system32,3346
+SB559CLL,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",elli.flo,C:\Program Files\McAfee\MAT,5353
+SB559CLL,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,4312
+SB559CLL,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,4516
+SB559CLL,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",elli.flo,C:\Program Files\McAfee\WebAdvisor,6102
+SB559CLL,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,5248
+SB559CLL,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,4988
+SB559CLL,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",elli.flo,C:\Program Files\McAfee\MfeAV,4073
+SB559CLL,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",elli.flo,C:\Program Files\Common Files\McAfee\TaskScheduler,553
+SB559CLL,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,960
+SB559CLL,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,724
+SB559CLL,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{3EAE8C5E-B51F-4CBD-9DCE-FA6AA0BDF8B8},NT AUTHORITY\SYSTEM,C:\Windows\system32,5392
+SB559CLL,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\elli.flo\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",elli.flo,C:\Users\elli.flo\AppData\Local\Temp\scoped_dir9616_4071,6254
+SB559CLL,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3932
+SB559CLL,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",elli.flo,C:\Program Files\TightVNC,4242
+SB559CLL,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",elli.flo,C:\Program Files\Common Files\mcafee\Platform,4700
+SB559CLL,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,4752
+SB559CLL,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",elli.flo,C:\Program Files\Common Files\McAfee\VSCore_18_6,4633
+SB559CLL,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,1588
+SB559CLL,OneDrive.exe,"""C:\Users\justimoo90\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",justimoo90,C:\Users\justimoo90\AppData\Local\Microsoft\OneDrive,1984
+SB559CLL,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",elli.flo,C:\Program Files\McAfee\WebAdvisor,5537
+SB559CLL,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",elli.flo,C:\Program Files\Common Files\McAfee\AMCore,4182
+SB559CLL,conhost.exe,"\??\C:\Windows\system32\conhost.exe ""-29887463320281528418771495882049435123649789771-108284301750553232-1762948263",NT AUTHORITY\SYSTEM,C:\Windows\system32,6108
+SB559CLL,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,elli.flo,C:\ProgramData\McAfee\McInstruTrack,245
+SB559CLL,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,5880
+SB559CLL,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,1916
+SB559CLL,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5540
+SB559CLL,putty.exe,"""C:\Program Files\PuTTY\putty.exe"" ",elli.flo,C:\Program Files\PuTTY,4435
+SB559CLL,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,elli.flo,C:\ProgramData\McAfee\Direct,4267
+SB559CLL,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",elli.flo,C:\Program Files\Common Files\McAfee\ModuleCore,2522
+SB559CLL,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",justimoo90,C:\Program Files\internet explorer,4223
+SB559CLL,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\System32,1124
+SB559CLL,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",elli.flo,C:\Program Files\Common Files\McAfee\Platform\Core,2850
+SB559CLL,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",elli.flo,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,5751
+SB559CLL,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",elli.flo,C:\Program Files\TightVNC,4678
+SB559CLL,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",elli.flo,C:\Program Files\Common Files\McAfee\PEF\CORE,2142
+SB559CLL,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,elli.flo,c:\program files\common files\mcafee\modulecore,4441
+SB559CLL,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",elli.flo,C:\ProgramData\McAfee\Direct,1745
+SB559CLL,cmd.exe,C:\Windows\System32\cmd.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32\cmd.exe,364
+SB559CLL,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,1300
+SB559CLL,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2356
+SB559CLL,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",elli.flo,C:\Program Files\RealVNC\VNC Viewer,1209
+SB559CLL,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,3236
+SB559CLL,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1736
+SB559CLL,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4452
+SB559CLL,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",elli.flo,C:\Program Files\Common Files\McAfee\MMSSHost,2790
+SB559CLL,svchost.exe,C:\Windows\system32\svchost.exe -k regsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,1572
+SB559CLL,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5808
+SB559CLL,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,3120
+SB559CLL,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,3588

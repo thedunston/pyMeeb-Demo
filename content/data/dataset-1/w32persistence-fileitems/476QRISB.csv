@@ -1,0 +1,10 @@
+hostname,fullpath,filepath,drive,filename,fileextension,username
+476QRISB,c:\Windows\System32\onedrivesettingsyncprovider.dll,Windows\System32,c,onedrivesettingsyncprovider.dll,dll,NT SERVICE\TrustedInstaller
+476QRISB,c:\Windows\SysWOW64\onedrivesetup.exe,Windows\SysWOW64,c,onedrivesetup.exe,exe,NT SERVICE\TrustedInstaller
+476QRISB,c:\program files\malwarebytes\anti-malware\mbamservice.exe,program files\malwarebytes\anti-malware,c,mbamservice.exe,exe,BUILTIN\Administrators
+476QRISB,c:\program files\TightVNC\tvnserver.exe,program files\TightVNC,c,tvnserver.exe,exe,NT AUTHORITY\SYSTEM
+476QRISB,c:\Users\$user\AppData\Local\microsoft\OneDrive\OneDrive.exe,Users\$user\AppData\Local\microsoft\OneDrive,c,OneDrive.exe,exe,$domain\$user
+476QRISB,c:\program files\microsoft sql server\mssql14.sqlexpress\MSSQL\Binn\SQLAGENT.EXE,program files\microsoft sql server\mssql14.sqlexpress\MSSQL\Binn,c,SQLAGENT.EXE,EXE,NT AUTHORITY\SYSTEM
+476QRISB,c:\Windows\System32\inetsrv\iisw3adm.dll,Windows\System32\inetsrv,c,iisw3adm.dll,dll,NT SERVICE\TrustedInstaller
+476QRISB,c:\program files\microsoft sql server\mssql14.sqlexpress\MSSQL\Binn\sqlservr.exe,program files\microsoft sql server\mssql14.sqlexpress\MSSQL\Binn,c,sqlservr.exe,exe,NT AUTHORITY\SYSTEM
+476QRISB,c:\Windows\System32\iisrstap.dll,Windows\System32,c,iisrstap.dll,dll,NT SERVICE\TrustedInstaller

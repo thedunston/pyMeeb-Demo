@@ -1,0 +1,67 @@
+hostname,name,arguments,username,path,pid
+SE380KJK,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,4084
+SE380KJK,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1072
+SE380KJK,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,28
+SE380KJK,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,bryanhil,c:\program files\common files\mcafee\modulecore,6121
+SE380KJK,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,3776
+SE380KJK,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,6076
+SE380KJK,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,6200
+SE380KJK,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",bryanhil,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,5009
+SE380KJK,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",bryanhil,C:\Program Files\Common Files\McAfee\Platform\Core,1638
+SE380KJK,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,4460
+SE380KJK,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",bryanhil,C:\Program Files\Common Files\McAfee\MMSSHost,2182
+SE380KJK,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",imog.kelly62,C:\Program Files\TightVNC,5355
+SE380KJK,LogonUI.exe,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",NT AUTHORITY\SYSTEM,C:\Windows\system32,1852
+SE380KJK,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5192
+SE380KJK,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,bryanhil,C:\ProgramData\McAfee\McInstruTrack,3374
+SE380KJK,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,716
+SE380KJK,OneDrive.exe,"""C:\Users\bryanhil\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",bryanhil,C:\Users\bryanhil\AppData\Local\Microsoft\OneDrive,5662
+SE380KJK,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4900
+SE380KJK,cmd.exe,"""C:\Windows\system32\cmd.exe"" ",bryanhil,C:\Windows\system32,3403
+SE380KJK,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,3732
+SE380KJK,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",bryanhil,C:\Program Files\McAfee\WebAdvisor,262
+SE380KJK,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel,NT AUTHORITY\SYSTEM,C:\Windows\system32,3848
+SE380KJK,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\bryanhil\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",bryanhil,C:\Users\bryanhil\AppData\Local\Temp\scoped_dir9616_4071,3961
+SE380KJK,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",bryanhil,C:\Program Files\McAfee\MfeAV,2661
+SE380KJK,g2mstart.exe,"""C:\Users\imog.kelly62\AppData\Local\GoToMeeting\9508\g2mstart.exe"" ""/Action Host"" ""/BrokerServiceSuffix @ISL1"" ""/Build 9508"" ""/Download Auto"" ""/EGWAddress 216.115.208.230"" ""/EGWDNS egwglobal.gotomeeting.com"" ""/EGWPort 80 443 8200"" ""/Mode Normal"" ""/Product g2m"" ""/colClientUiReadyEvent Global\55848945-2CEA-4978-BF24-0C6A3B11E66E"" ""/sessionTrackingId e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP""",imog.kelly62,C:\Users\imog.kelly62\AppData\Local\GoToMeeting\9508,6414
+SE380KJK,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,6220
+SE380KJK,vmware-usbarbitrator64.exe,"""C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe""",jos.turne,C:\Program Files (x86)\Common Files\VMware\USB,1858
+SE380KJK,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,4268
+SE380KJK,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",bryanhil,C:\Program Files\Common Files\McAfee\ModuleCore,4951
+SE380KJK,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,6184
+SE380KJK,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,1368
+SE380KJK,MpCmdRun.exe,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Defender,4716
+SE380KJK,g2mcomm.exe,"""C:\Users\imog.kelly62\AppData\Local\GoToMeeting\9508\g2mcomm.exe"" ""Action=Host&amp;BrokerServiceSuffix=@ISL1&amp;Build=9508&amp;colClientUiReadyEvent=Global\55848945-2CEA-4978-BF24-0C6A3B11E66E&amp;Digest=1bc982ef0552b1fb859a423b1f290ef0&amp;Dir=C:\Users\imog.kelly62\AppData\Local\GoToMeeting\9508\&amp;Download=Auto&amp;EGWAddress=216.115.208.230&amp;EGWDNS=egwglobal.gotomeeting.com&amp;EGWPort=80 443 8200&amp;LoaderPath=C:\Users\imog.kelly62\AppData\Local\GoToMeeting\9508\g2mstart.exe&amp;LogName=c:\users\imog.kelly62\appdata\local\temp\logmeinlogs\gotomeeting\9508\2018-10-29_12.04.18.379\GoToMeeting.log&amp;Mode=Normal&amp;Path=g2mlauncher.exe&amp;Plugin=G2MLauncher&amp;Product=g2m&amp;sessionTrackingId=e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP&amp;UniqueId=16cc""",imog.kelly62,C:\Users\imog.kelly62\AppData\Local\GoToMeeting\9508,6430
+SE380KJK,TabTip32.exe,/loadhooks /Parent:0000000000001188,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,5964
+SE380KJK,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",imog.kelly62,C:\Program Files\RealVNC\VNC Viewer,6258
+SE380KJK,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,5340
+SE380KJK,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",bryanhil,C:\Program Files\Common Files\mcafee\Platform,748
+SE380KJK,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",bryanhil,C:\Program Files\McAfee\MAT,3465
+SE380KJK,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,4292
+SE380KJK,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",bryanhil,C:\Program Files\Common Files\McAfee\AMCore,1279
+SE380KJK,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,3712
+SE380KJK,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,96
+SE380KJK,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",bryanhil,C:\Program Files\Common Files\McAfee\PEF\CORE,1109
+SE380KJK,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,2112
+SE380KJK,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",imog.kelly62,C:\Program Files\TightVNC,2033
+SE380KJK,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,1396
+SE380KJK,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",bryanhil,C:\ProgramData\McAfee\Direct,6488
+SE380KJK,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,C:\Windows\System32,1472
+SE380KJK,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4096
+SE380KJK,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",bryanhil,C:\Program Files\McAfee\WebAdvisor,703
+SE380KJK,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",bryanhil,C:\Program Files\Common Files\McAfee\TaskScheduler,4367
+SE380KJK,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",bryanhil,C:\Program Files\Common Files\McAfee\VSCore_18_6,6337
+SE380KJK,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,bryanhil,C:\ProgramData\McAfee\Direct,779
+SE380KJK,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,5272
+SE380KJK,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},NT AUTHORITY\SYSTEM,C:\Windows\system32,4064
+SE380KJK,kitty-0.70.0.6.exe,"""C:\Users\jos.turne\Documents\kitty-0.70.0.6.exe"" ",jos.turne,C:\Users\jos.turne\Documents,2290
+SE380KJK,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,1892
+SE380KJK,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",bryanhil,c:\program files\common files\mcafee\modulecore,5747
+SE380KJK,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,784
+SE380KJK,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",imog.kelly62,C:\Program Files\internet explorer,3799
+SE380KJK,mspaint.exe,"""C:\Windows\system32\mspaint.exe"" ",bryanhil,C:\Windows\system32,4952
+SE380KJK,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5432
+SE380KJK,vmware-authd.exe,"""C:\Program Files (x86)\VMware\VMware Player\vmware-authd.exe""",jos.turne,C:\Program Files (x86)\VMware\VMware Player,4453
+SE380KJK,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,6252
+SE380KJK,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,NT AUTHORITY\SYSTEM,C:\Windows\system32,5120
+SE380KJK,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,552

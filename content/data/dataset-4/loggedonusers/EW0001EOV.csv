@@ -1,0 +1,5 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,EW0001EOV,False,True
+bonnie.cox,EW0001EOV,True,False
+carparke,EW0001EOV,False,True
+patri.mitc,EW0001EOV,True,False

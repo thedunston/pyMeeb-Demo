@@ -1,0 +1,54 @@
+hostname,name,arguments,username,path,pid
+EN139XDW,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,4068
+EN139XDW,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4236
+EN139XDW,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",caro.kel,C:\Program Files\Common Files\mcafee\Platform,5718
+EN139XDW,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",carwilliam,C:\Program Files\RealVNC\VNC Viewer,3097
+EN139XDW,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,1668
+EN139XDW,conhost.exe,"\??\C:\Windows\system32\conhost.exe ""-29887463320281528418771495882049435123649789771-108284301750553232-1762948263",NT AUTHORITY\SYSTEM,C:\Windows\system32,2308
+EN139XDW,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",caro.kel,C:\Program Files\Common Files\McAfee\PEF\CORE,3367
+EN139XDW,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,4416
+EN139XDW,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,5572
+EN139XDW,OneDrive.exe,"""C:\Users\patrikin11\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",patrikin11,C:\Users\patrikin11\AppData\Local\Microsoft\OneDrive,4271
+EN139XDW,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",carwilliam,C:\Program Files\TightVNC,3688
+EN139XDW,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,1272
+EN139XDW,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,76
+EN139XDW,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,772
+EN139XDW,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",caro.kel,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,5738
+EN139XDW,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",caro.kel,C:\Program Files\Common Files\McAfee\MMSSHost,4606
+EN139XDW,SkypeBackgroundHost.exe,"""C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe"" -ServerName:SkypeBackgroundHost",patrikin11,C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c,781
+EN139XDW,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,caro.kel,C:\ProgramData\McAfee\Direct,5921
+EN139XDW,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,caro.kel,C:\ProgramData\McAfee\McInstruTrack,3306
+EN139XDW,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4784
+EN139XDW,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2172
+EN139XDW,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,5820
+EN139XDW,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",caro.kel,C:\Program Files\Common Files\McAfee\AMCore,5099
+EN139XDW,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3732
+EN139XDW,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",caro.kel,C:\Program Files\Common Files\McAfee\TaskScheduler,1455
+EN139XDW,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,1728
+EN139XDW,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",caro.kel,C:\Program Files\Common Files\McAfee\VSCore_18_6,3483
+EN139XDW,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",caro.kel,C:\Program Files\McAfee\MfeAV,5811
+EN139XDW,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",caro.kel,c:\program files\common files\mcafee\modulecore,5181
+EN139XDW,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,4964
+EN139XDW,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,4592
+EN139XDW,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",caro.kel,C:\Program Files\Common Files\McAfee\ModuleCore,2577
+EN139XDW,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,caro.kel,c:\program files\common files\mcafee\modulecore,5214
+EN139XDW,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\caro.kel\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",caro.kel,C:\Users\caro.kel\AppData\Local\Temp\scoped_dir9616_4071,1982
+EN139XDW,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,2980
+EN139XDW,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",caro.kel,C:\Program Files\McAfee\WebAdvisor,4870
+EN139XDW,cmd.exe,C:\Windows\System32\cmd.exe /C C:\Windows\WinSxS\run_pd.bat,NT AUTHORITY\SYSTEM,C:\Windows\System32\cmd.exe,1320
+EN139XDW,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{3EAE8C5E-B51F-4CBD-9DCE-FA6AA0BDF8B8},NT AUTHORITY\SYSTEM,C:\Windows\system32,5792
+EN139XDW,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",caro.kel,C:\Program Files\McAfee\WebAdvisor,6144
+EN139XDW,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\System32,5896
+EN139XDW,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",caro.kel,C:\Program Files\McAfee\MAT,5311
+EN139XDW,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,276
+EN139XDW,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5392
+EN139XDW,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1632
+EN139XDW,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4136
+EN139XDW,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,6440
+EN139XDW,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",carwilliam,C:\Program Files\TightVNC,3413
+EN139XDW,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,6500
+EN139XDW,svchost.exe,C:\Windows\system32\svchost.exe -k regsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,5292
+EN139XDW,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",carwilliam,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,4526
+EN139XDW,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",caro.kel,C:\ProgramData\McAfee\Direct,2992
+EN139XDW,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",caro.kel,C:\Program Files\Common Files\McAfee\Platform\Core,3281
+EN139XDW,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,5952

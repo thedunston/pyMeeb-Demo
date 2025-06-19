@@ -1,0 +1,76 @@
+hostname,name,arguments,username,path,pid
+SW220THV,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",grac.brya,C:\ProgramData\McAfee\Direct,6261
+SW220THV,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,4832
+SW220THV,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",samu.hill17,C:\Program Files\TightVNC,239
+SW220THV,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\grac.brya\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",grac.brya,C:\Users\grac.brya\AppData\Local\Temp\scoped_dir9616_4071,5478
+SW220THV,powershell.exe,"""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" ",samu.hill17,C:\Windows\System32\WindowsPowerShell\v1.0,6002
+SW220THV,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,NT AUTHORITY\SYSTEM,C:\Windows\system32,6352
+SW220THV,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,2116
+SW220THV,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,3756
+SW220THV,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,6496
+SW220THV,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1428
+SW220THV,mintty.exe,"usr\bin\mintty.exe --nodaemon -o AppID=GitForWindows.Bash -o AppLaunchCmd=""C:\Program Files\Git\git-bash.exe"" -o AppName=""Git Bash"" -i ""C:\Program Files\Git\git-bash.exe"" --store-taskbar-properties -- /usr/bin/bash --login -i",grac.brya,C:\Program Files\Git\usr\bin,5772
+SW220THV,mintty.exe,"usr\bin\mintty.exe --nodaemon -o AppID=GitForWindows.Bash -o AppLaunchCmd=""C:\Program Files\Git\git-bash.exe"" -o AppName=""Git Bash"" -i ""C:\Program Files\Git\git-bash.exe"" --store-taskbar-properties -- /usr/bin/bash --login -i",timo.walker,C:\Program Files\Git\usr\bin,5731
+SW220THV,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3968
+SW220THV,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,688
+SW220THV,git-bash.exe,"""C:\Program Files\Git\git-bash.exe"" ""--cd=C:\Users\grac.brya\Desktop.""",grac.brya,C:\Program Files\Git,5663
+SW220THV,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",grac.brya,C:\Program Files\Common Files\McAfee\ModuleCore,5942
+SW220THV,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /MONITOR /uac",grac.brya,C:\Program Files\CCleaner,5226
+SW220THV,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",samu.hill17,C:\Program Files\RealVNC\VNC Viewer,3858
+SW220THV,LogonUI.exe,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",NT AUTHORITY\SYSTEM,C:\Windows\system32,3804
+SW220THV,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,628
+SW220THV,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",grac.brya,C:\Program Files\Common Files\McAfee\Platform\Core,5388
+SW220THV,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /uac",grac.brya,C:\Program Files\CCleaner,625
+SW220THV,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel,NT AUTHORITY\SYSTEM,C:\Windows\system32,1164
+SW220THV,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",samu.hill17,C:\Windows\system32,2708
+SW220THV,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",grac.brya,C:\Program Files\McAfee\MfeAV,4299
+SW220THV,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,444
+SW220THV,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},NT AUTHORITY\SYSTEM,C:\Windows\system32,72
+SW220THV,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,1396
+SW220THV,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,2772
+SW220THV,TabTip32.exe,/loadhooks /Parent:0000000000001188,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,2412
+SW220THV,kitty-0.70.0.6.exe,"""C:\Users\samu.hill17\Documents\kitty-0.70.0.6.exe"" ",samu.hill17,C:\Users\samu.hill17\Documents,1006
+SW220THV,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",grac.brya,C:\Program Files\Common Files\McAfee\PEF\CORE,4612
+SW220THV,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,5344
+SW220THV,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,1532
+SW220THV,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,4104
+SW220THV,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",grac.brya,C:\Program Files\McAfee\WebAdvisor,1805
+SW220THV,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5788
+SW220THV,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4200
+SW220THV,bash.exe,"""C:\Program Files\Git\usr\bin\bash.exe""",grac.brya,C:\Program Files\Git\usr\bin,4666
+SW220THV,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",grac.brya,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,2789
+SW220THV,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,256
+SW220THV,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,2144
+SW220THV,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",grac.brya,c:\program files\common files\mcafee\modulecore,1051
+SW220THV,reg.exe,"C:\Windows\System32\reg.exe add ""HKEY_CURRENT_USER\Control Panel\Desktop"" /v ScreenSaverIsSecure /t REG_SZ /d 0 /f",timo.walker,C:\Windows\System32\reg.exe,276
+SW220THV,OneDrive.exe,"""C:\Users\grac.brya\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",grac.brya,C:\Users\grac.brya\AppData\Local\Microsoft\OneDrive,4506
+SW220THV,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,5628
+SW220THV,bash.exe,"""C:\Program Files\Git\usr\bin\bash.exe""",timo.walker,C:\Program Files\Git\usr\bin,3674
+SW220THV,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,6484
+SW220THV,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",grac.brya,C:\Program Files\Common Files\McAfee\VSCore_18_6,3143
+SW220THV,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,476
+SW220THV,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",grac.brya,C:\Program Files\McAfee\MAT,5223
+SW220THV,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,grac.brya,C:\ProgramData\McAfee\Direct,1196
+SW220THV,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",grac.brya,C:\Program Files\McAfee\WebAdvisor,3573
+SW220THV,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",grac.brya,C:\Program Files\Common Files\McAfee\AMCore,3058
+SW220THV,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,4748
+SW220THV,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,grac.brya,c:\program files\common files\mcafee\modulecore,4751
+SW220THV,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,grac.brya,C:\ProgramData\McAfee\McInstruTrack,4490
+SW220THV,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe Get-Date,samu.hill17,C:\Windows\System32\powershell.exe,1560
+SW220THV,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",samu.hill17,C:\Program Files\TightVNC,4448
+SW220THV,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,2012
+SW220THV,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,C:\Windows\System32,3768
+SW220THV,MpCmdRun.exe,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Defender,4768
+SW220THV,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",grac.brya,C:\Program Files\Common Files\McAfee\MMSSHost,1231
+SW220THV,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",timo.walker,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,1167
+SW220THV,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,6460
+SW220THV,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1336
+SW220THV,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,3140
+SW220THV,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,6092
+SW220THV,reg.exe,"C:\Windows\System32\reg.exe add ""HKEY_CURRENT_USER\Control Panel\Desktop"" /v ScreenSaverTimeout /t REG_SZ /d 60 /f",timo.walker,C:\Windows\System32\reg.exe,4672
+SW220THV,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,5224
+SW220THV,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe Get-Date,timo.walker,C:\Windows\System32\powershell.exe,2040
+SW220THV,git-bash.exe,"""C:\Program Files\Git\git-bash.exe"" ""--cd=C:\Users\timo.walker\Desktop.""",timo.walker,C:\Program Files\Git,6078
+SW220THV,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",grac.brya,C:\Program Files\Common Files\McAfee\TaskScheduler,3812
+SW220THV,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",grac.brya,C:\Program Files\Common Files\mcafee\Platform,4396
+SW220THV,reg.exe,"C:\Windows\System32\reg.exe add ""HKEY_CURRENT_USER\Control Panel\Desktop"" /v ScreenSaveActive /t REG_SZ /d 1 /f",grac.brya,C:\Windows\System32\reg.exe,5288

@@ -1,0 +1,67 @@
+hostname,name,arguments,username,path,pid
+SC486JLO,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,5076
+SC486JLO,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",jas.smi78,C:\Program Files\McAfee\MAT,1199
+SC486JLO,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",erimitch,C:\Program Files\RealVNC\VNC Viewer,348
+SC486JLO,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,276
+SC486JLO,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,4960
+SC486JLO,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4276
+SC486JLO,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4120
+SC486JLO,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",anna.jacks85,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,1457
+SC486JLO,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,780
+SC486JLO,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,4800
+SC486JLO,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,4804
+SC486JLO,OneDrive.exe,"""C:\Users\jas.smi78\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",jas.smi78,C:\Users\jas.smi78\AppData\Local\Microsoft\OneDrive,333
+SC486JLO,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,2768
+SC486JLO,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,3060
+SC486JLO,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,1952
+SC486JLO,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",jas.smi78,C:\Program Files\Common Files\McAfee\Platform\Core,3344
+SC486JLO,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,C:\Windows\System32,808
+SC486JLO,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,5860
+SC486JLO,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",jas.smi78,C:\Program Files\Common Files\McAfee\VSCore_18_6,5142
+SC486JLO,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",erimitch,C:\Program Files\TightVNC,5956
+SC486JLO,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,5964
+SC486JLO,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,272
+SC486JLO,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,1100
+SC486JLO,LogonUI.exe,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",NT AUTHORITY\SYSTEM,C:\Windows\system32,612
+SC486JLO,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,600
+SC486JLO,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,2012
+SC486JLO,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel,NT AUTHORITY\SYSTEM,C:\Windows\system32,4932
+SC486JLO,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,672
+SC486JLO,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",jas.smi78,C:\Program Files\Common Files\mcafee\Platform,4281
+SC486JLO,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,jas.smi78,C:\ProgramData\McAfee\Direct,1339
+SC486JLO,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",jas.smi78,C:\Program Files\Common Files\McAfee\MMSSHost,1461
+SC486JLO,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,5140
+SC486JLO,ruby.exe,"""C:\Ruby24-x64\bin\ruby.exe"" ",jas.smi78,C:\Ruby24-x64\bin,3261
+SC486JLO,Calculator.exe,"""C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1809.2731.0_x64__8wekyb3d8bbwe\Calculator.exe"" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca",anna.jacks85,C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1809.2731.0_x64__8wekyb3d8bbwe,5650
+SC486JLO,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",jas.smi78,C:\Program Files\Common Files\McAfee\ModuleCore,2562
+SC486JLO,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,6148
+SC486JLO,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,NT AUTHORITY\SYSTEM,C:\Windows\system32,3728
+SC486JLO,cmd.exe,"C:\WINDOWS\system32\cmd.exe /c """"C:\Ruby24-x64\bin\irb.cmd"" """,jas.smi78,C:\WINDOWS\system32,502
+SC486JLO,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",anna.jacks85,C:\Program Files\RealVNC\VNC Viewer,3364
+SC486JLO,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,2624
+SC486JLO,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",jas.smi78,C:\Program Files\Common Files\McAfee\AMCore,6385
+SC486JLO,WMIC.exe,"C:\Windows\System32\wbem\WMIC.exe /node:NW398TBV process call create ""cmd.exe /c whoami /force""",,C:\Windows\System32\wbem\WMIC.exe,2160
+SC486JLO,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},NT AUTHORITY\SYSTEM,C:\Windows\system32,3620
+SC486JLO,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",jas.smi78,C:\Program Files\McAfee\WebAdvisor,3867
+SC486JLO,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",jas.smi78,C:\Program Files\Common Files\McAfee\PEF\CORE,1481
+SC486JLO,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,jas.smi78,c:\program files\common files\mcafee\modulecore,998
+SC486JLO,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,5768
+SC486JLO,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,376
+SC486JLO,MpCmdRun.exe,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Defender,1744
+SC486JLO,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1456
+SC486JLO,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,4216
+SC486JLO,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",jas.smi78,c:\program files\common files\mcafee\modulecore,3185
+SC486JLO,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,jas.smi78,C:\ProgramData\McAfee\McInstruTrack,3211
+SC486JLO,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1000
+SC486JLO,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",erimitch,C:\Program Files\TightVNC,5296
+SC486JLO,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",anna.jacks85,C:\Program Files\TightVNC,3189
+SC486JLO,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",jas.smi78,C:\Program Files\McAfee\MfeAV,3011
+SC486JLO,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\jas.smi78\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",jas.smi78,C:\Users\jas.smi78\AppData\Local\Temp\scoped_dir9616_4071,1720
+SC486JLO,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,2176
+SC486JLO,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",jas.smi78,C:\Program Files\McAfee\WebAdvisor,3426
+SC486JLO,TabTip32.exe,/loadhooks /Parent:0000000000001188,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,4888
+SC486JLO,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",jas.smi78,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,1906
+SC486JLO,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",anna.jacks85,C:\Program Files\TightVNC,4505
+SC486JLO,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",jas.smi78,C:\Program Files\Common Files\McAfee\TaskScheduler,2480
+SC486JLO,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",jas.smi78,C:\ProgramData\McAfee\Direct,1413
+SC486JLO,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1052

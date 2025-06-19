@@ -1,0 +1,119 @@
+hostname,name,arguments,username,path,pid
+WN0007JFY,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2580
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,c:\windows\system32,3456
+WN0007JFY,opera.exe,"""C:\Users\avacampbell76\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=16451249972883912486 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=16451249972883912486 --renderer-client-id=4 --mojo-platform-channel-handle=3140 /prefetch:1",avacampbell76,C:\Users\avacampbell76\AppData\Local\Programs\Opera\56.0.3051.52,6461
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s NlaSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,2240
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s lfsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,1836
+WN0007JFY,jusched.exe,"""C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe"" ",NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Java\Java Update,3740
+WN0007JFY,fontdrvhost.exe,"""fontdrvhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\System32,6212
+WN0007JFY,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,5332
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s Dnscache,NT AUTHORITY\SYSTEM,c:\windows\system32,1676
+WN0007JFY,BtwRSupportService.exe,C:\Windows\system32\BtwRSupportService.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2756
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TabletInputService,NT AUTHORITY\SYSTEM,c:\windows\system32,3836
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s SENS,NT AUTHORITY\SYSTEM,c:\windows\system32,3160
+WN0007JFY,opera.exe,"""C:\Users\avacampbell76\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=2685998191293934672 --lang=en-GB --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2685998191293934672 --renderer-client-id=12 --mojo-platform-channel-handle=4360 /prefetch:1",avacampbell76,C:\Users\avacampbell76\AppData\Local\Programs\Opera\56.0.3051.52,1627
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s FontCache,NT AUTHORITY\SYSTEM,c:\windows\system32,6088
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Appinfo,NT AUTHORITY\SYSTEM,c:\windows\system32,3512
+WN0007JFY,OneDrive.exe,"""C:\Users\avacampbell76\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",avacampbell76,C:\Users\avacampbell76\AppData\Local\Microsoft\OneDrive,427
+WN0007JFY,opera.exe,"""C:\Users\avacampbell76\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=12376823585177401963 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=12376823585177401963 --renderer-client-id=7 --mojo-platform-channel-handle=2368 /prefetch:1",avacampbell76,C:\Users\avacampbell76\AppData\Local\Programs\Opera\56.0.3051.52,5686
+WN0007JFY,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\System32,5168
+WN0007JFY,putty.exe,"""C:\Program Files\PuTTY\putty.exe"" ",avacampbell76,C:\Program Files\PuTTY,4060
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s TimeBrokerSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,200
+WN0007JFY,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3452
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Schedule,NT AUTHORITY\SYSTEM,c:\windows\system32,5880
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup -s CDPUserSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,2200
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s CryptSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,2036
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s NcbService,NT AUTHORITY\SYSTEM,c:\windows\system32,3784
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TrkWks,NT AUTHORITY\SYSTEM,c:\windows\system32,6100
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s nsi,NT AUTHORITY\SYSTEM,c:\windows\system32,5192
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k dcomlaunch -p -s LSM,NT AUTHORITY\SYSTEM,c:\windows\system32,480
+WN0007JFY,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,3016
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s PcaSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,5728
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s Dhcp,NT AUTHORITY\SYSTEM,c:\windows\system32,376
+WN0007JFY,svchost.exe,C:\Windows\system32\svchost.exe -k SDRSVC,NT AUTHORITY\SYSTEM,C:\Windows\system32,3552
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k rpcss -p,NT AUTHORITY\SYSTEM,c:\windows\system32,4792
+WN0007JFY,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,6360
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k appmodel -p -s StateRepository,NT AUTHORITY\SYSTEM,c:\windows\system32,2232
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SensorService,NT AUTHORITY\SYSTEM,c:\windows\system32,4912
+WN0007JFY,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,c:\windows\system32,5308
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DsSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,5528
+WN0007JFY,LockApp.exe,"""C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe"" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy,6344
+WN0007JFY,opera.exe,"""C:\Users\avacampbell76\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --start-maximized --ran-launcher",avacampbell76,C:\Users\avacampbell76\AppData\Local\Programs\Opera\56.0.3051.52,2642
+WN0007JFY,ApplicationFrameHost.exe,C:\Windows\system32\ApplicationFrameHost.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,3976
+WN0007JFY,PSANHost.exe,"""C:\Program Files (x86)\Panda Security\Panda Security Protection\PSANHost.exe""",avacampbell76,C:\Program Files (x86)\Panda Security\Panda Security Protection,3899
+WN0007JFY,Registry,,NT AUTHORITY\SYSTEM,,6164
+WN0007JFY,Memory Compression,,NT AUTHORITY\SYSTEM,,4088
+WN0007JFY,PSUAMain.exe,"""C:\Program Files (x86)\Panda Security\Panda Security Protection\PSUAMain.exe"" /LaunchSysTray",avacampbell76,C:\Program Files (x86)\Panda Security\Panda Security Protection,1987
+WN0007JFY,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,5536
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s CDPSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,6072
+WN0007JFY,SgrmBroker.exe,,NT AUTHORITY\SYSTEM,,2216
+WN0007JFY,services.exe,,NT AUTHORITY\SYSTEM,,5480
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s BITS,NT AUTHORITY\SYSTEM,c:\windows\system32,4344
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -s BTAGService,NT AUTHORITY\SYSTEM,c:\windows\system32,3940
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s netprofm,NT AUTHORITY\SYSTEM,c:\windows\system32,4764
+WN0007JFY,AgentSvc.exe,"""C:\Program Files (x86)\Panda Security\Panda Devices Agent\AgentSvc.exe""",avacampbell76,C:\Program Files (x86)\Panda Security\Panda Devices Agent,4282
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s bthserv,NT AUTHORITY\SYSTEM,c:\windows\system32,2296
+WN0007JFY,opera.exe,"""C:\Users\avacampbell76\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=6930244878569528683 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=6930244878569528683 --renderer-client-id=3 --mojo-platform-channel-handle=2904 /prefetch:1",avacampbell76,C:\Users\avacampbell76\AppData\Local\Programs\Opera\56.0.3051.52,5984
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DeviceAssociationService,NT AUTHORITY\SYSTEM,c:\windows\system32,1908
+WN0007JFY,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,c:\windows\system32,5056
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s WdiServiceHost,NT AUTHORITY\SYSTEM,c:\windows\system32,2936
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s WebClient,NT AUTHORITY\SYSTEM,c:\windows\system32,2388
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s TapiSrv,NT AUTHORITY\SYSTEM,c:\windows\system32,1472
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s EventLog,NT AUTHORITY\SYSTEM,c:\windows\system32,3300
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s BthAvctpSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,252
+WN0007JFY,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs -p -s wlidsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,1004
+WN0007JFY,csrss.exe,,NT AUTHORITY\SYSTEM,,3600
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Winmgmt,NT AUTHORITY\SYSTEM,c:\windows\system32,4984
+WN0007JFY,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc -p,NT AUTHORITY\SYSTEM,C:\Windows\System32,1736
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s iphlpsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,1820
+WN0007JFY,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,5460
+WN0007JFY,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService -p -s DoSvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,2828
+WN0007JFY,SecurityHealthService.exe,,NT AUTHORITY\SYSTEM,,316
+WN0007JFY,opera.exe,"""C:\Users\avacampbell76\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=gpu-process --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --gpu-preferences=KAAAAAAAAACAAwBAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --service-request-channel-token=7207758415534163028 --mojo-platform-channel-handle=1472 --ignored="" --type=renderer "" /prefetch:2",avacampbell76,C:\Users\avacampbell76\AppData\Local\Programs\Opera\56.0.3051.52,4433
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s UserManager,NT AUTHORITY\SYSTEM,c:\windows\system32,4076
+WN0007JFY,SettingSyncHost.exe,C:\Windows\system32\SettingSyncHost.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,6004
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s wscsvc,NT AUTHORITY\SYSTEM,c:\windows\system32,156
+WN0007JFY,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,788
+WN0007JFY,smss.exe,,NT AUTHORITY\SYSTEM,,3692
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localserviceandnoimpersonation -p -s SSDPSRV,NT AUTHORITY\SYSTEM,c:\windows\system32,2076
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s Themes,NT AUTHORITY\SYSTEM,c:\windows\system32,6440
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SysMain,NT AUTHORITY\SYSTEM,c:\windows\system32,608
+WN0007JFY,System,,NT AUTHORITY\SYSTEM,,3624
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s StorSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3412
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s AudioEndpointBuilder,NT AUTHORITY\SYSTEM,c:\windows\system32,3432
+WN0007JFY,KeePassXC.exe,"""C:\Program Files\KeePassXC\KeePassXC.exe"" ",bonnie.cox,C:\Program Files\KeePassXC,4004
+WN0007JFY,ctfmon.exe,"""ctfmon.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5016
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s ProfSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,5612
+WN0007JFY,opera_crashreporter.exe,"C:\Users\avacampbell76\AppData\Local\Programs\Opera\56.0.3051.52\opera_crashreporter.exe --type=crashpad-handler /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler ""--database=C:\Users\avacampbell76\AppData\Roaming\Opera Software\Opera Stable\Crash Reports"" ""--crash-count-file=C:\Users\avacampbell76\AppData\Roaming\Opera Software\Opera Stable\crash_count.txt"" --url=https://crashstats-collector.opera.com/collector/submit --annotation=channel=Stable --annotation=plat=Win64 --annotation=prod=OperaDesktop --annotation=ver=56.0.3051.52 --initial-client-data=0x238 0x304 0x30c 0x320 0x308 0x7ffb51313108 0x7ffb51313118 0x7ffb51313128",avacampbell76,C:\Users\avacampbell76\AppData\Local\Programs\Opera\56.0.3051.52,5787
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s SstpSvc,NT AUTHORITY\SYSTEM,c:\windows\system32,3644
+WN0007JFY,SearchIndexer.exe,C:\Windows\system32\SearchIndexer.exe /Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,1072
+WN0007JFY,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p,NT AUTHORITY\SYSTEM,C:\Windows\System32,3628
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s WinHttpAutoProxySvc,NT AUTHORITY\SYSTEM,c:\windows\system32,4232
+WN0007JFY,WinLogon.exe,C:\Windows\System32\WinLogon.exe -SpecialSession,NT AUTHORITY\SYSTEM,C:\Windows\System32,284
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s EventSystem,NT AUTHORITY\SYSTEM,c:\windows\system32,2772
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup,NT AUTHORITY\SYSTEM,c:\windows\system32,836
+WN0007JFY,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,4184
+WN0007JFY,SearchFilterHost.exe,"""C:\Windows\system32\SearchFilterHost.exe"" 0 736 740 748 8192 744 ",NT AUTHORITY\SYSTEM,C:\Windows\system32,1260
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k dcomlaunch -p -s PlugPlay,NT AUTHORITY\SYSTEM,c:\windows\system32,4600
+WN0007JFY,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService -p,NT AUTHORITY\SYSTEM,C:\Windows\system32,4664
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k unistacksvcgroup -s WpnUserService,NT AUTHORITY\SYSTEM,c:\windows\system32,3440
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s ShellHWDetection,NT AUTHORITY\SYSTEM,c:\windows\system32,2896
+WN0007JFY,wininit.exe,,NT AUTHORITY\SYSTEM,,5484
+WN0007JFY,MsMpEng.exe,,NT AUTHORITY\SYSTEM,,44
+WN0007JFY,PSUAService.exe,"""C:\Program Files (x86)\Panda Security\Panda Security Protection\PSUAService.exe""",avacampbell76,C:\Program Files (x86)\Panda Security\Panda Security Protection,6001
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p,NT AUTHORITY\SYSTEM,c:\windows\system32,3988
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k networkservice -p -s LanmanWorkstation,NT AUTHORITY\SYSTEM,c:\windows\system32,808
+WN0007JFY,KeePassXC.exe,"""C:\Program Files\KeePassXC\KeePassXC.exe"" ",avacampbell76,C:\Program Files\KeePassXC,5219
+WN0007JFY,mspaint.exe,"""C:\Windows\system32\mspaint.exe"" ",joshuaperez61,C:\Windows\system32,2771
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservicenonetwork -p -s DPS,NT AUTHORITY\SYSTEM,c:\windows\system32,2700
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s WpnService,NT AUTHORITY\SYSTEM,c:\windows\system32,848
+WN0007JFY,NisSrv.exe,,NT AUTHORITY\SYSTEM,,5012
+WN0007JFY,svchost.exe,C:\Windows\system32\svchost.exe -k imgsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,5092
+WN0007JFY,svchost.exe,,NT AUTHORITY\SYSTEM,,2920
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k localservice -p -s LicenseManager,NT AUTHORITY\SYSTEM,c:\windows\system32,3280
+WN0007JFY,fontdrvhost.exe,"""fontdrvhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2660
+WN0007JFY,DllHost.exe,C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F},NT AUTHORITY\SYSTEM,C:\Windows\system32,1868
+WN0007JFY,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts,NT AUTHORITY\SYSTEM,C:\Windows\System32,4540
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s TokenBroker,NT AUTHORITY\SYSTEM,c:\windows\system32,1172
+WN0007JFY,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,36
+WN0007JFY,svchost.exe,c:\windows\system32\svchost.exe -k netsvcs -p -s LanmanServer,NT AUTHORITY\SYSTEM,c:\windows\system32,660

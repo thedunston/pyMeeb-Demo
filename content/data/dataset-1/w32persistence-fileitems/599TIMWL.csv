@@ -1,0 +1,11 @@
+hostname,fullpath,filepath,drive,filename,fileextension,username
+599TIMWL,c:\program files\windows media player\WMPNSSUI.dll,program files\windows media player,c,WMPNSSUI.dll,dll,NT SERVICE\TrustedInstaller
+599TIMWL,c:\Windows\SysWOW64\onedrivesetup.exe,Windows\SysWOW64,c,onedrivesetup.exe,exe,NT SERVICE\TrustedInstaller
+599TIMWL,c:\program files\windows media player\wmpnssci.dll,program files\windows media player,c,wmpnssci.dll,dll,NT SERVICE\TrustedInstaller
+599TIMWL,c:\program files\malwarebytes\anti-malware\mbamservice.exe,program files\malwarebytes\anti-malware,c,mbamservice.exe,exe,BUILTIN\Administrators
+599TIMWL,c:\Windows\System32\onedrivesettingsyncprovider.dll,Windows\System32,c,onedrivesettingsyncprovider.dll,dll,NT SERVICE\TrustedInstaller
+599TIMWL,c:\program files\windows media player\mpvis.DLL,program files\windows media player,c,mpvis.DLL,DLL,NT SERVICE\TrustedInstaller
+599TIMWL,c:\Users\$user\AppData\Local\microsoft\OneDrive\OneDrive.exe,Users\$user\AppData\Local\microsoft\OneDrive,c,OneDrive.exe,exe,$domain\$user
+599TIMWL,c:\program files\windows photo viewer\PhotoAcq.dll,program files\windows photo viewer,c,PhotoAcq.dll,dll,NT SERVICE\TrustedInstaller
+599TIMWL,c:\program files\TightVNC\tvnserver.exe,program files\TightVNC,c,tvnserver.exe,exe,NT AUTHORITY\SYSTEM
+599TIMWL,c:\program files\windows media player\wmpnetwk.exe,program files\windows media player,c,wmpnetwk.exe,exe,NT SERVICE\TrustedInstaller

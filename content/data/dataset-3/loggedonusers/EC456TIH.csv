@@ -1,0 +1,4 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,EC456TIH,False,True
+lukrusse,EC456TIH,False,True
+justimoo90,EC456TIH,True,False

@@ -1,0 +1,69 @@
+hostname,name,arguments,username,path,pid
+NN357VRJ,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5440
+NN357VRJ,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,1884
+NN357VRJ,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,3676
+NN357VRJ,OneDrive.exe,"""C:\Users\lil.cart\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",lil.cart,C:\Users\lil.cart\AppData\Local\Microsoft\OneDrive,4253
+NN357VRJ,MpCmdRun.exe,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Defender,1400
+NN357VRJ,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,NT AUTHORITY\SYSTEM,C:\Windows\system32,3476
+NN357VRJ,g2mstart.exe,"""C:\Users\juahay\AppData\Local\GoToMeeting\9508\g2mstart.exe"" ""/Action Host"" ""/BrokerServiceSuffix @ISL1"" ""/Build 9508"" ""/Download Auto"" ""/EGWAddress 216.115.208.230"" ""/EGWDNS egwglobal.gotomeeting.com"" ""/EGWPort 80 443 8200"" ""/Mode Normal"" ""/Product g2m"" ""/colClientUiReadyEvent Global\55848945-2CEA-4978-BF24-0C6A3B11E66E"" ""/sessionTrackingId e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP""",juahay,C:\Users\juahay\AppData\Local\GoToMeeting\9508,3882
+NN357VRJ,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,4148
+NN357VRJ,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,80
+NN357VRJ,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,5956
+NN357VRJ,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",bray.cooper,C:\Program Files\Common Files\McAfee\TaskScheduler,873
+NN357VRJ,TeamViewer.exe,"""C:\Program Files (x86)\TeamViewer\TeamViewer.exe"" ",lil.cart,C:\Program Files (x86)\TeamViewer,2173
+NN357VRJ,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",bray.cooper,C:\Program Files\Common Files\McAfee\MMSSHost,223
+NN357VRJ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,5112
+NN357VRJ,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",lil.cart,C:\Windows\system32,306
+NN357VRJ,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",bray.cooper,C:\Program Files\Common Files\mcafee\Platform,3184
+NN357VRJ,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel,NT AUTHORITY\SYSTEM,C:\Windows\system32,5352
+NN357VRJ,tv_w32.exe,"""C:\Program Files (x86)\TeamViewer\tv_w32.exe"" --action hooks  --log C:\Program Files (x86)\TeamViewer\TeamViewer13_Logfile.log  ",lil.cart,C:\Program Files (x86)\TeamViewer,3284
+NN357VRJ,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},NT AUTHORITY\SYSTEM,C:\Windows\system32,4532
+NN357VRJ,g2mstart.exe,"""C:\Users\lil.cart\AppData\Local\GoToMeeting\9508\g2mstart.exe"" ""/Action Host"" ""/BrokerServiceSuffix @ISL1"" ""/Build 9508"" ""/Download Auto"" ""/EGWAddress 216.115.208.230"" ""/EGWDNS egwglobal.gotomeeting.com"" ""/EGWPort 80 443 8200"" ""/Mode Normal"" ""/Product g2m"" ""/colClientUiReadyEvent Global\55848945-2CEA-4978-BF24-0C6A3B11E66E"" ""/sessionTrackingId e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP""",lil.cart,C:\Users\lil.cart\AppData\Local\GoToMeeting\9508,1303
+NN357VRJ,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\bray.cooper\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",bray.cooper,C:\Users\bray.cooper\AppData\Local\Temp\scoped_dir9616_4071,4832
+NN357VRJ,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2624
+NN357VRJ,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,912
+NN357VRJ,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",lil.cart,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,1289
+NN357VRJ,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",bray.cooper,C:\Program Files\Common Files\McAfee\Platform\Core,4604
+NN357VRJ,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4012
+NN357VRJ,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,bray.cooper,C:\ProgramData\McAfee\Direct,6376
+NN357VRJ,LogonUI.exe,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",NT AUTHORITY\SYSTEM,C:\Windows\system32,1408
+NN357VRJ,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,864
+NN357VRJ,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,1576
+NN357VRJ,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,2480
+NN357VRJ,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,bray.cooper,C:\ProgramData\McAfee\McInstruTrack,5633
+NN357VRJ,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,2212
+NN357VRJ,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",bray.cooper,c:\program files\common files\mcafee\modulecore,3589
+NN357VRJ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,2012
+NN357VRJ,SkypeBackgroundHost.exe,"""C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe"" -ServerName:SkypeBackgroundHost",lil.cart,C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c,5667
+NN357VRJ,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,6488
+NN357VRJ,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",bray.cooper,C:\Program Files\McAfee\MfeAV,209
+NN357VRJ,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,260
+NN357VRJ,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,1744
+NN357VRJ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,2496
+NN357VRJ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,5840
+NN357VRJ,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",juahay,C:\Program Files\RealVNC\VNC Viewer,5166
+NN357VRJ,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1920
+NN357VRJ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,3692
+NN357VRJ,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,bray.cooper,c:\program files\common files\mcafee\modulecore,4248
+NN357VRJ,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,C:\Windows\System32,1720
+NN357VRJ,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",bray.cooper,C:\Program Files\Common Files\McAfee\AMCore,4743
+NN357VRJ,TabTip32.exe,/loadhooks /Parent:0000000000001188,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,384
+NN357VRJ,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",juahay,C:\Program Files\TightVNC,4840
+NN357VRJ,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",bray.cooper,C:\Program Files\McAfee\MAT,4976
+NN357VRJ,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,4412
+NN357VRJ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,3356
+NN357VRJ,g2mcomm.exe,"""C:\Users\juahay\AppData\Local\GoToMeeting\9508\g2mcomm.exe"" ""Action=Host&amp;BrokerServiceSuffix=@ISL1&amp;Build=9508&amp;colClientUiReadyEvent=Global\55848945-2CEA-4978-BF24-0C6A3B11E66E&amp;Digest=1bc982ef0552b1fb859a423b1f290ef0&amp;Dir=C:\Users\juahay\AppData\Local\GoToMeeting\9508\&amp;Download=Auto&amp;EGWAddress=216.115.208.230&amp;EGWDNS=egwglobal.gotomeeting.com&amp;EGWPort=80 443 8200&amp;LoaderPath=C:\Users\juahay\AppData\Local\GoToMeeting\9508\g2mstart.exe&amp;LogName=c:\users\juahay\appdata\local\temp\logmeinlogs\gotomeeting\9508\2018-10-29_12.04.18.379\GoToMeeting.log&amp;Mode=Normal&amp;Path=g2mlauncher.exe&amp;Plugin=G2MLauncher&amp;Product=g2m&amp;sessionTrackingId=e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP&amp;UniqueId=16cc""",juahay,C:\Users\juahay\AppData\Local\GoToMeeting\9508,6228
+NN357VRJ,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",bray.cooper,C:\Program Files\Common Files\McAfee\VSCore_18_6,1386
+NN357VRJ,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",bray.cooper,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,1711
+NN357VRJ,TeamViewer_Service.exe,"""C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe""",lil.cart,C:\Program Files (x86)\TeamViewer,5672
+NN357VRJ,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,6004
+NN357VRJ,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,4336
+NN357VRJ,g2mcomm.exe,"""C:\Users\lil.cart\AppData\Local\GoToMeeting\9508\g2mcomm.exe"" ""Action=Host&amp;BrokerServiceSuffix=@ISL1&amp;Build=9508&amp;colClientUiReadyEvent=Global\55848945-2CEA-4978-BF24-0C6A3B11E66E&amp;Digest=1bc982ef0552b1fb859a423b1f290ef0&amp;Dir=C:\Users\lil.cart\AppData\Local\GoToMeeting\9508\&amp;Download=Auto&amp;EGWAddress=216.115.208.230&amp;EGWDNS=egwglobal.gotomeeting.com&amp;EGWPort=80 443 8200&amp;LoaderPath=C:\Users\lil.cart\AppData\Local\GoToMeeting\9508\g2mstart.exe&amp;LogName=c:\users\lil.cart\appdata\local\temp\logmeinlogs\gotomeeting\9508\2018-10-29_12.04.18.379\GoToMeeting.log&amp;Mode=Normal&amp;Path=g2mlauncher.exe&amp;Plugin=G2MLauncher&amp;Product=g2m&amp;sessionTrackingId=e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP&amp;UniqueId=16cc""",lil.cart,C:\Users\lil.cart\AppData\Local\GoToMeeting\9508,1053
+NN357VRJ,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",bray.cooper,C:\ProgramData\McAfee\Direct,788
+NN357VRJ,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",bray.cooper,C:\Program Files\Common Files\McAfee\PEF\CORE,1895
+NN357VRJ,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",bray.cooper,C:\Program Files\McAfee\WebAdvisor,254
+NN357VRJ,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",bray.cooper,C:\Program Files\Common Files\McAfee\ModuleCore,363
+NN357VRJ,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1448
+NN357VRJ,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,4064
+NN357VRJ,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",bray.cooper,C:\Program Files\McAfee\WebAdvisor,5476
+NN357VRJ,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",juahay,C:\Program Files\TightVNC,1590
