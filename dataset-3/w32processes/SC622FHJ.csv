@@ -1,0 +1,57 @@
+hostname,name,arguments,username,path,pid
+SC622FHJ,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,3392
+SC622FHJ,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",cartthompso22,C:\Program Files\TightVNC,3277
+SC622FHJ,sqlservr.exe,"""C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn\sqlservr.exe"" -sSQLEXPRESS",cartthompso22,C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn,3445
+SC622FHJ,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,636
+SC622FHJ,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",cartthompso22,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,1462
+SC622FHJ,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",diego.baker,C:\Program Files\McAfee\WebAdvisor,3820
+SC622FHJ,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",cartthompso22,C:\Program Files\RealVNC\VNC Viewer,5392
+SC622FHJ,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\diego.baker\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",diego.baker,C:\Users\diego.baker\AppData\Local\Temp\scoped_dir9616_4071,1605
+SC622FHJ,taskhostex.exe,taskhostex.exe ,NT AUTHORITY\SYSTEM,C:\Windows\system32,2892
+SC622FHJ,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2072
+SC622FHJ,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",diego.baker,C:\Program Files\Common Files\McAfee\VSCore_18_6,4910
+SC622FHJ,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",diego.baker,C:\Program Files\Common Files\McAfee\PEF\CORE,1318
+SC622FHJ,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,diego.baker,C:\ProgramData\McAfee\McInstruTrack,2748
+SC622FHJ,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",diego.baker,C:\Program Files\Common Files\McAfee\AMCore,5233
+SC622FHJ,OneDrive.exe,"""C:\Users\cartthompso22\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",cartthompso22,C:\Users\cartthompso22\AppData\Local\Microsoft\OneDrive,1495
+SC622FHJ,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,2880
+SC622FHJ,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5184
+SC622FHJ,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3688
+SC622FHJ,wmiprvse.exe,C:\Windows\system32\wbem\wmiprvse.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32\wbem,4384
+SC622FHJ,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",cartthompso22,C:\Program Files\TightVNC,743
+SC622FHJ,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",diego.baker,C:\Program Files\McAfee\MAT,296
+SC622FHJ,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",diego.baker,C:\Program Files\McAfee\WebAdvisor,6078
+SC622FHJ,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",diego.baker,C:\Program Files\Common Files\McAfee\Platform\Core,4192
+SC622FHJ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,5296
+SC622FHJ,cmd.exe,"""C:\Windows\system32\cmd.exe"" ",diego.baker,C:\Windows\system32,6484
+SC622FHJ,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",diego.baker,C:\Program Files\McAfee\MfeAV,3225
+SC622FHJ,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,1076
+SC622FHJ,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",diego.baker,C:\Program Files\Common Files\McAfee\TaskScheduler,894
+SC622FHJ,g2mcomm.exe,"""C:\Users\cartthompso22\AppData\Local\GoToMeeting\9508\g2mcomm.exe"" ""Action=Host&amp;BrokerServiceSuffix=@ISL1&amp;Build=9508&amp;colClientUiReadyEvent=Global\55848945-2CEA-4978-BF24-0C6A3B11E66E&amp;Digest=1bc982ef0552b1fb859a423b1f290ef0&amp;Dir=C:\Users\cartthompso22\AppData\Local\GoToMeeting\9508\&amp;Download=Auto&amp;EGWAddress=216.115.208.230&amp;EGWDNS=egwglobal.gotomeeting.com&amp;EGWPort=80 443 8200&amp;LoaderPath=C:\Users\cartthompso22\AppData\Local\GoToMeeting\9508\g2mstart.exe&amp;LogName=c:\users\cartthompso22\appdata\local\temp\logmeinlogs\gotomeeting\9508\2018-10-29_12.04.18.379\GoToMeeting.log&amp;Mode=Normal&amp;Path=g2mlauncher.exe&amp;Plugin=G2MLauncher&amp;Product=g2m&amp;sessionTrackingId=e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP&amp;UniqueId=16cc""",cartthompso22,C:\Users\cartthompso22\AppData\Local\GoToMeeting\9508,1350
+SC622FHJ,g2mstart.exe,"""C:\Users\cartthompso22\AppData\Local\GoToMeeting\9508\g2mstart.exe"" ""/Action Host"" ""/BrokerServiceSuffix @ISL1"" ""/Build 9508"" ""/Download Auto"" ""/EGWAddress 216.115.208.230"" ""/EGWDNS egwglobal.gotomeeting.com"" ""/EGWPort 80 443 8200"" ""/Mode Normal"" ""/Product g2m"" ""/colClientUiReadyEvent Global\55848945-2CEA-4978-BF24-0C6A3B11E66E"" ""/sessionTrackingId e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP""",cartthompso22,C:\Users\cartthompso22\AppData\Local\GoToMeeting\9508,4469
+SC622FHJ,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,620
+SC622FHJ,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,1892
+SC622FHJ,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",diego.baker,C:\ProgramData\McAfee\Direct,1683
+SC622FHJ,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,996
+SC622FHJ,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,376
+SC622FHJ,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",diego.baker,c:\program files\common files\mcafee\modulecore,5138
+SC622FHJ,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",diego.baker,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,4552
+SC622FHJ,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,4740
+SC622FHJ,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",diego.baker,C:\Program Files\internet explorer,3009
+SC622FHJ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,2152
+SC622FHJ,sqlservr.exe,"""C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn\sqlservr.exe"" -sSQLEXPRESS",diego.baker,C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn,6034
+SC622FHJ,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3768
+SC622FHJ,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",diego.baker,C:\Program Files\Common Files\McAfee\ModuleCore,2518
+SC622FHJ,WINWORD.EXE,"""C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"" ",diego.baker,C:\Program Files\Microsoft Office\root\Office16,2206
+SC622FHJ,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,diego.baker,C:\ProgramData\McAfee\Direct,4752
+SC622FHJ,mavinject.exe,C:\Windows\System32\mavinject.exe 5993 /INJECTRUNNING C:\Windows\Temp\C:\Windows\Microsoft.NET\Framework\Microsoft.Uev.CscUnpinTool.dll,NT AUTHORITY\SYSTEM,C:\Windows\System32\mavinject.exe,2888
+SC622FHJ,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,diego.baker,c:\program files\common files\mcafee\modulecore,2512
+SC622FHJ,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5672
+SC622FHJ,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,3812
+SC622FHJ,mspaint.exe,"""C:\Windows\system32\mspaint.exe"" ",cartthompso22,C:\Windows\system32,4134
+SC622FHJ,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",diego.baker,C:\Program Files\Common Files\McAfee\MMSSHost,5993
+SC622FHJ,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,2528
+SC622FHJ,Wireshark.exe,"""C:\Program Files\Wireshark\Wireshark.exe"" ",diego.baker,C:\Program Files\Wireshark,2020
+SC622FHJ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1544
+SC622FHJ,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",diego.baker,C:\Program Files\Common Files\mcafee\Platform,1873
+SC622FHJ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,244

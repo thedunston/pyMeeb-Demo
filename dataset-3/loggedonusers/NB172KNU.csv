@@ -1,0 +1,4 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,NB172KNU,False,True
+caleb.morgan89,NB172KNU,False,True
+landcoop,NB172KNU,True,False

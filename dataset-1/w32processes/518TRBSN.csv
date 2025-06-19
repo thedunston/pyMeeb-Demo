@@ -1,0 +1,39 @@
+hostname,name,arguments,username,path,pid
+518TRBSN,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3660
+518TRBSN,chrome.exe,"""C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"" --type=renderer --field-trial-handle=1556 1270622256617353588 15561965010207222735 131072 --service-pipe-token=1352282089870284743 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --service-request-channel-token=1352282089870284743 --renderer-client-id=45 --mojo-platform-channel-handle=7884 /prefetch:1",ivygonzale66,C:\Program Files (x86)\Google\Chrome\Application,1371
+518TRBSN,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,3972
+518TRBSN,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\System32,4676
+518TRBSN,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4916
+518TRBSN,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4168
+518TRBSN,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",ivygonzale66,C:\Program Files\RealVNC\VNC Viewer,1797
+518TRBSN,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,4020
+518TRBSN,OneDrive.exe,"""C:\Users\ivygonzale66\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",ivygonzale66,C:\Users\ivygonzale66\AppData\Local\Microsoft\OneDrive,6005
+518TRBSN,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,2272
+518TRBSN,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5776
+518TRBSN,kitty-0.70.0.6.exe,"""C:\Users\svc_km\Documents\kitty-0.70.0.6.exe"" ",svc_km,C:\Users\svc_km\Documents,3630
+518TRBSN,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,1420
+518TRBSN,svchost.exe,C:\Windows\system32\svchost.exe -k regsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,2180
+518TRBSN,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,872
+518TRBSN,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{3EAE8C5E-B51F-4CBD-9DCE-FA6AA0BDF8B8},NT AUTHORITY\SYSTEM,C:\Windows\system32,908
+518TRBSN,mbam.exe,"""C:\Program Files\Malwarebytes\Anti-Malware\mbam.exe""",matthewthoma,C:\Program Files\Malwarebytes\Anti-Malware,3975
+518TRBSN,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3700
+518TRBSN,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,40
+518TRBSN,sqlservr.exe,"""C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn\sqlservr.exe"" -sSQLEXPRESS",ivygonzale66,C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn,5915
+518TRBSN,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,3692
+518TRBSN,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,360
+518TRBSN,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5960
+518TRBSN,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,6052
+518TRBSN,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,5528
+518TRBSN,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4392
+518TRBSN,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2876
+518TRBSN,mbamservice.exe,"""C:\Program Files\Malwarebytes\Anti-Malware\mbamservice.exe""",matthewthoma,C:\Program Files\Malwarebytes\Anti-Malware,5848
+518TRBSN,cmd.exe,"""C:\Windows\system32\cmd.exe"" ",ivygonzale66,C:\Windows\system32,3507
+518TRBSN,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,6156
+518TRBSN,Wireshark.exe,"""C:\Program Files\Wireshark\Wireshark.exe"" ",ivygonzale66,C:\Program Files\Wireshark,5940
+518TRBSN,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,1348
+518TRBSN,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,5304
+518TRBSN,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",ivygonzale66,C:\Program Files\TightVNC,5418
+518TRBSN,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,304
+518TRBSN,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",ivygonzale66,C:\Program Files\TightVNC,511
+518TRBSN,conhost.exe,"\??\C:\Windows\system32\conhost.exe ""-29887463320281528418771495882049435123649789771-108284301750553232-1762948263",NT AUTHORITY\SYSTEM,C:\Windows\system32,6004
+518TRBSN,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,1812

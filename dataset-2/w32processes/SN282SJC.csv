@@ -1,0 +1,60 @@
+hostname,name,arguments,username,path,pid
+SN282SJC,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",svc_dira,C:\ProgramData\McAfee\Direct,1113
+SN282SJC,wuauclt.exe,"""C:\Windows\system32\wuauclt.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,664
+SN282SJC,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",svc_dira,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,6116
+SN282SJC,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",miabarn,C:\Program Files\TightVNC,4235
+SN282SJC,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",svc_dira,C:\Program Files\Common Files\McAfee\Platform\Core,2864
+SN282SJC,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1384
+SN282SJC,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\svc_dira\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",svc_dira,C:\Users\svc_dira\AppData\Local\Temp\scoped_dir9616_4071,5292
+SN282SJC,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,4888
+SN282SJC,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,3912
+SN282SJC,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,1264
+SN282SJC,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",svc_dira,C:\Program Files\McAfee\WebAdvisor,6201
+SN282SJC,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2648
+SN282SJC,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",svc_dira,C:\Program Files\McAfee\WebAdvisor,2973
+SN282SJC,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,1664
+SN282SJC,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,svc_dira,c:\program files\common files\mcafee\modulecore,1647
+SN282SJC,TeamViewer_Service.exe,"""C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe""",sofia.wright,C:\Program Files (x86)\TeamViewer,4644
+SN282SJC,OneDrive.exe,"""C:\Users\sofia.wright\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",sofia.wright,C:\Users\sofia.wright\AppData\Local\Microsoft\OneDrive,472
+SN282SJC,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",svc_dira,c:\program files\common files\mcafee\modulecore,4447
+SN282SJC,sppsvc.exe,C:\Windows\system32\sppsvc.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4456
+SN282SJC,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServicePeerNet,NT AUTHORITY\SYSTEM,C:\Windows\System32,6416
+SN282SJC,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,5140
+SN282SJC,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5812
+SN282SJC,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,124
+SN282SJC,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2784
+SN282SJC,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",svc_dira,C:\Program Files\Common Files\mcafee\Platform,5143
+SN282SJC,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",miabarn,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,6146
+SN282SJC,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,3196
+SN282SJC,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,svc_dira,C:\ProgramData\McAfee\McInstruTrack,2570
+SN282SJC,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1916
+SN282SJC,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,172
+SN282SJC,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,2984
+SN282SJC,SearchIndexer.exe,C:\Windows\system32\SearchIndexer.exe /Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,876
+SN282SJC,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",svc_dira,C:\Program Files\Common Files\McAfee\TaskScheduler,3012
+SN282SJC,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",svc_dira,C:\Program Files\Common Files\McAfee\VSCore_18_6,277
+SN282SJC,Wireshark.exe,"""C:\Program Files\Wireshark\Wireshark.exe"" ",svc_dira,C:\Program Files\Wireshark,868
+SN282SJC,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",svc_dira,C:\Program Files\McAfee\MfeAV,1911
+SN282SJC,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,6424
+SN282SJC,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,2692
+SN282SJC,VBoxService.exe,C:\Windows\System32\VBoxService.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4048
+SN282SJC,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,2076
+SN282SJC,wmpnetwk.exe,"""C:\Program Files\Windows Media Player\wmpnetwk.exe""",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Media Player,2832
+SN282SJC,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,1684
+SN282SJC,TeamViewer.exe,"""C:\Program Files (x86)\TeamViewer\TeamViewer.exe"" ",sofia.wright,C:\Program Files (x86)\TeamViewer,3036
+SN282SJC,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",svc_dira,C:\Program Files\Common Files\McAfee\ModuleCore,348
+SN282SJC,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",svc_dira,C:\Program Files\Common Files\McAfee\PEF\CORE,3669
+SN282SJC,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,6400
+SN282SJC,conhost.exe,\??\C:\Windows\system32\conhost.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1408
+SN282SJC,tv_w32.exe,"""C:\Program Files (x86)\TeamViewer\tv_w32.exe"" --action hooks  --log C:\Program Files (x86)\TeamViewer\TeamViewer13_Logfile.log  ",sofia.wright,C:\Program Files (x86)\TeamViewer,5621
+SN282SJC,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",svc_dira,C:\Program Files\Common Files\McAfee\MMSSHost,4996
+SN282SJC,TrustedInstaller.exe,C:\Windows\servicing\TrustedInstaller.exe,NT AUTHORITY\SYSTEM,C:\Windows\servicing,5080
+SN282SJC,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",svc_dira,C:\Program Files\McAfee\MAT,4239
+SN282SJC,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",miabarn,C:\Program Files\TightVNC,6026
+SN282SJC,svchost.exe,C:\Windows\System32\svchost.exe -k secsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,2544
+SN282SJC,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",svc_dira,C:\Program Files\Common Files\McAfee\AMCore,4702
+SN282SJC,KeePassXC.exe,"""C:\Program Files\KeePassXC\KeePassXC.exe"" ",sofia.wright,C:\Program Files\KeePassXC,1739
+SN282SJC,SearchProtocolHost.exe,"""C:\Windows\system32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe15_ Global\UsGthrCtrlFltPipeMssGthrPipe15 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon"" ",NT AUTHORITY\SYSTEM,C:\Windows\system32,2160
+SN282SJC,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5164
+SN282SJC,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",miabarn,C:\Program Files\RealVNC\VNC Viewer,1883
+SN282SJC,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,svc_dira,C:\ProgramData\McAfee\Direct,3514

@@ -1,0 +1,5 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,SC0001TAP,False,True
+timoth.sanders,SC0001TAP,False,True
+gabrie.nel,SC0001TAP,True,False
+tarhay,SC0001TAP,True,False

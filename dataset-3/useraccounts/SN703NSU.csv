@@ -1,0 +1,4 @@
+username,hostname,domain-admin,local-admin,domain-user,local-user
+jonatha.harr78,SN703NSU,False,False,True,False
+samevans,SN703NSU,False,False,False,True
+HelpAssistant,SN703NSU,False,True,False,True

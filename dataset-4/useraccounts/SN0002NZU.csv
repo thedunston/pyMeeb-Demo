@@ -1,0 +1,4 @@
+username,hostname,domain-admin,local-admin,domain-user,local-user
+darrob96,SN0002NZU,False,False,True,False
+bellacarter,SN0002NZU,False,False,True,False
+svc_pb,SN0002NZU,True,False,True,False

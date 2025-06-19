@@ -1,0 +1,130 @@
+hostname,fullpath,filepath,drive,filename,fileextension,username
+EE474IAV,c:\Program Files\Common Files\McAfee\Platform\McPlatformPS.dll,Program Files\Common Files\McAfee\Platform,c,McPlatformPS.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MAT\McMATSysTrayPlugin.dll,Program Files\McAfee\MAT,c,McMATSysTrayPlugin.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\mcsubmgr\17 4 142 0\mcsubmgr.dll,Program Files\McAfee\MSC\mcsubmgr\17 4 142 0,c,mcsubmgr.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\VUL\McVulODS.dll,Program Files\McAfee\VUL,c,McVulODS.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\Common Files\McAfee\Platform\MSM\McSmtStr.dll,Program Files\Common Files\McAfee\Platform\MSM,c,McSmtStr.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\webadvisor\servicehost.exe,program files\McAfee\webadvisor,c,servicehost.exe,exe,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MQS\ShredExt.dll,Program Files\McAfee\MQS,c,ShredExt.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\VUL\McVulSI.dll,Program Files\McAfee\VUL,c,McVulSI.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MPS\mps.dll,Program Files\McAfee\MPS,c,mps.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\VUL\McVulAP.dll,Program Files\McAfee\VUL,c,McVulAP.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Windows\SysWOW64\onedrivesetup.exe,Windows\SysWOW64,c,onedrivesetup.exe,exe,NT SERVICE\TrustedInstaller
+EE474IAV,c:\Program Files\McAfee\MSK\MskSet.dll,Program Files\McAfee\MSK,c,MskSet.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\Common Files\McAfee\VSCore_18_6\VSCVer.dll,Program Files\Common Files\McAfee\VSCore_18_6,c,VSCVer.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\McUpdShm.dll,Program Files\McAfee\MSC,c,McUpdShm.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\Common Files\McAfee\MHN\HomeNetVer.dll,Program Files\Common Files\McAfee\MHN,c,HomeNetVer.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\McCtxMenuFrmWrk.dll,Program Files\McAfee\MSC,c,McCtxMenuFrmWrk.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\Platform\mcsvchost\McSvHVer.dll,program files\common files\McAfee\Platform\mcsvchost,c,McSvHVer.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\VUL\McVulShm.dll,Program Files\McAfee\VUL,c,McVulShm.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MQS\QCProgressIcon.dll,Program Files\McAfee\MQS,c,QCProgressIcon.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MQS\QCLite.dll,Program Files\McAfee\MQS,c,QCLite.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Windows\System32\onedrivesettingsyncprovider.dll,Windows\System32,c,onedrivesettingsyncprovider.dll,dll,NT SERVICE\TrustedInstaller
+EE474IAV,c:\Program Files\McAfee\MQS\ShrCore.dll,Program Files\McAfee\MQS,c,ShrCore.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\mcregobj\17 2 119 0\mcregobj.dll,Program Files\McAfee\MSC\mcregobj\17 2 119 0,c,mcregobj.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MPS\MpsShim.dll,Program Files\McAfee\MPS,c,MpsShim.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\Common Files\McAfee\MSGSDK\UsrEnvSnapshot.dll,Program Files\Common Files\McAfee\MSGSDK,c,UsrEnvSnapshot.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\webadvisor\win32\ieplugin.dll,program files\McAfee\webadvisor\win32,c,ieplugin.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MAT\McMATAppInfo.dll,Program Files\McAfee\MAT,c,McMATAppInfo.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\PEF\CORE\pefintegrate.dll,program files\common files\McAfee\PEF\CORE,c,pefintegrate.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\MSK\msksrvr.dll,program files\McAfee\MSK,c,msksrvr.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MAT\MCPvInst64.dll,Program Files\McAfee\MAT,c,MCPvInst64.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MfeAV\mcvsocfg.dll,Program Files\McAfee\MfeAV,c,mcvsocfg.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MPS\MPSMisp.dll,Program Files\McAfee\MPS,c,MPSMisp.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\McProxy\Proxyver.dll,program files\common files\McAfee\McProxy,c,Proxyver.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\ActWiz\McAWFwk.exe,program files\common files\McAfee\ActWiz,c,McAWFwk.exe,exe,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSK\mskcshim.dll,Program Files\McAfee\MSK,c,mskcshim.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MQS\ShredShm.dll,Program Files\McAfee\MQS,c,ShredShm.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\Common Files\McAfee\OOBE\McOobeSv.dll,Program Files\Common Files\McAfee\OOBE,c,McOobeSv.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\McIPTShm.dll,Program Files\McAfee\MSC,c,McIPTShm.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MPF\MpfSvcPS.dll,Program Files\McAfee\MPF,c,MpfSvcPS.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\webadvisor\x64\ieplugin.dll,program files\McAfee\webadvisor\x64,c,ieplugin.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\VUL\McWinUpd.dll,Program Files\McAfee\VUL,c,McWinUpd.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\Common Files\McAfee\Platform\McSvcHost\McSvHVer.dll,Program Files\Common Files\McAfee\Platform\McSvcHost,c,McSvHVer.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\MfeAV\McVsPs.dll,program files\McAfee\MfeAV,c,McVsPs.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\McGsShm.dll,Program Files\McAfee\MSC,c,McGsShm.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MPF\MpfApi.dll,Program Files\McAfee\MPF,c,MpfApi.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\mcupdui.dll,Program Files\McAfee\MSC,c,mcupdui.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\CSP\2.9.175.0\\mccspservicehost.exe,program files\common files\McAfee\CSP\2.9.175.0\,c,mccspservicehost.exe,exe,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\RprtShm.dll,Program Files\McAfee\MSC,c,RprtShm.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MPS\mpsevh.dll,Program Files\McAfee\MPS,c,mpsevh.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MPF\MpfPP.dll,Program Files\McAfee\MPF,c,MpfPP.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\MAT\McPvNs.dll,program files\McAfee\MAT,c,McPvNs.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\McBootDelayStartSvc.dll,Program Files\McAfee\MSC,c,McBootDelayStartSvc.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\TightVNC\tvnserver.exe,program files\TightVNC,c,tvnserver.exe,exe,NT AUTHORITY\SYSTEM
+EE474IAV,c:\Program Files (x86)\Common Files\McAfee\Platform\coreps.dll,Program Files (x86)\Common Files\McAfee\Platform,c,coreps.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\MfeAV\mcctxmnu.dll,program files\McAfee\MfeAV,c,mcctxmnu.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\Common Files\McAfee\HackerWatch\HWAPI.dll,Program Files\Common Files\McAfee\HackerWatch,c,HWAPI.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MfeAV\mvslog.dll,Program Files\McAfee\MfeAV,c,mvslog.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\mccontextust.dll,Program Files\McAfee\MSC,c,mccontextust.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSK\mskola64.dll,Program Files\McAfee\MSK,c,mskola64.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\MfeAV\mcodsps.dll,program files\McAfee\MfeAV,c,mcodsps.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\McProxy\McProxy.dll,program files\common files\McAfee\McProxy,c,McProxy.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\PEF\CORE\pefupdatenotify.dll,program files\common files\McAfee\PEF\CORE,c,pefupdatenotify.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSK\mskmisp.dll,Program Files\McAfee\MSK,c,mskmisp.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\clientanalytics\Legacy\mcclientanalytics.exe,program files\common files\McAfee\clientanalytics\Legacy,c,mcclientanalytics.exe,exe,BUILTIN\Administrators
+EE474IAV,c:\Program Files (x86)\Common Files\McAfee\Platform\submgr.dll,Program Files (x86)\Common Files\McAfee\Platform,c,submgr.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\McSnIePl64.dll,Program Files\McAfee\MSC,c,McSnIePl64.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\webadvisor\mfesapsn.sys,program files\McAfee\webadvisor,c,mfesapsn.sys,sys,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MPF\MpfShm.dll,Program Files\McAfee\MPF,c,MpfShm.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\CSP\2.9.175.0\mccspcoreps.dll,program files\common files\McAfee\CSP\2.9.175.0,c,mccspcoreps.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\Common Files\McAfee\Platform\McDspWrp.dll,Program Files\Common Files\McAfee\Platform,c,McDspWrp.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MPF\MPFOEM.dll,Program Files\McAfee\MPF,c,MPFOEM.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\Common Files\McAfee\UPDMGR\6.4.134.1\mcupdagent.dll,Program Files\Common Files\McAfee\UPDMGR\6.4.134.1,c,mcupdagent.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\CSP\2.9.175.0\mccspclientapi.dll,program files\common files\McAfee\CSP\2.9.175.0,c,mccspclientapi.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\webadvisor\win32\downloadscan.dll,program files\McAfee\webadvisor\win32,c,downloadscan.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\WssNgmAmbassador\NgmUIExtn.dll,Program Files\McAfee\MSC\WssNgmAmbassador,c,NgmUIExtn.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSK\MskSet64.dll,Program Files\McAfee\MSK,c,MskSet64.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\McPrsShm.dll,Program Files\McAfee\MSC,c,McPrsShm.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\webadvisor\webadvisor.ico,program files\McAfee\webadvisor,c,webadvisor.ico,ico,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MPF\MpfEvt.dll,Program Files\McAfee\MPF,c,MpfEvt.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\webadvisor\win32\wssdep.dll,program files\McAfee\webadvisor\win32,c,wssdep.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MPS\mpscfg.dll,Program Files\McAfee\MPS,c,mpscfg.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MfeAV\McOdsShm.dll,Program Files\McAfee\MfeAV,c,McOdsShm.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\modulecore\modulecoreservice.exe,program files\common files\McAfee\modulecore,c,modulecoreservice.exe,exe,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\CSP\3.0.127.0\mccspclientapi.dll,program files\common files\McAfee\CSP\3.0.127.0,c,mccspclientapi.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MPS\mpsver.dll,Program Files\McAfee\MPS,c,mpsver.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSK\mskoladd.dll,Program Files\McAfee\MSK,c,mskoladd.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\mcregobj\17 4 142 0\mcregobj.dll,Program Files\McAfee\MSC\mcregobj\17 4 142 0,c,mcregobj.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\McLogShm.dll,Program Files\McAfee\MSC,c,McLogShm.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\TskTCShm.dll,Program Files\McAfee\MSC,c,TskTCShm.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\clientanalytics\comapiproxy.dll,program files\common files\McAfee\clientanalytics,c,comapiproxy.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\webadvisor\x64\downloadscan.dll,program files\McAfee\webadvisor\x64,c,downloadscan.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\mcmispps.dll,Program Files\McAfee\MSC,c,mcmispps.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\Platform\platformservicefw.dll,program files\common files\McAfee\Platform,c,platformservicefw.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\webadvisor\x64\wssdep.dll,program files\McAfee\webadvisor\x64,c,wssdep.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MPF\MpfApiPS.dll,Program Files\McAfee\MPF,c,MpfApiPS.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\systemcore\mfemms.exe,program files\common files\McAfee\systemcore,c,mfemms.exe,exe,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\mcmscver.dll,Program Files\McAfee\MSC,c,mcmscver.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files (x86)\common files\McAfee\Platform\mcbr3264.dll,program files (x86)\common files\McAfee\Platform,c,mcbr3264.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\Common Files\McAfee\Platform\mcuicfg.dll,Program Files\Common Files\McAfee\Platform,c,mcuicfg.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\Common Files\McAfee\UPDMGR\6.2.117.2\mcupdagent.dll,Program Files\Common Files\McAfee\UPDMGR\6.2.117.2,c,mcupdagent.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MPS\mpsmspap.dll,Program Files\McAfee\MPS,c,mpsmspap.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\Common Files\McAfee\Platform\mcsystraymgr.dll,Program Files\Common Files\McAfee\Platform,c,mcsystraymgr.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\MPF\MpfSvc.dll,program files\McAfee\MPF,c,MpfSvc.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\McDBMgr.dll,Program Files\McAfee\MSC,c,McDBMgr.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files (x86)\common files\McAfee\Platform\platformservicefwps.dll,program files (x86)\common files\McAfee\Platform,c,platformservicefwps.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\MfeAV\mcqtax.dll,program files\McAfee\MfeAV,c,mcqtax.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\MHN\homenetsvc.dll,program files\common files\McAfee\MHN,c,homenetsvc.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\McMscShm.dll,Program Files\McAfee\MSC,c,McMscShm.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\Common Files\McAfee\ModuleCore\McDspBridge.dll,Program Files\Common Files\McAfee\ModuleCore,c,McDspBridge.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\clientanalytics\Win32\comapiproxy.dll,program files\common files\McAfee\clientanalytics\Win32,c,comapiproxy.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MPF\MpfAltPS.dll,Program Files\McAfee\MPF,c,MpfAltPS.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MfeAV\mvsap.dll,Program Files\McAfee\MfeAV,c,mvsap.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MfeAV\McOasShm.dll,Program Files\McAfee\MfeAV,c,McOasShm.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\Common Files\McAfee\Platform\Core\McEvtBrk.dll,Program Files\Common Files\McAfee\Platform\Core,c,McEvtBrk.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\mcuinshm.dll,Program Files\McAfee\MSC,c,mcuinshm.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\MSC\mcsubmgr\17 2 119 0\mcsubmgr.dll,Program Files\McAfee\MSC\mcsubmgr\17 2 119 0,c,mcsubmgr.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\MfeAV\AMSIExt.dll,program files\McAfee\MfeAV,c,AMSIExt.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\PEF\CORE\pefservice.exe,program files\common files\McAfee\PEF\CORE,c,pefservice.exe,exe,BUILTIN\Administrators
+EE474IAV,c:\Program Files (x86)\McAfee\MSC\McSnIePl.dll,Program Files (x86)\McAfee\MSC,c,McSnIePl.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Users\$user\AppData\Local\microsoft\OneDrive\OneDrive.exe,Users\$user\AppData\Local\microsoft\OneDrive,c,OneDrive.exe,exe,$domain\$user
+EE474IAV,c:\Program Files\McAfee\VUL\McVulDBU.dll,Program Files\McAfee\VUL,c,McVulDBU.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files (x86)\Common Files\McAfee\Platform\mispps.dll,Program Files (x86)\Common Files\McAfee\Platform,c,mispps.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\vscore_15_8\mcapexe.exe,program files\common files\McAfee\vscore_15_8,c,mcapexe.exe,exe,BUILTIN\Administrators
+EE474IAV,c:\Program Files\Common Files\McAfee\Platform\alertmgr.dll,Program Files\Common Files\McAfee\Platform,c,alertmgr.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\McAfee\MSK\mskpxplg.dll,program files\McAfee\MSK,c,mskpxplg.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\PEF\CORE\pefwebobjects.dll,program files\common files\McAfee\PEF\CORE,c,pefwebobjects.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\program files\common files\McAfee\systemcore\mfefire.exe,program files\common files\McAfee\systemcore,c,mfefire.exe,exe,BUILTIN\Administrators
+EE474IAV,c:\Program Files\Common Files\McAfee\Platform\Core\mccoreps.dll,Program Files\Common Files\McAfee\Platform\Core,c,mccoreps.dll,dll,BUILTIN\Administrators
+EE474IAV,c:\Program Files\McAfee\VUL\McVulVer.dll,Program Files\McAfee\VUL,c,McVulVer.dll,dll,BUILTIN\Administrators

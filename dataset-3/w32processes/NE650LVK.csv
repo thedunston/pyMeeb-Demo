@@ -1,0 +1,64 @@
+hostname,name,arguments,username,path,pid
+NE650LVK,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,1040
+NE650LVK,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,5700
+NE650LVK,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,4344
+NE650LVK,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",ada.and16,C:\Program Files\RealVNC\VNC Viewer,4362
+NE650LVK,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",ada.and16,C:\Program Files\TightVNC,5311
+NE650LVK,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /MONITOR /uac",ada.and16,C:\Program Files\CCleaner,4806
+NE650LVK,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,3108
+NE650LVK,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1752
+NE650LVK,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,4948
+NE650LVK,vmware-authd.exe,"""C:\Program Files (x86)\VMware\VMware Player\vmware-authd.exe""",eva.sande78,C:\Program Files (x86)\VMware\VMware Player,314
+NE650LVK,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,1560
+NE650LVK,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",eva.sande78,C:\Program Files\McAfee\MfeAV,3316
+NE650LVK,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\eva.sande78\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",eva.sande78,C:\Users\eva.sande78\AppData\Local\Temp\scoped_dir9616_4071,6404
+NE650LVK,Microsoft.Notes.exe,"""C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.0.119.0_x64__8wekyb3d8bbwe\Microsoft.Notes.exe"" -ServerName:App.AppX495fygk72hjw82j58ny5h3nr8hpsd8vs.mca",ada.and16,C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.0.119.0_x64__8wekyb3d8bbwe,1747
+NE650LVK,cmd.exe,"""C:\Windows\system32\cmd.exe"" ",eva.sande78,C:\Windows\system32,3654
+NE650LVK,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",eva.sande78,c:\program files\common files\mcafee\modulecore,3225
+NE650LVK,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /uac",ada.and16,C:\Program Files\CCleaner,1922
+NE650LVK,kitty-0.70.0.6.exe,"""C:\Users\eva.sande78\Documents\kitty-0.70.0.6.exe"" ",eva.sande78,C:\Users\eva.sande78\Documents,4950
+NE650LVK,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,1684
+NE650LVK,vmware-usbarbitrator64.exe,"""C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe""",eva.sande78,C:\Program Files (x86)\Common Files\VMware\USB,4975
+NE650LVK,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",ada.and16,C:\Program Files\internet explorer,1656
+NE650LVK,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\System32,1616
+NE650LVK,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{3EAE8C5E-B51F-4CBD-9DCE-FA6AA0BDF8B8},NT AUTHORITY\SYSTEM,C:\Windows\system32,2192
+NE650LVK,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",ada.and16,C:\Program Files\TightVNC,364
+NE650LVK,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4936
+NE650LVK,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,3628
+NE650LVK,slack.exe,"""C:\Users\ada.and16\AppData\Local\slack\app-3.1.1\slack.exe""",ada.and16,C:\Users\ada.and16\AppData\Local\slack\app-3.1.1,5439
+NE650LVK,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,1680
+NE650LVK,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",eva.sande78,C:\Program Files\McAfee\WebAdvisor,2384
+NE650LVK,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",eva.sande78,C:\Program Files\Common Files\McAfee\MMSSHost,2898
+NE650LVK,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",eva.sande78,C:\Program Files\Common Files\McAfee\PEF\CORE,1930
+NE650LVK,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",eva.sande78,C:\Program Files\Common Files\McAfee\AMCore,5417
+NE650LVK,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",eva.sande78,C:\Program Files\McAfee\WebAdvisor,5867
+NE650LVK,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5336
+NE650LVK,slack.exe,"C:\Users\ada.and16\AppData\Local\slack\app-3.1.1\slack.exe --reporter-url=https://slack.com/apps/breakpad?instanceUid=c116fa6f-e78f-4f7e-9927-09567265c493&amp;version=3.1.1&amp;channel=prod --application-name=Slack ""--crashes-directory=C:\Users\ada.and16\AppData\Local\Temp\Slack Crashes"" --v=1",ada.and16,C:\Users\ada.and16\AppData\Local\slack\app-3.1.1,3283
+NE650LVK,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",eva.sande78,C:\Program Files\Common Files\McAfee\ModuleCore,6144
+NE650LVK,conhost.exe,"\??\C:\Windows\system32\conhost.exe ""-29887463320281528418771495882049435123649789771-108284301750553232-1762948263",NT AUTHORITY\SYSTEM,C:\Windows\system32,5464
+NE650LVK,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",eva.sande78,C:\Program Files\Common Files\McAfee\TaskScheduler,1990
+NE650LVK,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,5260
+NE650LVK,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",eva.sande78,C:\Program Files\Common Files\McAfee\Platform\Core,4039
+NE650LVK,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,eva.sande78,C:\ProgramData\McAfee\McInstruTrack,5549
+NE650LVK,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,2060
+NE650LVK,slack.exe,"""C:\Users\ada.and16\AppData\Local\slack\app-3.1.1\slack.exe"" --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=7 10 11 20 24 26 43 63 76 --disable-gl-extensions=""GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent"" --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor=""Intel Corporation"" --gpu-driver-version=20.19.15.4331 --gpu-driver-date=11-18-2015 --service-request-channel-token=801A57F64621336F74806802DB83B30B --mojo-platform-channel-handle=1628 /prefetch:2",ada.and16,C:\Users\ada.and16\AppData\Local\slack\app-3.1.1,5276
+NE650LVK,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,6024
+NE650LVK,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,176
+NE650LVK,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",eva.sande78,C:\Program Files\McAfee\MAT,1669
+NE650LVK,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5032
+NE650LVK,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5680
+NE650LVK,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,1460
+NE650LVK,slack.exe,"""C:\Users\ada.and16\AppData\Local\slack\app-3.1.1\slack.exe"" --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=B3F36050C50A99BD488162270E67D4DD --lang=en-GB --standard-schemes=slack-resources slack-sounds slack-webapp-dev --app-user-model-id=com.squirrel.slack.slack --app-path=""C:\Users\ada.and16\AppData\Local\slack\app-3.1.1\resources\app.asar"" --node-integration=true --webview-tag=false --no-sandbox --preload=""C:\Users\ada.and16\AppData\Local\slack\app-3.1.1\resources\app.asar\src\static\index.js"" --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0 0 3553;0 1 3553;0 2 3553;0 3 3553;0 4 3553;0 5 3553;0 6 3553;0 7 3553;0 8 3553;0 9 3553;0 10 3553;0 11 3553;0 12 3553;0 13 3553;0 14 3553;0 15 3553;0 16 3553;1 0 3553;1 1 3553;1 2 3553;1 3 3553;1 4 3553;1 5 3553;1 6 3553;1 7 3553;1 8 3553;1 9 3553;1 10 3553;1 11 3553;1 12 3553;1 13 3553;1 14 3553;1 15 3553;1 16 3553;2 0 3553;2 1 3553;2 2 3553;2 3 3553;2 4 3553;2 5 3553;2 6 3553;2 7 3553;2 8 3553;2 9 3553;2 10 3553;2 11 3553;2 12 3553;2 13 3553;2 14 3553;2 15 3553;2 16 3553;3 0 3553;3 1 3553;3 2 3553;3 3 3553;3 4 3553;3 5 3553;3 6 3553;3 7 3553;3 8 3553;3 9 3553;3 10 3553;3 11 3553;3 12 3553;3 13 3553;3 14 3553;3 15 3553;3 16 3553;4 0 3553;4 1 3553;4 2 3553;4 3 3553;4 4 3553;4 5 3553;4 6 3553;4 7 3553;4 8 3553;4 9 3553;4 10 3553;4 11 3553;4 12 3553;4 13 3553;4 14 3553;4 15 3553;4 16 3553 --service-request-channel-token=B3F36050C50A99BD488162270E67D4DD --renderer-client-id=8 --mojo-platform-channel-handle=2336 /prefetch:1",ada.and16,C:\Users\ada.and16\AppData\Local\slack\app-3.1.1,4898
+NE650LVK,OneDrive.exe,"""C:\Users\ada.and16\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",ada.and16,C:\Users\ada.and16\AppData\Local\Microsoft\OneDrive,4150
+NE650LVK,svchost.exe,C:\Windows\system32\svchost.exe -k regsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,544
+NE650LVK,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,eva.sande78,C:\ProgramData\McAfee\Direct,3747
+NE650LVK,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,2928
+NE650LVK,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",eva.sande78,C:\Program Files\Common Files\mcafee\Platform,2730
+NE650LVK,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",eva.sande78,C:\ProgramData\McAfee\Direct,2262
+NE650LVK,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",ada.and16,C:\Windows\system32,1407
+NE650LVK,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,eva.sande78,c:\program files\common files\mcafee\modulecore,1822
+NE650LVK,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3412
+NE650LVK,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,4952
+NE650LVK,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",eva.sande78,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,5348
+NE650LVK,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",eva.sande78,C:\Program Files\Common Files\McAfee\VSCore_18_6,1419
+NE650LVK,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,4928

@@ -1,0 +1,61 @@
+hostname,name,arguments,username,path,pid
+WL721PKA,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",charlo.rami,C:\Program Files\Common Files\McAfee\AMCore,5928
+WL721PKA,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,6216
+WL721PKA,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",charlo.rami,C:\Program Files\Common Files\McAfee\PEF\CORE,3031
+WL721PKA,mintty.exe,"usr\bin\mintty.exe --nodaemon -o AppID=GitForWindows.Bash -o AppLaunchCmd=""C:\Program Files\Git\git-bash.exe"" -o AppName=""Git Bash"" -i ""C:\Program Files\Git\git-bash.exe"" --store-taskbar-properties -- /usr/bin/bash --login -i",charlo.rami,C:\Program Files\Git\usr\bin,3992
+WL721PKA,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",nathanie.ros,C:\Program Files\TightVNC,2821
+WL721PKA,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",charlo.rami,C:\Program Files\Common Files\McAfee\TaskScheduler,1533
+WL721PKA,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,976
+WL721PKA,kitty-0.70.0.6.exe,"""C:\Users\nathanie.ros\Documents\kitty-0.70.0.6.exe"" ",nathanie.ros,C:\Users\nathanie.ros\Documents,1399
+WL721PKA,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,1420
+WL721PKA,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",charlo.rami,C:\Program Files\McAfee\MfeAV,4640
+WL721PKA,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2528
+WL721PKA,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,3392
+WL721PKA,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,2732
+WL721PKA,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,charlo.rami,c:\program files\common files\mcafee\modulecore,5674
+WL721PKA,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,5524
+WL721PKA,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",charlo.rami,C:\ProgramData\McAfee\Direct,1210
+WL721PKA,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,charlo.rami,C:\ProgramData\McAfee\McInstruTrack,6156
+WL721PKA,conhost.exe,"\??\C:\Windows\system32\conhost.exe ""-29887463320281528418771495882049435123649789771-108284301750553232-1762948263",NT AUTHORITY\SYSTEM,C:\Windows\system32,2268
+WL721PKA,vmware-usbarbitrator64.exe,"""C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe""",charlo.rami,C:\Program Files (x86)\Common Files\VMware\USB,5838
+WL721PKA,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\charlo.rami\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",charlo.rami,C:\Users\charlo.rami\AppData\Local\Temp\scoped_dir9616_4071,3335
+WL721PKA,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",nathanie.ros,C:\Program Files\internet explorer,4581
+WL721PKA,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",charlo.rami,C:\Program Files\Common Files\McAfee\Platform\Core,5969
+WL721PKA,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,6252
+WL721PKA,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\System32,4956
+WL721PKA,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,charlo.rami,C:\ProgramData\McAfee\Direct,1335
+WL721PKA,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",charlo.rami,C:\Program Files\Common Files\McAfee\MMSSHost,4460
+WL721PKA,OneDrive.exe,"""C:\Users\nathanie.ros\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",nathanie.ros,C:\Users\nathanie.ros\AppData\Local\Microsoft\OneDrive,4934
+WL721PKA,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",charlo.rami,C:\Program Files\McAfee\MAT,5508
+WL721PKA,svchost.exe,C:\Windows\system32\svchost.exe -k regsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,4700
+WL721PKA,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,784
+WL721PKA,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{3EAE8C5E-B51F-4CBD-9DCE-FA6AA0BDF8B8},NT AUTHORITY\SYSTEM,C:\Windows\system32,6488
+WL721PKA,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",charlo.rami,c:\program files\common files\mcafee\modulecore,491
+WL721PKA,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,4216
+WL721PKA,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,480
+WL721PKA,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",charlo.rami,C:\Program Files\McAfee\WebAdvisor,3420
+WL721PKA,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",charlo.rami,C:\Program Files\McAfee\WebAdvisor,1569
+WL721PKA,bash.exe,"""C:\Program Files\Git\usr\bin\bash.exe""",charlo.rami,C:\Program Files\Git\usr\bin,1560
+WL721PKA,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",charlo.rami,C:\Program Files\Common Files\McAfee\VSCore_18_6,5697
+WL721PKA,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",charlo.rami,C:\Program Files\Common Files\McAfee\ModuleCore,683
+WL721PKA,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,6048
+WL721PKA,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",nathanie.ros,C:\Windows\system32,2740
+WL721PKA,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,1204
+WL721PKA,powershell.exe,"""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" ",nathanie.ros,C:\Windows\System32\WindowsPowerShell\v1.0,2501
+WL721PKA,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2144
+WL721PKA,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,1652
+WL721PKA,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,2240
+WL721PKA,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,2276
+WL721PKA,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4256
+WL721PKA,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4580
+WL721PKA,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,164
+WL721PKA,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4568
+WL721PKA,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",nathanie.ros,C:\Program Files\TightVNC,2245
+WL721PKA,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",nathanie.ros,C:\Program Files\RealVNC\VNC Viewer,3952
+WL721PKA,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,3528
+WL721PKA,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",charlo.rami,C:\Program Files\Common Files\mcafee\Platform,4864
+WL721PKA,mspaint.exe,"""C:\Windows\system32\mspaint.exe"" ",nathanie.ros,C:\Windows\system32,4764
+WL721PKA,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",charlo.rami,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,1194
+WL721PKA,git-bash.exe,"""C:\Program Files\Git\git-bash.exe"" ""--cd=C:\Users\charlo.rami\Desktop.""",charlo.rami,C:\Program Files\Git,1325
+WL721PKA,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,6192
+WL721PKA,vmware-authd.exe,"""C:\Program Files (x86)\VMware\VMware Player\vmware-authd.exe""",charlo.rami,C:\Program Files (x86)\VMware\VMware Player,6222

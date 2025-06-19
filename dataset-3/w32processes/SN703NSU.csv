@@ -1,0 +1,59 @@
+hostname,name,arguments,username,path,pid
+SN703NSU,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,jonatha.harr78,c:\program files\common files\mcafee\modulecore,2916
+SN703NSU,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,584
+SN703NSU,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",samevans,C:\Program Files\TightVNC,1772
+SN703NSU,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4692
+SN703NSU,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",jonatha.harr78,C:\Program Files\Common Files\mcafee\Platform,1393
+SN703NSU,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",jonatha.harr78,C:\Program Files\Common Files\McAfee\PEF\CORE,305
+SN703NSU,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",jonatha.harr78,C:\ProgramData\McAfee\Direct,2804
+SN703NSU,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,3580
+SN703NSU,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,3692
+SN703NSU,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{3EAE8C5E-B51F-4CBD-9DCE-FA6AA0BDF8B8},NT AUTHORITY\SYSTEM,C:\Windows\system32,5948
+SN703NSU,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,5112
+SN703NSU,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2364
+SN703NSU,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",jonatha.harr78,C:\Program Files\McAfee\WebAdvisor,2009
+SN703NSU,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",jonatha.harr78,C:\Program Files\Common Files\McAfee\Platform\Core,1373
+SN703NSU,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,4524
+SN703NSU,svchost.exe,C:\Windows\system32\svchost.exe -k regsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,6456
+SN703NSU,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",jonatha.harr78,C:\Program Files\McAfee\MfeAV,5580
+SN703NSU,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",samevans,C:\Program Files\internet explorer,1253
+SN703NSU,KeePassXC.exe,"""C:\Program Files\KeePassXC\KeePassXC.exe"" ",jonatha.harr78,C:\Program Files\KeePassXC,3131
+SN703NSU,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1312
+SN703NSU,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",jonatha.harr78,c:\program files\common files\mcafee\modulecore,3812
+SN703NSU,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,232
+SN703NSU,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3940
+SN703NSU,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,364
+SN703NSU,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,664
+SN703NSU,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",jonatha.harr78,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,2633
+SN703NSU,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\jonatha.harr78\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",jonatha.harr78,C:\Users\jonatha.harr78\AppData\Local\Temp\scoped_dir9616_4071,5754
+SN703NSU,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,596
+SN703NSU,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",jonatha.harr78,C:\Program Files\McAfee\MAT,971
+SN703NSU,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,2316
+SN703NSU,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",jonatha.harr78,C:\Program Files\Common Files\McAfee\TaskScheduler,3425
+SN703NSU,GitHubDesktop.exe,"""C:\Users\samevans\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --squirrel-firstrun",samevans,C:\Users\samevans\AppData\Local\GitHubDesktop\app-1.4.3,5379
+SN703NSU,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,516
+SN703NSU,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\System32,1880
+SN703NSU,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,1828
+SN703NSU,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",samevans,C:\Program Files\TightVNC,5281
+SN703NSU,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",samevans,C:\Program Files\RealVNC\VNC Viewer,754
+SN703NSU,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",jonatha.harr78,C:\Program Files\Common Files\McAfee\VSCore_18_6,766
+SN703NSU,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,3916
+SN703NSU,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",jonatha.harr78,C:\Program Files\McAfee\WebAdvisor,5022
+SN703NSU,GitHubDesktop.exe,"""C:\Users\samevans\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=9 12 13 23 27 29 49 70 84 --disable-gl-extensions=""GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent"" --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor=""Intel Corporation"" --gpu-driver-version=20.19.15.4331 --gpu-driver-date=11-18-2015 --service-request-channel-token=29571E74A71F5219E432184D13D76C95 --mojo-platform-channel-handle=1732 /prefetch:2",samevans,C:\Users\samevans\AppData\Local\GitHubDesktop\app-1.4.3,5688
+SN703NSU,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",samevans,C:\Program Files\internet explorer,4873
+SN703NSU,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,436
+SN703NSU,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,292
+SN703NSU,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",jonatha.harr78,C:\Program Files\Common Files\McAfee\MMSSHost,4784
+SN703NSU,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",jonatha.harr78,C:\Program Files\Common Files\McAfee\ModuleCore,5516
+SN703NSU,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",jonatha.harr78,C:\Program Files\Common Files\McAfee\AMCore,5247
+SN703NSU,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,4956
+SN703NSU,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,688
+SN703NSU,conhost.exe,"\??\C:\Windows\system32\conhost.exe ""-29887463320281528418771495882049435123649789771-108284301750553232-1762948263",NT AUTHORITY\SYSTEM,C:\Windows\system32,2636
+SN703NSU,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,540
+SN703NSU,chrome.exe,"""C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"" --type=renderer --field-trial-handle=1556 1270622256617353588 15561965010207222735 131072 --service-pipe-token=1352282089870284743 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --service-request-channel-token=1352282089870284743 --renderer-client-id=45 --mojo-platform-channel-handle=7884 /prefetch:1",jonatha.harr78,C:\Program Files (x86)\Google\Chrome\Application,5063
+SN703NSU,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,jonatha.harr78,C:\ProgramData\McAfee\McInstruTrack,3942
+SN703NSU,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,2368
+SN703NSU,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,jonatha.harr78,C:\ProgramData\McAfee\Direct,997
+SN703NSU,OneDrive.exe,"""C:\Users\jonatha.harr78\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",jonatha.harr78,C:\Users\jonatha.harr78\AppData\Local\Microsoft\OneDrive,3790
+SN703NSU,pcalua.exe,C:\Windows\System32\pcalua.exe -a C:\Program Files\Common Files\Internet Explorer\setupplatform.dll,jonatha.harr78,C:\Windows\System32\pcalua.exe,4408
+SN703NSU,mavinject.exe,C:\Windows\System32\mavinject.exe 584 /INJECTRUNNING C:\Windows\servicing\LCUwmprph.dll,NT AUTHORITY\SYSTEM,C:\Windows\System32\mavinject.exe,4052

@@ -1,0 +1,49 @@
+hostname,name,arguments,username,path,pid
+WB281FHJ,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",bryanhil,C:\Program Files\Common Files\McAfee\VSCore_18_6,5707
+WB281FHJ,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,5408
+WB281FHJ,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",bryanhil,C:\Program Files\Common Files\McAfee\Platform\Core,3733
+WB281FHJ,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",bryanhil,C:\ProgramData\McAfee\Direct,2708
+WB281FHJ,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",bryanhil,C:\Program Files\McAfee\MAT,2357
+WB281FHJ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,5752
+WB281FHJ,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5292
+WB281FHJ,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",bryanhil,C:\Program Files\internet explorer,2361
+WB281FHJ,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,bryanhil,C:\ProgramData\McAfee\Direct,527
+WB281FHJ,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,2480
+WB281FHJ,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,5280
+WB281FHJ,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",jos.turne,C:\Program Files\TightVNC,4540
+WB281FHJ,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",bryanhil,C:\Program Files\Common Files\McAfee\ModuleCore,1911
+WB281FHJ,soffice.bin,"""C:\Program Files (x86)\OpenOffice 4\program\soffice.exe"" ""-env:OOO_CWD=2C:\\Program Files (x86)\\OpenOffice 4""",jos.turne,C:\Program Files (x86)\OpenOffice 4\program,2948
+WB281FHJ,OneDrive.exe,"""C:\Users\bryanhil\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",bryanhil,C:\Users\bryanhil\AppData\Local\Microsoft\OneDrive,4251
+WB281FHJ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,3332
+WB281FHJ,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3440
+WB281FHJ,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,1680
+WB281FHJ,taskhostex.exe,taskhostex.exe ,NT AUTHORITY\SYSTEM,C:\Windows\system32,4064
+WB281FHJ,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",bryanhil,C:\Program Files\McAfee\WebAdvisor,2633
+WB281FHJ,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,196
+WB281FHJ,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",bryanhil,C:\Program Files\Common Files\McAfee\PEF\CORE,2510
+WB281FHJ,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",bryanhil,C:\Program Files\Common Files\McAfee\AMCore,5371
+WB281FHJ,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",jos.turne,C:\Program Files\RealVNC\VNC Viewer,747
+WB281FHJ,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",bryanhil,C:\Program Files\McAfee\MfeAV,5631
+WB281FHJ,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",jos.turne,C:\Program Files\TightVNC,2457
+WB281FHJ,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",bryanhil,c:\program files\common files\mcafee\modulecore,558
+WB281FHJ,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",bryanhil,C:\Program Files\Common Files\McAfee\MMSSHost,4010
+WB281FHJ,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",bryanhil,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,663
+WB281FHJ,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,bryanhil,C:\ProgramData\McAfee\McInstruTrack,283
+WB281FHJ,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3528
+WB281FHJ,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2448
+WB281FHJ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4568
+WB281FHJ,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\bryanhil\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",bryanhil,C:\Users\bryanhil\AppData\Local\Temp\scoped_dir9616_4071,6366
+WB281FHJ,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",bryanhil,C:\Program Files\Common Files\McAfee\TaskScheduler,1539
+WB281FHJ,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5296
+WB281FHJ,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,4500
+WB281FHJ,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",bryanhil,C:\Program Files\McAfee\WebAdvisor,4661
+WB281FHJ,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1392
+WB281FHJ,soffice.exe,"""C:\Program Files (x86)\OpenOffice 4\program\soffice.exe"" ",jos.turne,C:\Program Files (x86)\OpenOffice 4\program,1906
+WB281FHJ,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,bryanhil,c:\program files\common files\mcafee\modulecore,4193
+WB281FHJ,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",bryanhil,C:\Program Files\Common Files\mcafee\Platform,2764
+WB281FHJ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,5380
+WB281FHJ,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5972
+WB281FHJ,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,3364
+WB281FHJ,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,4716
+WB281FHJ,wmiprvse.exe,C:\Windows\system32\wbem\wmiprvse.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32\wbem,644
+WB281FHJ,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,1016

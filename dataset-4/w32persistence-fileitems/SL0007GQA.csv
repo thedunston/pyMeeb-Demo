@@ -1,0 +1,25 @@
+hostname,fullpath,filepath,drive,filename,fileextension,username
+SL0007GQA,c:\Windows\System32\rdpencom.dll,Windows\System32,c,rdpencom.dll,dll,NT SERVICE\TrustedInstaller
+SL0007GQA,c:\program files (x86)\panda security\panda security protection\psuashell.dll,program files (x86)\panda security\panda security protection,c,psuashell.dll,dll,NT AUTHORITY\SYSTEM
+SL0007GQA,c:\Windows\SysWOW64\onedrivesetup.exe,Windows\SysWOW64,c,onedrivesetup.exe,exe,NT SERVICE\TrustedInstaller
+SL0007GQA,c:\Windows\System32\onedrivesettingsyncprovider.dll,Windows\System32,c,onedrivesettingsyncprovider.dll,dll,NT SERVICE\TrustedInstaller
+SL0007GQA,c:\Windows\System32\rdpendp.dll,Windows\System32,c,rdpendp.dll,dll,NT SERVICE\TrustedInstaller
+SL0007GQA,c:\Users\$user\AppData\Local\microsoft\OneDrive\OneDrive.exe,Users\$user\AppData\Local\microsoft\OneDrive,c,OneDrive.exe,exe,$domain\$user
+SL0007GQA,c:\Windows\System32\umrdp.dll,Windows\System32,c,umrdp.dll,dll,NT SERVICE\TrustedInstaller
+SL0007GQA,c:\program files (x86)\panda security\panda devices agent\AgentSvc.exe,program files (x86)\panda security\panda devices agent,c,AgentSvc.exe,exe,NT AUTHORITY\SYSTEM
+SL0007GQA,c:\program files\cyberghost 6\cyberghost.exe,program files\cyberghost 6,c,cyberghost.exe,exe,BUILTIN\Administrators
+SL0007GQA,c:\program files (x86)\panda security\panda security protection\hydra.sdk.windows.service.exe,program files (x86)\panda security\panda security protection,c,hydra.sdk.windows.service.exe,exe,NT AUTHORITY\SYSTEM
+SL0007GQA,c:\Windows\System32\drivers\rdpvideominiport.sys,Windows\System32\drivers,c,rdpvideominiport.sys,sys,NT SERVICE\TrustedInstaller
+SL0007GQA,c:\Windows\System32\RdpSaPs.dll,Windows\System32,c,RdpSaPs.dll,dll,NT SERVICE\TrustedInstaller
+SL0007GQA,c:\program files\windows photo viewer\PhotoAcq.dll,program files\windows photo viewer,c,PhotoAcq.dll,dll,NT SERVICE\TrustedInstaller
+SL0007GQA,C:\Windows\system32\rdpclip.EXE,Windows\system32,C,rdpclip.EXE,EXE,NT SERVICE\TrustedInstaller
+SL0007GQA,c:\Windows\System32\drivers\rdpbus.sys,Windows\System32\drivers,c,rdpbus.sys,sys,NT SERVICE\TrustedInstaller
+SL0007GQA,c:\Windows\System32\msrdpwebaccess.dll,Windows\System32,c,msrdpwebaccess.dll,dll,NT SERVICE\TrustedInstaller
+SL0007GQA,c:\program files (x86)\panda security\panda security protection\PSUAMain.exe,program files (x86)\panda security\panda security protection,c,PSUAMain.exe,exe,NT AUTHORITY\SYSTEM
+SL0007GQA,c:\program files (x86)\panda security\panda security protection\psuaservice.exe,program files (x86)\panda security\panda security protection,c,psuaservice.exe,exe,NT AUTHORITY\SYSTEM
+SL0007GQA,c:\Windows\System32\rdpcorets.dll,Windows\System32,c,rdpcorets.dll,dll,NT SERVICE\TrustedInstaller
+SL0007GQA,C:\Program Files\Common Files\system\wab32.dll,Program Files\Common Files\system,C,wab32.dll,dll,NT SERVICE\TrustedInstaller
+SL0007GQA,c:\Windows\System32\wabsyncprovider.dll,Windows\System32,c,wabsyncprovider.dll,dll,NT SERVICE\TrustedInstaller
+SL0007GQA,c:\Windows\System32\drivers\rdpdr.sys,Windows\System32\drivers,c,rdpdr.sys,sys,NT SERVICE\TrustedInstaller
+SL0007GQA,c:\program files\windows mail\wab.exe,program files\windows mail,c,wab.exe,exe,NT SERVICE\TrustedInstaller
+SL0007GQA,c:\program files (x86)\panda security\panda security protection\PSANHost.exe,program files (x86)\panda security\panda security protection,c,PSANHost.exe,exe,NT AUTHORITY\SYSTEM

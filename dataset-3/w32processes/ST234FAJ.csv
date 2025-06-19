@@ -1,0 +1,56 @@
+hostname,name,arguments,username,path,pid
+ST234FAJ,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,3784
+ST234FAJ,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",eleawalke,C:\Program Files\Common Files\McAfee\ModuleCore,235
+ST234FAJ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,5284
+ST234FAJ,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",eleawalke,C:\Program Files\McAfee\WebAdvisor,2052
+ST234FAJ,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",eleawalke,C:\Program Files\Common Files\McAfee\AMCore,707
+ST234FAJ,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,5280
+ST234FAJ,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4964
+ST234FAJ,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,eleawalke,c:\program files\common files\mcafee\modulecore,973
+ST234FAJ,RdrCEF.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF.exe"" --backgroundcolor=16514043",eleawalke,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF,5259
+ST234FAJ,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,5740
+ST234FAJ,KeePassXC.exe,"""C:\Program Files\KeePassXC\KeePassXC.exe"" ",eleawalke,C:\Program Files\KeePassXC,2424
+ST234FAJ,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",eleawalke,C:\Program Files\Common Files\McAfee\PEF\CORE,2106
+ST234FAJ,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,eleawalke,C:\ProgramData\McAfee\Direct,1163
+ST234FAJ,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,3068
+ST234FAJ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,6088
+ST234FAJ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,2612
+ST234FAJ,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",eleawalke,C:\Program Files\Common Files\McAfee\Platform\Core,1813
+ST234FAJ,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5872
+ST234FAJ,AcroRd32.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe"" --type=renderer /prefetch:1",eleawalke,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader,5504
+ST234FAJ,vmware-authd.exe,"""C:\Program Files (x86)\VMware\VMware Player\vmware-authd.exe""",eleawalke,C:\Program Files (x86)\VMware\VMware Player,2955
+ST234FAJ,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",eleawalke,C:\Program Files\McAfee\WebAdvisor,5211
+ST234FAJ,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2468
+ST234FAJ,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3388
+ST234FAJ,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",eleawalke,C:\Program Files\TightVNC,1400
+ST234FAJ,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",eleawalke,C:\Program Files\Common Files\McAfee\VSCore_18_6,1242
+ST234FAJ,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",eleawalke,C:\Program Files\Common Files\McAfee\MMSSHost,3580
+ST234FAJ,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,856
+ST234FAJ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,3108
+ST234FAJ,vmware-usbarbitrator64.exe,"""C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe""",eleawalke,C:\Program Files (x86)\Common Files\VMware\USB,4673
+ST234FAJ,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",eleawalke,C:\Program Files\McAfee\MfeAV,4133
+ST234FAJ,chrome.exe,"""C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"" --type=renderer --field-trial-handle=1556 1270622256617353588 15561965010207222735 131072 --service-pipe-token=1352282089870284743 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --service-request-channel-token=1352282089870284743 --renderer-client-id=45 --mojo-platform-channel-handle=7884 /prefetch:1",eleawalke,C:\Program Files (x86)\Google\Chrome\Application,3228
+ST234FAJ,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",eleawalke,C:\Program Files\Common Files\McAfee\TaskScheduler,2759
+ST234FAJ,OneDrive.exe,"""C:\Users\landcoop\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",landcoop,C:\Users\landcoop\AppData\Local\Microsoft\OneDrive,3524
+ST234FAJ,wmiprvse.exe,C:\Windows\system32\wbem\wmiprvse.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32\wbem,5664
+ST234FAJ,AcroRd32.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe"" ",eleawalke,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader,3982
+ST234FAJ,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4364
+ST234FAJ,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",eleawalke,C:\Program Files\TightVNC,1906
+ST234FAJ,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,1600
+ST234FAJ,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",eleawalke,C:\Program Files\RealVNC\VNC Viewer,6235
+ST234FAJ,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",eleawalke,C:\Program Files\McAfee\MAT,237
+ST234FAJ,armsvc.exe,"""C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe""",eleawalke,C:\Program Files (x86)\Common Files\Adobe\ARM\1.0,6343
+ST234FAJ,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",eleawalke,C:\Program Files\Common Files\mcafee\Platform,894
+ST234FAJ,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",eleawalke,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,277
+ST234FAJ,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\eleawalke\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",eleawalke,C:\Users\eleawalke\AppData\Local\Temp\scoped_dir9616_4071,1607
+ST234FAJ,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,eleawalke,C:\ProgramData\McAfee\McInstruTrack,4441
+ST234FAJ,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,6428
+ST234FAJ,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4576
+ST234FAJ,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",nathanie.ros,C:\Program Files\internet explorer,4246
+ST234FAJ,RdrCEF.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF.exe"" --type=renderer --disable-browser-side-navigation --disable-gpu-compositing --service-pipe-token=49849BA2F50EBF33EAD978C1E9CA6D55 --lang=en-US --disable-pack-loading --lang=en-US --log-file=""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\debug.log"" --log-severity=disable --product-version=""ReaderServices/19.8.20071 Chrome/64.0.3282.119"" --enable-pinch --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0 0 3553;0 1 3553;0 2 3553;0 3 3553;0 4 3553;0 5 3553;0 6 3553;0 7 3553;0 8 3553;0 9 3553;0 10 3553;0 11 3553;0 12 3553;0 13 3553;0 14 3553;0 15 3553;0 16 3553;0 17 3553;0 18 3553;1 0 3553;1 1 3553;1 2 3553;1 3 3553;1 4 3553;1 5 3553;1 6 3553;1 7 3553;1 8 3553;1 9 3553;1 10 3553;1 11 3553;1 12 3553;1 13 3553;1 14 3553;1 15 3553;1 16 3553;1 17 3553;1 18 3553;2 0 3553;2 1 3553;2 2 3553;2 3 3553;2 4 3553;2 5 3553;2 6 3553;2 7 3553;2 8 3553;2 9 3553;2 10 3553;2 11 3553;2 12 3553;2 13 3553;2 14 3553;2 15 3553;2 16 3553;2 17 3553;2 18 3553;3 0 3553;3 1 3553;3 2 3553;3 3 3553;3 4 3553;3 5 3553;3 6 3553;3 7 3553;3 8 3553;3 9 3553;3 10 3553;3 11 3553;3 12 3553;3 13 3553;3 14 3553;3 15 3553;3 16 3553;3 17 3553;3 18 3553;4 0 3553;4 1 3553;4 2 3553;4 3 3553;4 4 3553;4 5 3553;4 6 3553;4 7 3553;4 8 3553;4 9 3553;4 10 3553;4 11 3553;4 12 3553;4 13 3553;4 14 3553;4 15 3553;4 16 3553;4 17 3553;4 18 3553;5 0 3553;5 1 3553;5 2 3553;5 3 3553;5 4 3553;5 5 3553;5 6 3553;5 7 3553;5 8 3553;5 9 3553;5 10 3553;5 11 3553;5 12 3553;5 13 3553;5 14 3553;5 15 3553;5 16 3553;5 17 3553;5 18 3553;6 0 3553;6 1 3553;6 2 3553;6 3 3553;6 4 3553;6 5 3553;6 6 3553;6 7 3553;6 8 3553;6 9 3553;6 10 3553;6 11 3553;6 12 3553;6 13 3553;6 14 3553;6 15 3553;6 16 3553;6 17 3553;6 18 3553 --disable-accelerated-video-decode --service-request-channel-token=49849BA2F50EBF33EAD978C1E9CA6D55 --renderer-client-id=4 --mojo-platform-channel-handle=2328 --allow-no-sandbox-job /prefetch:1",eleawalke,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF,1061
+ST234FAJ,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,3196
+ST234FAJ,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,940
+ST234FAJ,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",eleawalke,C:\ProgramData\McAfee\Direct,1565
+ST234FAJ,taskhostex.exe,taskhostex.exe ,NT AUTHORITY\SYSTEM,C:\Windows\system32,4872
+ST234FAJ,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",eleawalke,c:\program files\common files\mcafee\modulecore,2343
+ST234FAJ,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,324

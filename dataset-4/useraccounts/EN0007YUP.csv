@@ -1,0 +1,5 @@
+username,hostname,domain-admin,local-admin,domain-user,local-user
+bonnie.cox,EN0007YUP,False,False,True,False
+svc_it,EN0007YUP,True,False,True,False
+robe.sanch29,EN0007YUP,False,False,False,True
+support_615735,EN0007YUP,False,True,False,True

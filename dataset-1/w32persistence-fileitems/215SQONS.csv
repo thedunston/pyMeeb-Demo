@@ -1,0 +1,6 @@
+hostname,fullpath,filepath,drive,filename,fileextension,username
+215SQONS,c:\Windows\System32\onedrivesettingsyncprovider.dll,Windows\System32,c,onedrivesettingsyncprovider.dll,dll,NT SERVICE\TrustedInstaller
+215SQONS,c:\program files\TightVNC\tvnserver.exe,program files\TightVNC,c,tvnserver.exe,exe,NT AUTHORITY\SYSTEM
+215SQONS,c:\Windows\SysWOW64\onedrivesetup.exe,Windows\SysWOW64,c,onedrivesetup.exe,exe,NT SERVICE\TrustedInstaller
+215SQONS,c:\program files\malwarebytes\anti-malware\mbamservice.exe,program files\malwarebytes\anti-malware,c,mbamservice.exe,exe,BUILTIN\Administrators
+215SQONS,c:\Users\$user\AppData\Local\microsoft\OneDrive\OneDrive.exe,Users\$user\AppData\Local\microsoft\OneDrive,c,OneDrive.exe,exe,$domain\$user

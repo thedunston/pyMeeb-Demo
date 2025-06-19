@@ -1,0 +1,67 @@
+hostname,name,arguments,username,path,pid
+ET316GFN,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,6236
+ET316GFN,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,vionelso32,C:\ProgramData\McAfee\Direct,4513
+ET316GFN,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\vionelso32\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",vionelso32,C:\Users\vionelso32\AppData\Local\Temp\scoped_dir9616_4071,1411
+ET316GFN,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,vionelso32,c:\program files\common files\mcafee\modulecore,5695
+ET316GFN,powershell.exe,"""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" ",jad.wilson,C:\Windows\System32\WindowsPowerShell\v1.0,1207
+ET316GFN,reg.exe,"C:\Windows\System32\reg.exe add ""HKEY_CURRENT_USER\Control Panel\Desktop"" /v ScreenSaverIsSecure /t REG_SZ /d 0 /f",brya.rog,C:\Windows\System32\reg.exe,3512
+ET316GFN,OneDrive.exe,"""C:\Users\vionelso32\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",vionelso32,C:\Users\vionelso32\AppData\Local\Microsoft\OneDrive,4596
+ET316GFN,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",vionelso32,c:\program files\common files\mcafee\modulecore,4486
+ET316GFN,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",vionelso32,C:\Program Files\McAfee\WebAdvisor,2659
+ET316GFN,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3708
+ET316GFN,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,2404
+ET316GFN,MpCmdRun.exe,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Defender,5360
+ET316GFN,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,NT AUTHORITY\SYSTEM,C:\Windows\system32,44
+ET316GFN,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},NT AUTHORITY\SYSTEM,C:\Windows\system32,140
+ET316GFN,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,148
+ET316GFN,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",vionelso32,C:\Program Files\Common Files\McAfee\MMSSHost,4125
+ET316GFN,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,172
+ET316GFN,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,1644
+ET316GFN,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,1988
+ET316GFN,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,3264
+ET316GFN,reg.exe,"C:\Windows\System32\reg.exe add ""HKEY_CURRENT_USER\Control Panel\Desktop"" /v ScreenSaveActive /t REG_SZ /d 1 /f",jad.wilson,C:\Windows\System32\reg.exe,568
+ET316GFN,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",vionelso32,C:\Program Files\Common Files\McAfee\AMCore,5547
+ET316GFN,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,2464
+ET316GFN,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",vionelso32,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,5458
+ET316GFN,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",vionelso32,C:\Program Files\Common Files\McAfee\PEF\CORE,6392
+ET316GFN,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,3640
+ET316GFN,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,C:\Windows\System32,3372
+ET316GFN,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",vionelso32,C:\Program Files\Common Files\McAfee\ModuleCore,267
+ET316GFN,sqlservr.exe,"""C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn\sqlservr.exe"" -sSQLEXPRESS",vionelso32,C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn,5817
+ET316GFN,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,5788
+ET316GFN,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5212
+ET316GFN,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,1252
+ET316GFN,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,6224
+ET316GFN,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel,NT AUTHORITY\SYSTEM,C:\Windows\system32,1248
+ET316GFN,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,2452
+ET316GFN,TabTip32.exe,/loadhooks /Parent:0000000000001188,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,400
+ET316GFN,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",vionelso32,C:\Program Files\Common Files\mcafee\Platform,3600
+ET316GFN,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,2340
+ET316GFN,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,6316
+ET316GFN,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",brya.rog,C:\Program Files\internet explorer,3996
+ET316GFN,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,6380
+ET316GFN,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,6460
+ET316GFN,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",vionelso32,C:\Program Files\Common Files\McAfee\Platform\Core,2918
+ET316GFN,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2752
+ET316GFN,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,360
+ET316GFN,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,1136
+ET316GFN,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",vionelso32,C:\Program Files\McAfee\WebAdvisor,4118
+ET316GFN,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,vionelso32,C:\ProgramData\McAfee\McInstruTrack,1046
+ET316GFN,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4736
+ET316GFN,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",vionelso32,C:\Program Files\McAfee\MfeAV,1156
+ET316GFN,reg.exe,"C:\Windows\System32\reg.exe add ""HKEY_CURRENT_USER\Control Panel\Desktop"" /v ScreenSaverTimeout /t REG_SZ /d 60 /f",brya.rog,C:\Windows\System32\reg.exe,796
+ET316GFN,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,4628
+ET316GFN,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",vionelso32,C:\Program Files\RealVNC\VNC Viewer,976
+ET316GFN,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",vionelso32,C:\Program Files\Common Files\McAfee\VSCore_18_6,4833
+ET316GFN,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",vionelso32,C:\Program Files\TightVNC,3228
+ET316GFN,KeePassXC.exe,"""C:\Program Files\KeePassXC\KeePassXC.exe"" ",vionelso32,C:\Program Files\KeePassXC,2545
+ET316GFN,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",vionelso32,C:\Program Files\Common Files\McAfee\TaskScheduler,4722
+ET316GFN,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",vionelso32,C:\Program Files\McAfee\MAT,6279
+ET316GFN,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",vionelso32,C:\Program Files\TightVNC,2501
+ET316GFN,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,56
+ET316GFN,mspaint.exe,"""C:\Windows\system32\mspaint.exe"" ",brya.rog,C:\Windows\system32,1876
+ET316GFN,LogonUI.exe,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",NT AUTHORITY\SYSTEM,C:\Windows\system32,1956
+ET316GFN,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4052
+ET316GFN,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,6044
+ET316GFN,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,1476
+ET316GFN,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",vionelso32,C:\ProgramData\McAfee\Direct,1934

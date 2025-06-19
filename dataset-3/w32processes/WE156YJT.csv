@@ -1,0 +1,61 @@
+hostname,name,arguments,username,path,pid
+WE156YJT,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,isl.davi87,C:\ProgramData\McAfee\McInstruTrack,2368
+WE156YJT,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,2408
+WE156YJT,wmpnetwk.exe,"""C:\Program Files\Windows Media Player\wmpnetwk.exe""",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Media Player,6168
+WE156YJT,sqlservr.exe,"""C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn\sqlservr.exe"" -sSQLEXPRESS",iriwoo99,C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn,4817
+WE156YJT,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,2704
+WE156YJT,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",isl.davi87,C:\Program Files\Common Files\McAfee\TaskScheduler,3077
+WE156YJT,sppsvc.exe,C:\Windows\system32\sppsvc.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5608
+WE156YJT,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5912
+WE156YJT,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",isl.davi87,C:\Program Files\McAfee\MAT,6383
+WE156YJT,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",isl.davi87,C:\Program Files\Common Files\McAfee\MMSSHost,2895
+WE156YJT,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",isl.davi87,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,2355
+WE156YJT,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",isl.davi87,C:\Program Files\McAfee\WebAdvisor,467
+WE156YJT,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,1988
+WE156YJT,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",isl.davi87,C:\Program Files\RealVNC\VNC Viewer,4878
+WE156YJT,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",isl.davi87,c:\program files\common files\mcafee\modulecore,4433
+WE156YJT,conhost.exe,\??\C:\Windows\system32\conhost.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5652
+WE156YJT,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,1436
+WE156YJT,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,3292
+WE156YJT,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3768
+WE156YJT,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2348
+WE156YJT,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",isl.davi87,C:\Program Files\Common Files\mcafee\Platform,1470
+WE156YJT,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",isl.davi87,C:\Program Files\Common Files\McAfee\ModuleCore,1219
+WE156YJT,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",isl.davi87,C:\Program Files\McAfee\WebAdvisor,3827
+WE156YJT,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,5800
+WE156YJT,SearchIndexer.exe,C:\Windows\system32\SearchIndexer.exe /Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,5968
+WE156YJT,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,3588
+WE156YJT,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",isl.davi87,C:\Program Files\TightVNC,2410
+WE156YJT,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4004
+WE156YJT,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,5004
+WE156YJT,svchost.exe,C:\Windows\System32\svchost.exe -k secsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,4680
+WE156YJT,AcroRd32.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe"" ",isl.davi87,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader,6097
+WE156YJT,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2420
+WE156YJT,AcroRd32.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe"" --type=renderer /prefetch:1",isl.davi87,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader,5893
+WE156YJT,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2796
+WE156YJT,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,2560
+WE156YJT,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",isl.davi87,C:\Program Files\Common Files\McAfee\Platform\Core,6286
+WE156YJT,wuauclt.exe,"""C:\Windows\system32\wuauclt.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5336
+WE156YJT,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4252
+WE156YJT,VBoxService.exe,C:\Windows\System32\VBoxService.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4168
+WE156YJT,SearchProtocolHost.exe,"""C:\Windows\system32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe15_ Global\UsGthrCtrlFltPipeMssGthrPipe15 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon"" ",NT AUTHORITY\SYSTEM,C:\Windows\system32,6288
+WE156YJT,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2964
+WE156YJT,RdrCEF.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF.exe"" --type=renderer --disable-browser-side-navigation --disable-gpu-compositing --service-pipe-token=49849BA2F50EBF33EAD978C1E9CA6D55 --lang=en-US --disable-pack-loading --lang=en-US --log-file=""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\debug.log"" --log-severity=disable --product-version=""ReaderServices/19.8.20071 Chrome/64.0.3282.119"" --enable-pinch --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0 0 3553;0 1 3553;0 2 3553;0 3 3553;0 4 3553;0 5 3553;0 6 3553;0 7 3553;0 8 3553;0 9 3553;0 10 3553;0 11 3553;0 12 3553;0 13 3553;0 14 3553;0 15 3553;0 16 3553;0 17 3553;0 18 3553;1 0 3553;1 1 3553;1 2 3553;1 3 3553;1 4 3553;1 5 3553;1 6 3553;1 7 3553;1 8 3553;1 9 3553;1 10 3553;1 11 3553;1 12 3553;1 13 3553;1 14 3553;1 15 3553;1 16 3553;1 17 3553;1 18 3553;2 0 3553;2 1 3553;2 2 3553;2 3 3553;2 4 3553;2 5 3553;2 6 3553;2 7 3553;2 8 3553;2 9 3553;2 10 3553;2 11 3553;2 12 3553;2 13 3553;2 14 3553;2 15 3553;2 16 3553;2 17 3553;2 18 3553;3 0 3553;3 1 3553;3 2 3553;3 3 3553;3 4 3553;3 5 3553;3 6 3553;3 7 3553;3 8 3553;3 9 3553;3 10 3553;3 11 3553;3 12 3553;3 13 3553;3 14 3553;3 15 3553;3 16 3553;3 17 3553;3 18 3553;4 0 3553;4 1 3553;4 2 3553;4 3 3553;4 4 3553;4 5 3553;4 6 3553;4 7 3553;4 8 3553;4 9 3553;4 10 3553;4 11 3553;4 12 3553;4 13 3553;4 14 3553;4 15 3553;4 16 3553;4 17 3553;4 18 3553;5 0 3553;5 1 3553;5 2 3553;5 3 3553;5 4 3553;5 5 3553;5 6 3553;5 7 3553;5 8 3553;5 9 3553;5 10 3553;5 11 3553;5 12 3553;5 13 3553;5 14 3553;5 15 3553;5 16 3553;5 17 3553;5 18 3553;6 0 3553;6 1 3553;6 2 3553;6 3 3553;6 4 3553;6 5 3553;6 6 3553;6 7 3553;6 8 3553;6 9 3553;6 10 3553;6 11 3553;6 12 3553;6 13 3553;6 14 3553;6 15 3553;6 16 3553;6 17 3553;6 18 3553 --disable-accelerated-video-decode --service-request-channel-token=49849BA2F50EBF33EAD978C1E9CA6D55 --renderer-client-id=4 --mojo-platform-channel-handle=2328 --allow-no-sandbox-job /prefetch:1",isl.davi87,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF,3185
+WE156YJT,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",isl.davi87,C:\Program Files\internet explorer,5881
+WE156YJT,armsvc.exe,"""C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe""",isl.davi87,C:\Program Files (x86)\Common Files\Adobe\ARM\1.0,4152
+WE156YJT,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",isl.davi87,C:\Program Files\McAfee\MfeAV,751
+WE156YJT,RdrCEF.exe,"""C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF\RdrCEF.exe"" --backgroundcolor=16514043",isl.davi87,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroCEF,1806
+WE156YJT,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,isl.davi87,c:\program files\common files\mcafee\modulecore,5890
+WE156YJT,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",isl.davi87,C:\Program Files\Common Files\McAfee\VSCore_18_6,2039
+WE156YJT,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",isl.davi87,C:\Program Files\Common Files\McAfee\PEF\CORE,736
+WE156YJT,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,isl.davi87,C:\ProgramData\McAfee\Direct,2554
+WE156YJT,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",isl.davi87,C:\Program Files\TightVNC,386
+WE156YJT,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,6252
+WE156YJT,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\isl.davi87\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",isl.davi87,C:\Users\isl.davi87\AppData\Local\Temp\scoped_dir9616_4071,3759
+WE156YJT,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,2880
+WE156YJT,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServicePeerNet,NT AUTHORITY\SYSTEM,C:\Windows\System32,3308
+WE156YJT,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,2280
+WE156YJT,TrustedInstaller.exe,C:\Windows\servicing\TrustedInstaller.exe,NT AUTHORITY\SYSTEM,C:\Windows\servicing,4236
+WE156YJT,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",isl.davi87,C:\Program Files\Common Files\McAfee\AMCore,6413
+WE156YJT,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",isl.davi87,C:\ProgramData\McAfee\Direct,2717
+WE156YJT,OneDrive.exe,"""C:\Users\isl.davi87\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",isl.davi87,C:\Users\isl.davi87\AppData\Local\Microsoft\OneDrive,6012

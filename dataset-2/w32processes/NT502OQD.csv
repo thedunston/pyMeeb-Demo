@@ -1,0 +1,64 @@
+hostname,name,arguments,username,path,pid
+NT502OQD,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4532
+NT502OQD,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,4692
+NT502OQD,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,blakelew,C:\ProgramData\McAfee\Direct,4308
+NT502OQD,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4328
+NT502OQD,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,2616
+NT502OQD,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,656
+NT502OQD,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",blakelew,C:\Program Files\Common Files\McAfee\AMCore,230
+NT502OQD,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",blakelew,C:\Program Files\Common Files\McAfee\ModuleCore,1438
+NT502OQD,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,blakelew,c:\program files\common files\mcafee\modulecore,2204
+NT502OQD,sppsvc.exe,C:\Windows\system32\sppsvc.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3168
+NT502OQD,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServicePeerNet,NT AUTHORITY\SYSTEM,C:\Windows\System32,5636
+NT502OQD,SearchIndexer.exe,C:\Windows\system32\SearchIndexer.exe /Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,2520
+NT502OQD,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,4740
+NT502OQD,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",blakelew,C:\Program Files\Common Files\McAfee\PEF\CORE,4154
+NT502OQD,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",blakelew,C:\Program Files\RealVNC\VNC Viewer,3760
+NT502OQD,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,4144
+NT502OQD,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,blakelew,C:\ProgramData\McAfee\McInstruTrack,3786
+NT502OQD,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1184
+NT502OQD,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",blakelew,C:\Windows\system32,3061
+NT502OQD,soffice.bin,"""C:\Program Files (x86)\OpenOffice 4\program\soffice.exe"" ""-env:OOO_CWD=2C:\\Program Files (x86)\\OpenOffice 4""",anna.jacks85,C:\Program Files (x86)\OpenOffice 4\program,3968
+NT502OQD,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",blakelew,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,2558
+NT502OQD,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",blakelew,C:\Program Files\TightVNC,1172
+NT502OQD,VBoxService.exe,C:\Windows\System32\VBoxService.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5792
+NT502OQD,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\blakelew\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",blakelew,C:\Users\blakelew\AppData\Local\Temp\scoped_dir9616_4071,2925
+NT502OQD,conhost.exe,\??\C:\Windows\system32\conhost.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5524
+NT502OQD,TrustedInstaller.exe,C:\Windows\servicing\TrustedInstaller.exe,NT AUTHORITY\SYSTEM,C:\Windows\servicing,2496
+NT502OQD,OneDrive.exe,"""C:\Users\anna.jacks85\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",anna.jacks85,C:\Users\anna.jacks85\AppData\Local\Microsoft\OneDrive,2831
+NT502OQD,bash.exe,"""C:\Program Files\Git\usr\bin\bash.exe""",anna.jacks85,C:\Program Files\Git\usr\bin,4636
+NT502OQD,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5316
+NT502OQD,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",blakelew,C:\ProgramData\McAfee\Direct,1095
+NT502OQD,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",anna.jacks85,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,3380
+NT502OQD,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,5680
+NT502OQD,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",blakelew,C:\Program Files\McAfee\MfeAV,5448
+NT502OQD,mintty.exe,"usr\bin\mintty.exe --nodaemon -o AppID=GitForWindows.Bash -o AppLaunchCmd=""C:\Program Files\Git\git-bash.exe"" -o AppName=""Git Bash"" -i ""C:\Program Files\Git\git-bash.exe"" --store-taskbar-properties -- /usr/bin/bash --login -i",anna.jacks85,C:\Program Files\Git\usr\bin,5726
+NT502OQD,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,6356
+NT502OQD,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",blakelew,C:\Program Files\Common Files\McAfee\TaskScheduler,633
+NT502OQD,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",blakelew,C:\Program Files\Common Files\mcafee\Platform,4899
+NT502OQD,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",blakelew,C:\Program Files\McAfee\MAT,4843
+NT502OQD,cmd.exe,"""C:\Windows\system32\cmd.exe"" ",anna.jacks85,C:\Windows\system32,1399
+NT502OQD,git-bash.exe,"""C:\Program Files\Git\git-bash.exe"" ""--cd=C:\Users\anna.jacks85\Desktop.""",anna.jacks85,C:\Program Files\Git,4040
+NT502OQD,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2848
+NT502OQD,soffice.exe,"""C:\Program Files (x86)\OpenOffice 4\program\soffice.exe"" ",anna.jacks85,C:\Program Files (x86)\OpenOffice 4\program,4007
+NT502OQD,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,6232
+NT502OQD,SearchProtocolHost.exe,"""C:\Windows\system32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe15_ Global\UsGthrCtrlFltPipeMssGthrPipe15 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon"" ",NT AUTHORITY\SYSTEM,C:\Windows\system32,3436
+NT502OQD,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,5272
+NT502OQD,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,1240
+NT502OQD,svchost.exe,C:\Windows\System32\svchost.exe -k secsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,4576
+NT502OQD,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5700
+NT502OQD,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",blakelew,C:\Program Files\Common Files\McAfee\MMSSHost,382
+NT502OQD,wmpnetwk.exe,"""C:\Program Files\Windows Media Player\wmpnetwk.exe""",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Media Player,3508
+NT502OQD,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",blakelew,c:\program files\common files\mcafee\modulecore,5028
+NT502OQD,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",blakelew,C:\Program Files\Common Files\McAfee\VSCore_18_6,4030
+NT502OQD,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",blakelew,C:\Program Files\Common Files\McAfee\Platform\Core,2333
+NT502OQD,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2448
+NT502OQD,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,3448
+NT502OQD,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,6252
+NT502OQD,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",blakelew,C:\Program Files\McAfee\WebAdvisor,1670
+NT502OQD,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,6128
+NT502OQD,GitHubDesktop.exe,"""C:\Users\blakelew\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=9 12 13 23 27 29 49 70 84 --disable-gl-extensions=""GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent"" --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor=""Intel Corporation"" --gpu-driver-version=20.19.15.4331 --gpu-driver-date=11-18-2015 --service-request-channel-token=29571E74A71F5219E432184D13D76C95 --mojo-platform-channel-handle=1732 /prefetch:2",blakelew,C:\Users\blakelew\AppData\Local\GitHubDesktop\app-1.4.3,2870
+NT502OQD,wuauclt.exe,"""C:\Windows\system32\wuauclt.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3900
+NT502OQD,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",blakelew,C:\Program Files\TightVNC,4094
+NT502OQD,GitHubDesktop.exe,"""C:\Users\blakelew\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --squirrel-firstrun",blakelew,C:\Users\blakelew\AppData\Local\GitHubDesktop\app-1.4.3,4057
+NT502OQD,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",blakelew,C:\Program Files\McAfee\WebAdvisor,6155

@@ -1,0 +1,5 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,EN0007YUP,False,True
+robe.sanch29,EN0007YUP,False,True
+bonnie.cox,EN0007YUP,True,False
+svc_it,EN0007YUP,True,False

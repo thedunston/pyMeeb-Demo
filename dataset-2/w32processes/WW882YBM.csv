@@ -1,0 +1,51 @@
+hostname,name,arguments,username,path,pid
+WW882YBM,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",olahaye,C:\Program Files\Common Files\mcafee\Platform,4558
+WW882YBM,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,3052
+WW882YBM,taskhostex.exe,taskhostex.exe ,NT AUTHORITY\SYSTEM,C:\Windows\system32,4552
+WW882YBM,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,4248
+WW882YBM,cmd.exe,"""C:\Windows\system32\cmd.exe"" ",jasmin.turn32,C:\Windows\system32,1978
+WW882YBM,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",olahaye,C:\Program Files\McAfee\MAT,4037
+WW882YBM,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,olahaye,C:\ProgramData\McAfee\McInstruTrack,790
+WW882YBM,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,2996
+WW882YBM,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",olahaye,C:\Program Files\McAfee\WebAdvisor,1714
+WW882YBM,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1348
+WW882YBM,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",olahaye,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,5861
+WW882YBM,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,3324
+WW882YBM,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1728
+WW882YBM,wmiprvse.exe,C:\Windows\system32\wbem\wmiprvse.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32\wbem,2212
+WW882YBM,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5700
+WW882YBM,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",jasmin.turn32,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,3876
+WW882YBM,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",jasmin.turn32,C:\Program Files\TightVNC,4250
+WW882YBM,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",olahaye,C:\Program Files\Common Files\McAfee\TaskScheduler,4839
+WW882YBM,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",olahaye,C:\Program Files\Common Files\McAfee\MMSSHost,1195
+WW882YBM,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",jasmin.turn32,C:\Program Files\TightVNC,6207
+WW882YBM,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,5732
+WW882YBM,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",olahaye,C:\ProgramData\McAfee\Direct,6299
+WW882YBM,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\olahaye\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",olahaye,C:\Users\olahaye\AppData\Local\Temp\scoped_dir9616_4071,352
+WW882YBM,OneDrive.exe,"""C:\Users\jasmin.turn32\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",jasmin.turn32,C:\Users\jasmin.turn32\AppData\Local\Microsoft\OneDrive,2169
+WW882YBM,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2000
+WW882YBM,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4104
+WW882YBM,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2608
+WW882YBM,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,olahaye,C:\ProgramData\McAfee\Direct,1967
+WW882YBM,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,5320
+WW882YBM,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",olahaye,C:\Program Files\Common Files\McAfee\VSCore_18_6,2937
+WW882YBM,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",olahaye,c:\program files\common files\mcafee\modulecore,972
+WW882YBM,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,4144
+WW882YBM,soffice.exe,"""C:\Program Files (x86)\OpenOffice 4\program\soffice.exe"" ",jasmin.turn32,C:\Program Files (x86)\OpenOffice 4\program,2910
+WW882YBM,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,408
+WW882YBM,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,olahaye,c:\program files\common files\mcafee\modulecore,3916
+WW882YBM,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",olahaye,C:\Program Files\McAfee\WebAdvisor,4722
+WW882YBM,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",jasmin.turn32,C:\Program Files\RealVNC\VNC Viewer,764
+WW882YBM,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,88
+WW882YBM,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",olahaye,C:\Program Files\internet explorer,2215
+WW882YBM,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2576
+WW882YBM,soffice.bin,"""C:\Program Files (x86)\OpenOffice 4\program\soffice.exe"" ""-env:OOO_CWD=2C:\\Program Files (x86)\\OpenOffice 4""",jasmin.turn32,C:\Program Files (x86)\OpenOffice 4\program,1870
+WW882YBM,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,1128
+WW882YBM,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",olahaye,C:\Program Files\Common Files\McAfee\PEF\CORE,4421
+WW882YBM,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",olahaye,C:\Program Files\Common Files\McAfee\Platform\Core,5337
+WW882YBM,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1720
+WW882YBM,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,512
+WW882YBM,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",olahaye,C:\Program Files\Common Files\McAfee\AMCore,1257
+WW882YBM,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",olahaye,C:\Program Files\McAfee\MfeAV,5712
+WW882YBM,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,2940
+WW882YBM,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",olahaye,C:\Program Files\Common Files\McAfee\ModuleCore,1435

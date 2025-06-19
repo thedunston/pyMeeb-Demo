@@ -1,0 +1,27 @@
+hostname,fullpath,filepath,drive,filename,fileextension,username
+SW0009SMQ,c:\program files (x86)\panda security\panda security protection\PSUAMain.exe,program files (x86)\panda security\panda security protection,c,PSUAMain.exe,exe,NT AUTHORITY\SYSTEM
+SW0009SMQ,c:\Windows\System32\drivers\rdpbus.sys,Windows\System32\drivers,c,rdpbus.sys,sys,NT SERVICE\TrustedInstaller
+SW0009SMQ,c:\Windows\SysWOW64\onedrivesetup.exe,Windows\SysWOW64,c,onedrivesetup.exe,exe,NT SERVICE\TrustedInstaller
+SW0009SMQ,c:\Windows\System32\onedrivesettingsyncprovider.dll,Windows\System32,c,onedrivesettingsyncprovider.dll,dll,NT SERVICE\TrustedInstaller
+SW0009SMQ,c:\program files\microsoft sql server\mssql14.sqlexpress\MSSQL\Binn\SQLAGENT.EXE,program files\microsoft sql server\mssql14.sqlexpress\MSSQL\Binn,c,SQLAGENT.EXE,EXE,NT AUTHORITY\SYSTEM
+SW0009SMQ,c:\program files (x86)\panda security\panda security protection\psuaservice.exe,program files (x86)\panda security\panda security protection,c,psuaservice.exe,exe,NT AUTHORITY\SYSTEM
+SW0009SMQ,c:\program files (x86)\panda security\panda security protection\hydra.sdk.windows.service.exe,program files (x86)\panda security\panda security protection,c,hydra.sdk.windows.service.exe,exe,NT AUTHORITY\SYSTEM
+SW0009SMQ,c:\Windows\System32\rdpendp.dll,Windows\System32,c,rdpendp.dll,dll,NT SERVICE\TrustedInstaller
+SW0009SMQ,c:\Windows\System32\umrdp.dll,Windows\System32,c,umrdp.dll,dll,NT SERVICE\TrustedInstaller
+SW0009SMQ,c:\Windows\System32\drivers\rdpvideominiport.sys,Windows\System32\drivers,c,rdpvideominiport.sys,sys,NT SERVICE\TrustedInstaller
+SW0009SMQ,C:\Windows\system32\rdpclip.EXE,Windows\system32,C,rdpclip.EXE,EXE,NT SERVICE\TrustedInstaller
+SW0009SMQ,c:\program files\windows media player\WMPNSSUI.dll,program files\windows media player,c,WMPNSSUI.dll,dll,NT SERVICE\TrustedInstaller
+SW0009SMQ,c:\program files\windows media player\wmpnetwk.exe,program files\windows media player,c,wmpnetwk.exe,exe,NT SERVICE\TrustedInstaller
+SW0009SMQ,c:\Windows\System32\RdpSaPs.dll,Windows\System32,c,RdpSaPs.dll,dll,NT SERVICE\TrustedInstaller
+SW0009SMQ,c:\Windows\System32\rdpencom.dll,Windows\System32,c,rdpencom.dll,dll,NT SERVICE\TrustedInstaller
+SW0009SMQ,c:\Users\$user\AppData\Local\microsoft\OneDrive\OneDrive.exe,Users\$user\AppData\Local\microsoft\OneDrive,c,OneDrive.exe,exe,$domain\$user
+SW0009SMQ,c:\program files (x86)\panda security\panda security protection\psuashell.dll,program files (x86)\panda security\panda security protection,c,psuashell.dll,dll,NT AUTHORITY\SYSTEM
+SW0009SMQ,c:\Windows\System32\msrdpwebaccess.dll,Windows\System32,c,msrdpwebaccess.dll,dll,NT SERVICE\TrustedInstaller
+SW0009SMQ,c:\Windows\System32\drivers\rdpdr.sys,Windows\System32\drivers,c,rdpdr.sys,sys,NT SERVICE\TrustedInstaller
+SW0009SMQ,c:\program files\microsoft sql server\mssql14.sqlexpress\MSSQL\Binn\sqlservr.exe,program files\microsoft sql server\mssql14.sqlexpress\MSSQL\Binn,c,sqlservr.exe,exe,NT AUTHORITY\SYSTEM
+SW0009SMQ,c:\program files (x86)\panda security\panda security protection\PSANHost.exe,program files (x86)\panda security\panda security protection,c,PSANHost.exe,exe,NT AUTHORITY\SYSTEM
+SW0009SMQ,c:\program files\windows media player\mpvis.DLL,program files\windows media player,c,mpvis.DLL,DLL,NT SERVICE\TrustedInstaller
+SW0009SMQ,c:\program files (x86)\panda security\panda devices agent\AgentSvc.exe,program files (x86)\panda security\panda devices agent,c,AgentSvc.exe,exe,NT AUTHORITY\SYSTEM
+SW0009SMQ,c:\program files\microsoft sql server\140\DTS\pipelinecomponents\exceldest.dll,program files\microsoft sql server\140\DTS\pipelinecomponents,c,exceldest.dll,dll,NT AUTHORITY\SYSTEM
+SW0009SMQ,c:\program files\windows media player\wmpnssci.dll,program files\windows media player,c,wmpnssci.dll,dll,NT SERVICE\TrustedInstaller
+SW0009SMQ,c:\Windows\System32\rdpcorets.dll,Windows\System32,c,rdpcorets.dll,dll,NT SERVICE\TrustedInstaller

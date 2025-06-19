@@ -1,0 +1,65 @@
+hostname,name,arguments,username,path,pid
+ST249FHQ,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,380
+ST249FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel,NT AUTHORITY\SYSTEM,C:\Windows\system32,1220
+ST249FHQ,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",adri.thom,C:\Program Files\Common Files\McAfee\ModuleCore,5407
+ST249FHQ,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,C:\Windows\System32,1460
+ST249FHQ,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,3076
+ST249FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,6448
+ST249FHQ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4928
+ST249FHQ,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",adri.thom,C:\Program Files\McAfee\MAT,4565
+ST249FHQ,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},NT AUTHORITY\SYSTEM,C:\Windows\system32,5196
+ST249FHQ,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",adri.thom,C:\Program Files\McAfee\MfeAV,3246
+ST249FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,2164
+ST249FHQ,soffice.exe,"""C:\Program Files (x86)\OpenOffice 4\program\soffice.exe"" ",adri.thom,C:\Program Files (x86)\OpenOffice 4\program,4992
+ST249FHQ,LogonUI.exe,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",NT AUTHORITY\SYSTEM,C:\Windows\system32,924
+ST249FHQ,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,3812
+ST249FHQ,TabTip32.exe,/loadhooks /Parent:0000000000001188,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,2160
+ST249FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,284
+ST249FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,NT AUTHORITY\SYSTEM,C:\Windows\system32,2040
+ST249FHQ,GitHubDesktop.exe,"""C:\Users\adri.thom\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=9 12 13 23 27 29 49 70 84 --disable-gl-extensions=""GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent"" --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor=""Intel Corporation"" --gpu-driver-version=20.19.15.4331 --gpu-driver-date=11-18-2015 --service-request-channel-token=29571E74A71F5219E432184D13D76C95 --mojo-platform-channel-handle=1732 /prefetch:2",adri.thom,C:\Users\adri.thom\AppData\Local\GitHubDesktop\app-1.4.3,927
+ST249FHQ,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",adri.thom,C:\Program Files\TightVNC,603
+ST249FHQ,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4020
+ST249FHQ,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2776
+ST249FHQ,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,6484
+ST249FHQ,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",adri.thom,C:\Program Files\Common Files\McAfee\VSCore_18_6,3969
+ST249FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,5600
+ST249FHQ,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",adri.thom,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,3407
+ST249FHQ,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",adri.thom,C:\Program Files\Common Files\mcafee\Platform,1864
+ST249FHQ,GitHubDesktop.exe,"""C:\Users\adri.thom\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --squirrel-firstrun",adri.thom,C:\Users\adri.thom\AppData\Local\GitHubDesktop\app-1.4.3,2640
+ST249FHQ,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,2440
+ST249FHQ,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,adri.thom,C:\ProgramData\McAfee\McInstruTrack,5141
+ST249FHQ,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,adri.thom,c:\program files\common files\mcafee\modulecore,2015
+ST249FHQ,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1492
+ST249FHQ,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,4484
+ST249FHQ,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,2868
+ST249FHQ,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,5924
+ST249FHQ,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,1372
+ST249FHQ,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\adri.thom\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",adri.thom,C:\Users\adri.thom\AppData\Local\Temp\scoped_dir9616_4071,3418
+ST249FHQ,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",adri.thom,C:\Program Files\internet explorer,6140
+ST249FHQ,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",adri.thom,c:\program files\common files\mcafee\modulecore,6306
+ST249FHQ,soffice.bin,"""C:\Program Files (x86)\OpenOffice 4\program\soffice.exe"" ""-env:OOO_CWD=2C:\\Program Files (x86)\\OpenOffice 4""",adri.thom,C:\Program Files (x86)\OpenOffice 4\program,312
+ST249FHQ,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",adri.thom,C:\Program Files\Common Files\McAfee\Platform\Core,3473
+ST249FHQ,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",adri.thom,C:\Program Files\Common Files\McAfee\AMCore,1555
+ST249FHQ,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",adri.thom,C:\Program Files\TightVNC,4775
+ST249FHQ,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,5976
+ST249FHQ,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",adri.thom,C:\Program Files\Common Files\McAfee\MMSSHost,2103
+ST249FHQ,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",adri.thom,C:\Program Files\Common Files\McAfee\TaskScheduler,3027
+ST249FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,4752
+ST249FHQ,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",adri.thom,C:\Program Files\RealVNC\VNC Viewer,2288
+ST249FHQ,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",adri.thom,C:\Program Files\Common Files\McAfee\PEF\CORE,1890
+ST249FHQ,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,1916
+ST249FHQ,MpCmdRun.exe,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Defender,4036
+ST249FHQ,OneDrive.exe,"""C:\Users\danietorr9\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",danietorr9,C:\Users\danietorr9\AppData\Local\Microsoft\OneDrive,680
+ST249FHQ,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3488
+ST249FHQ,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",adri.thom,C:\Program Files\McAfee\WebAdvisor,3391
+ST249FHQ,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",adri.thom,C:\Program Files\McAfee\WebAdvisor,350
+ST249FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,1528
+ST249FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1728
+ST249FHQ,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,adri.thom,C:\ProgramData\McAfee\Direct,1294
+ST249FHQ,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3388
+ST249FHQ,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,2788
+ST249FHQ,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,3360
+ST249FHQ,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,1408
+ST249FHQ,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",adri.thom,C:\ProgramData\McAfee\Direct,880
+ST249FHQ,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",adri.thom,C:\Windows\system32,3209
+ST249FHQ,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,3868

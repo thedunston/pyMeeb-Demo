@@ -1,0 +1,4 @@
+username,hostname,domain-admin,local-admin,domain-user,local-user
+eliza.ram,EC800MUT,False,False,True,False
+bla.carter18,EC800MUT,False,True,True,False
+themartin,EC800MUT,False,False,True,False

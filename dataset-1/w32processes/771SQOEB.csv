@@ -1,0 +1,47 @@
+hostname,name,arguments,username,path,pid
+771SQOEB,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1980
+771SQOEB,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,2156
+771SQOEB,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,1068
+771SQOEB,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,2748
+771SQOEB,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,1476
+771SQOEB,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,4148
+771SQOEB,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,C:\Windows\System32,1056
+771SQOEB,chrome.exe,"""C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"" --type=renderer --field-trial-handle=1556 1270622256617353588 15561965010207222735 131072 --service-pipe-token=1352282089870284743 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --service-request-channel-token=1352282089870284743 --renderer-client-id=45 --mojo-platform-channel-handle=7884 /prefetch:1",austincoll,C:\Program Files (x86)\Google\Chrome\Application,6396
+771SQOEB,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,1772
+771SQOEB,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4628
+771SQOEB,LogonUI.exe,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",NT AUTHORITY\SYSTEM,C:\Windows\system32,3340
+771SQOEB,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",matth.thomp80,C:\Program Files\TightVNC,4018
+771SQOEB,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,5692
+771SQOEB,TabTip32.exe,/loadhooks /Parent:0000000000001188,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,4124
+771SQOEB,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,704
+771SQOEB,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4536
+771SQOEB,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,NT AUTHORITY\SYSTEM,C:\Windows\system32,5972
+771SQOEB,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,6252
+771SQOEB,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,3380
+771SQOEB,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",matth.thomp80,C:\Program Files\RealVNC\VNC Viewer,5263
+771SQOEB,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,5228
+771SQOEB,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,3988
+771SQOEB,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4092
+771SQOEB,mbamservice.exe,"""C:\Program Files\Malwarebytes\Anti-Malware\mbamservice.exe""",matth.thomp80,C:\Program Files\Malwarebytes\Anti-Malware,2713
+771SQOEB,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5880
+771SQOEB,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},NT AUTHORITY\SYSTEM,C:\Windows\system32,24
+771SQOEB,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,1268
+771SQOEB,Program.exe,Files\Malwarebytes\Anti-Malware,austincoll,C:\Program.exe,4198
+771SQOEB,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,372
+771SQOEB,cmd.exe,"""C:\Windows\system32\cmd.exe"" ",austincoll,C:\Windows\system32,3274
+771SQOEB,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,2192
+771SQOEB,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,6284
+771SQOEB,procdump.exe,C:\Program Files\Common Files\Internet Explorer\procdump.exe -ma lsass.exe lsass_dump,NT AUTHORITY\SYSTEM,C:\Program Files\Common Files\Internet Explorer\,2856
+771SQOEB,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",matth.thomp80,C:\Program Files\TightVNC,2734
+771SQOEB,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,5728
+771SQOEB,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,436
+771SQOEB,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel,NT AUTHORITY\SYSTEM,C:\Windows\system32,3388
+771SQOEB,MpCmdRun.exe,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Defender,3436
+771SQOEB,Wireshark.exe,"""C:\Program Files\Wireshark\Wireshark.exe"" ",matth.thomp80,C:\Program Files\Wireshark,4169
+771SQOEB,OneDrive.exe,"""C:\Users\matth.thomp80\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",matth.thomp80,C:\Users\matth.thomp80\AppData\Local\Microsoft\OneDrive,2366
+771SQOEB,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,6224
+771SQOEB,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,5052
+771SQOEB,mbam.exe,"""C:\Program Files\Malwarebytes\Anti-Malware\mbam.exe""",matth.thomp80,C:\Program Files\Malwarebytes\Anti-Malware,1520
+771SQOEB,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,4240
+771SQOEB,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4856
+771SQOEB,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,6428

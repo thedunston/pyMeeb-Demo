@@ -1,0 +1,58 @@
+hostname,name,arguments,username,path,pid
+EE827RRK,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",jackpat,C:\Program Files\internet explorer,3967
+EE827RRK,TrustedInstaller.exe,C:\Windows\servicing\TrustedInstaller.exe,NT AUTHORITY\SYSTEM,C:\Windows\servicing,956
+EE827RRK,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",violet.river,c:\program files\common files\mcafee\modulecore,5071
+EE827RRK,python.exe,"""C:\Users\jackpat\AppData\Local\Programs\Python\Python37\python.exe"" ",jackpat,C:\Users\jackpat\AppData\Local\Programs\Python\Python37,5165
+EE827RRK,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4168
+EE827RRK,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1164
+EE827RRK,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",jackpat,C:\Program Files\TightVNC,727
+EE827RRK,WINWORD.EXE,"""C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"" ",lucas.mille27,C:\Program Files\Microsoft Office\root\Office16,1479
+EE827RRK,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",violet.river,C:\Program Files\McAfee\MfeAV,2010
+EE827RRK,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,5848
+EE827RRK,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",violet.river,C:\Program Files\McAfee\MAT,3663
+EE827RRK,wuauclt.exe,"""C:\Windows\system32\wuauclt.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3400
+EE827RRK,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,6144
+EE827RRK,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",jackpat,C:\Program Files\RealVNC\VNC Viewer,2254
+EE827RRK,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",violet.river,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,5045
+EE827RRK,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,32
+EE827RRK,svchost.exe,C:\Windows\System32\svchost.exe -k secsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,2072
+EE827RRK,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,violet.river,C:\ProgramData\McAfee\McInstruTrack,2227
+EE827RRK,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\violet.river\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",violet.river,C:\Users\violet.river\AppData\Local\Temp\scoped_dir9616_4071,953
+EE827RRK,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,5592
+EE827RRK,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,violet.river,C:\ProgramData\McAfee\Direct,5809
+EE827RRK,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,violet.river,c:\program files\common files\mcafee\modulecore,6222
+EE827RRK,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,5652
+EE827RRK,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,4848
+EE827RRK,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServicePeerNet,NT AUTHORITY\SYSTEM,C:\Windows\System32,3164
+EE827RRK,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",violet.river,C:\Program Files\Common Files\mcafee\Platform,4110
+EE827RRK,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,3996
+EE827RRK,sppsvc.exe,C:\Windows\system32\sppsvc.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2640
+EE827RRK,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",violet.river,C:\Program Files\Common Files\McAfee\Platform\Core,5076
+EE827RRK,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",violet.river,C:\Program Files\Common Files\McAfee\PEF\CORE,3169
+EE827RRK,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",violet.river,C:\Program Files\McAfee\WebAdvisor,533
+EE827RRK,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",violet.river,C:\ProgramData\McAfee\Direct,6247
+EE827RRK,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,5988
+EE827RRK,SearchProtocolHost.exe,"""C:\Windows\system32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe15_ Global\UsGthrCtrlFltPipeMssGthrPipe15 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon"" ",NT AUTHORITY\SYSTEM,C:\Windows\system32,628
+EE827RRK,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",violet.river,C:\Program Files\internet explorer,1062
+EE827RRK,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,540
+EE827RRK,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",violet.river,C:\Program Files\Common Files\McAfee\ModuleCore,1083
+EE827RRK,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2088
+EE827RRK,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",violet.river,C:\Program Files\Common Files\McAfee\AMCore,2748
+EE827RRK,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4632
+EE827RRK,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",violet.river,C:\Program Files\McAfee\WebAdvisor,2303
+EE827RRK,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,6360
+EE827RRK,conhost.exe,\??\C:\Windows\system32\conhost.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4568
+EE827RRK,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3768
+EE827RRK,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",violet.river,C:\Program Files\Common Files\McAfee\TaskScheduler,2442
+EE827RRK,wmpnetwk.exe,"""C:\Program Files\Windows Media Player\wmpnetwk.exe""",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Media Player,1484
+EE827RRK,OneDrive.exe,"""C:\Users\jackpat\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",jackpat,C:\Users\jackpat\AppData\Local\Microsoft\OneDrive,5771
+EE827RRK,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",violet.river,C:\Program Files\Common Files\McAfee\VSCore_18_6,3986
+EE827RRK,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",jackpat,C:\Program Files\TightVNC,3588
+EE827RRK,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,5260
+EE827RRK,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5608
+EE827RRK,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1688
+EE827RRK,SearchIndexer.exe,C:\Windows\system32\SearchIndexer.exe /Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,2732
+EE827RRK,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,1188
+EE827RRK,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",violet.river,C:\Program Files\Common Files\McAfee\MMSSHost,4493
+EE827RRK,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,852
+EE827RRK,VBoxService.exe,C:\Windows\System32\VBoxService.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5048

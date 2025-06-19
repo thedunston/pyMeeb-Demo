@@ -1,0 +1,59 @@
+hostname,name,arguments,username,path,pid
+NB172KNU,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,5848
+NB172KNU,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,3700
+NB172KNU,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5780
+NB172KNU,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",caleb.morgan89,C:\Program Files\Common Files\McAfee\PEF\CORE,840
+NB172KNU,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\System32,4872
+NB172KNU,SkypeBackgroundHost.exe,"""C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe"" -ServerName:SkypeBackgroundHost",landcoop,C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c,3313
+NB172KNU,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,caleb.morgan89,C:\ProgramData\McAfee\McInstruTrack,378
+NB172KNU,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",caleb.morgan89,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,948
+NB172KNU,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,3160
+NB172KNU,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,4724
+NB172KNU,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",caleb.morgan89,C:\Program Files\McAfee\WebAdvisor,5488
+NB172KNU,CyberGhost.Service.exe,"""C:\Program Files\CyberGhost 6\CyberGhost.Service.exe""",caleb.morgan89,C:\Program Files\CyberGhost 6,5815
+NB172KNU,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,68
+NB172KNU,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,1860
+NB172KNU,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{3EAE8C5E-B51F-4CBD-9DCE-FA6AA0BDF8B8},NT AUTHORITY\SYSTEM,C:\Windows\system32,4956
+NB172KNU,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",caleb.morgan89,C:\Program Files\McAfee\MfeAV,6179
+NB172KNU,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,caleb.morgan89,C:\ProgramData\McAfee\Direct,1595
+NB172KNU,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,6144
+NB172KNU,conhost.exe,"\??\C:\Windows\system32\conhost.exe ""-29887463320281528418771495882049435123649789771-108284301750553232-1762948263",NT AUTHORITY\SYSTEM,C:\Windows\system32,4412
+NB172KNU,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",caleb.morgan89,c:\program files\common files\mcafee\modulecore,1805
+NB172KNU,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",landcoop,C:\Windows\system32,2201
+NB172KNU,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",caleb.morgan89,C:\Program Files\Common Files\McAfee\ModuleCore,5458
+NB172KNU,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",caleb.morgan89,C:\Program Files\Common Files\McAfee\MMSSHost,2288
+NB172KNU,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",caleb.morgan89,C:\ProgramData\McAfee\Direct,2004
+NB172KNU,WINWORD.EXE,"""C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"" ",landcoop,C:\Program Files\Microsoft Office\root\Office16,622
+NB172KNU,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",caleb.morgan89,C:\Program Files\Common Files\McAfee\VSCore_18_6,2298
+NB172KNU,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,6424
+NB172KNU,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,caleb.morgan89,c:\program files\common files\mcafee\modulecore,3104
+NB172KNU,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",caleb.morgan89,C:\Program Files\internet explorer,1475
+NB172KNU,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3496
+NB172KNU,OneDrive.exe,"""C:\Users\caleb.morgan89\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",caleb.morgan89,C:\Users\caleb.morgan89\AppData\Local\Microsoft\OneDrive,4119
+NB172KNU,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,4512
+NB172KNU,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,3684
+NB172KNU,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",caleb.morgan89,C:\Program Files\McAfee\MAT,615
+NB172KNU,putty.exe,"""C:\Program Files\PuTTY\putty.exe"" ",landcoop,C:\Program Files\PuTTY,2279
+NB172KNU,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",caleb.morgan89,C:\Program Files\TightVNC,1193
+NB172KNU,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,6032
+NB172KNU,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4564
+NB172KNU,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",caleb.morgan89,C:\Program Files\Common Files\mcafee\Platform,2224
+NB172KNU,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,964
+NB172KNU,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",caleb.morgan89,C:\Program Files\Common Files\McAfee\TaskScheduler,3771
+NB172KNU,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,1504
+NB172KNU,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1484
+NB172KNU,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",caleb.morgan89,C:\Program Files\Common Files\McAfee\AMCore,4792
+NB172KNU,cmd.exe,"C:\WINDOWS\system32\cmd.exe /c """"C:\Ruby24-x64\bin\irb.cmd"" """,landcoop,C:\WINDOWS\system32,1070
+NB172KNU,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,80
+NB172KNU,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,3876
+NB172KNU,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,2444
+NB172KNU,ruby.exe,"""C:\Ruby24-x64\bin\ruby.exe"" ",landcoop,C:\Ruby24-x64\bin,537
+NB172KNU,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5220
+NB172KNU,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,1344
+NB172KNU,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\caleb.morgan89\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",caleb.morgan89,C:\Users\caleb.morgan89\AppData\Local\Temp\scoped_dir9616_4071,4146
+NB172KNU,svchost.exe,C:\Windows\system32\svchost.exe -k regsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,5552
+NB172KNU,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",caleb.morgan89,C:\Program Files\TightVNC,1240
+NB172KNU,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",caleb.morgan89,C:\Program Files\McAfee\WebAdvisor,5620
+NB172KNU,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",caleb.morgan89,C:\Program Files\RealVNC\VNC Viewer,5838
+NB172KNU,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,6368
+NB172KNU,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",caleb.morgan89,C:\Program Files\Common Files\McAfee\Platform\Core,4757

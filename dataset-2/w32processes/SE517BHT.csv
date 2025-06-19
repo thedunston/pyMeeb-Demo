@@ -1,0 +1,61 @@
+hostname,name,arguments,username,path,pid
+SE517BHT,g2mcomm.exe,"""C:\Users\dev.thompso72\AppData\Local\GoToMeeting\9508\g2mcomm.exe"" ""Action=Host&amp;BrokerServiceSuffix=@ISL1&amp;Build=9508&amp;colClientUiReadyEvent=Global\55848945-2CEA-4978-BF24-0C6A3B11E66E&amp;Digest=1bc982ef0552b1fb859a423b1f290ef0&amp;Dir=C:\Users\dev.thompso72\AppData\Local\GoToMeeting\9508\&amp;Download=Auto&amp;EGWAddress=216.115.208.230&amp;EGWDNS=egwglobal.gotomeeting.com&amp;EGWPort=80 443 8200&amp;LoaderPath=C:\Users\dev.thompso72\AppData\Local\GoToMeeting\9508\g2mstart.exe&amp;LogName=c:\users\dev.thompso72\appdata\local\temp\logmeinlogs\gotomeeting\9508\2018-10-29_12.04.18.379\GoToMeeting.log&amp;Mode=Normal&amp;Path=g2mlauncher.exe&amp;Plugin=G2MLauncher&amp;Product=g2m&amp;sessionTrackingId=e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP&amp;UniqueId=16cc""",dev.thompso72,C:\Users\dev.thompso72\AppData\Local\GoToMeeting\9508,486
+SE517BHT,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",dev.thompso72,C:\Program Files\Common Files\McAfee\Platform\Core,1941
+SE517BHT,SearchProtocolHost.exe,"""C:\Windows\system32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe15_ Global\UsGthrCtrlFltPipeMssGthrPipe15 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon"" ",NT AUTHORITY\SYSTEM,C:\Windows\system32,64
+SE517BHT,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",dev.thompso72,C:\Program Files\Common Files\McAfee\MMSSHost,5293
+SE517BHT,wuauclt.exe,"""C:\Windows\system32\wuauclt.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2448
+SE517BHT,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5664
+SE517BHT,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",dev.thompso72,c:\program files\common files\mcafee\modulecore,929
+SE517BHT,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,5620
+SE517BHT,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",dev.thompso72,C:\Program Files\Common Files\McAfee\ModuleCore,3306
+SE517BHT,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",dev.thompso72,C:\Program Files\Common Files\mcafee\Platform,3834
+SE517BHT,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /uac",timbailey,C:\Program Files\CCleaner,399
+SE517BHT,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",dev.thompso72,C:\Program Files\TightVNC,4475
+SE517BHT,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /MONITOR /uac",timbailey,C:\Program Files\CCleaner,1037
+SE517BHT,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,dev.thompso72,c:\program files\common files\mcafee\modulecore,1441
+SE517BHT,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServicePeerNet,NT AUTHORITY\SYSTEM,C:\Windows\System32,6428
+SE517BHT,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,2740
+SE517BHT,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,2124
+SE517BHT,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",dev.thompso72,C:\Program Files\McAfee\WebAdvisor,3701
+SE517BHT,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,4404
+SE517BHT,wmpnetwk.exe,"""C:\Program Files\Windows Media Player\wmpnetwk.exe""",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Media Player,512
+SE517BHT,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",dev.thompso72,C:\ProgramData\McAfee\Direct,5331
+SE517BHT,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",dev.thompso72,C:\Program Files\TightVNC,3120
+SE517BHT,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1004
+SE517BHT,SearchIndexer.exe,C:\Windows\system32\SearchIndexer.exe /Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,612
+SE517BHT,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,4964
+SE517BHT,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",dev.thompso72,C:\Program Files\Common Files\McAfee\PEF\CORE,703
+SE517BHT,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",dev.thompso72,C:\Program Files\McAfee\WebAdvisor,4394
+SE517BHT,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",dev.thompso72,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,3506
+SE517BHT,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4776
+SE517BHT,TrustedInstaller.exe,C:\Windows\servicing\TrustedInstaller.exe,NT AUTHORITY\SYSTEM,C:\Windows\servicing,952
+SE517BHT,OneDrive.exe,"""C:\Users\timbailey\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",timbailey,C:\Users\timbailey\AppData\Local\Microsoft\OneDrive,2769
+SE517BHT,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",dev.thompso72,C:\Program Files\McAfee\MfeAV,3111
+SE517BHT,sppsvc.exe,C:\Windows\system32\sppsvc.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3680
+SE517BHT,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,1944
+SE517BHT,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\dev.thompso72\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",dev.thompso72,C:\Users\dev.thompso72\AppData\Local\Temp\scoped_dir9616_4071,5177
+SE517BHT,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",dev.thompso72,C:\Program Files\Common Files\McAfee\VSCore_18_6,3984
+SE517BHT,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4356
+SE517BHT,WINWORD.EXE,"""C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"" ",timbailey,C:\Program Files\Microsoft Office\root\Office16,2176
+SE517BHT,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3668
+SE517BHT,VBoxService.exe,C:\Windows\System32\VBoxService.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,984
+SE517BHT,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,3480
+SE517BHT,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,2516
+SE517BHT,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",dev.thompso72,C:\Program Files\Common Files\McAfee\AMCore,4075
+SE517BHT,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,2072
+SE517BHT,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4064
+SE517BHT,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,dev.thompso72,C:\ProgramData\McAfee\Direct,5961
+SE517BHT,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,72
+SE517BHT,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,5508
+SE517BHT,conhost.exe,\??\C:\Windows\system32\conhost.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4168
+SE517BHT,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,1804
+SE517BHT,svchost.exe,C:\Windows\System32\svchost.exe -k secsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,1384
+SE517BHT,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",dev.thompso72,C:\Program Files\RealVNC\VNC Viewer,5274
+SE517BHT,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",timbailey,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,3488
+SE517BHT,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,4160
+SE517BHT,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",dev.thompso72,C:\Program Files\Common Files\McAfee\TaskScheduler,1033
+SE517BHT,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3532
+SE517BHT,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",dev.thompso72,C:\Program Files\McAfee\MAT,2437
+SE517BHT,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,dev.thompso72,C:\ProgramData\McAfee\McInstruTrack,1141
+SE517BHT,g2mstart.exe,"""C:\Users\dev.thompso72\AppData\Local\GoToMeeting\9508\g2mstart.exe"" ""/Action Host"" ""/BrokerServiceSuffix @ISL1"" ""/Build 9508"" ""/Download Auto"" ""/EGWAddress 216.115.208.230"" ""/EGWDNS egwglobal.gotomeeting.com"" ""/EGWPort 80 443 8200"" ""/Mode Normal"" ""/Product g2m"" ""/colClientUiReadyEvent Global\55848945-2CEA-4978-BF24-0C6A3B11E66E"" ""/sessionTrackingId e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP""",dev.thompso72,C:\Users\dev.thompso72\AppData\Local\GoToMeeting\9508,6170
+SE517BHT,SkypeBackgroundHost.exe,"""C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe"" -ServerName:SkypeBackgroundHost",timbailey,C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.33.41.0_x64__kzf8qxf38zg5c,3457

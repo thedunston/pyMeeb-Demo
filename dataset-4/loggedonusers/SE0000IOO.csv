@@ -1,0 +1,5 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,SE0000IOO,False,True
+zara.gonzal42,SE0000IOO,True,False
+evaross46,SE0000IOO,True,False
+evadiaz,SE0000IOO,True,False

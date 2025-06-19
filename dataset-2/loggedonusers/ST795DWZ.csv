@@ -1,0 +1,4 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,ST795DWZ,False,True
+gavinper17,ST795DWZ,False,True
+car.jenkins,ST795DWZ,True,False

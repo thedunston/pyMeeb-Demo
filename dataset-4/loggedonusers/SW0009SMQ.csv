@@ -1,0 +1,5 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,SW0009SMQ,False,True
+christwat,SW0009SMQ,False,True
+bonnie.cox,SW0009SMQ,True,False
+harrdiaz,SW0009SMQ,True,False

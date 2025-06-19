@@ -1,0 +1,5 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,NT0003VEO,False,True
+darrob96,NT0003VEO,True,False
+came.smith80,NT0003VEO,True,False
+svc_gc,NT0003VEO,True,False

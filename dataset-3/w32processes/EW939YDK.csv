@@ -1,0 +1,57 @@
+hostname,name,arguments,username,path,pid
+EW939YDK,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",josalexan83,C:\Program Files\TightVNC,5241
+EW939YDK,McPvTray.exe,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",jonatha.harr78,C:\Program Files\McAfee\MAT,2204
+EW939YDK,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2800
+EW939YDK,Dwm.exe,"""C:\Windows\system32\Dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,596
+EW939YDK,McApExe.exe,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",jonatha.harr78,C:\Program Files\Common Files\McAfee\VSCore_18_6,758
+EW939YDK,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,5004
+EW939YDK,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{3EAE8C5E-B51F-4CBD-9DCE-FA6AA0BDF8B8},NT AUTHORITY\SYSTEM,C:\Windows\system32,5440
+EW939YDK,MMSSHOST.EXE,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",jonatha.harr78,C:\Program Files\Common Files\McAfee\MMSSHost,6005
+EW939YDK,taskhost.exe,"""taskhost.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2804
+EW939YDK,modulecoreservice.exe,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",jonatha.harr78,c:\program files\common files\mcafee\modulecore,1882
+EW939YDK,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,1728
+EW939YDK,OneDrive.exe,"""C:\Users\emmaedw27\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",emmaedw27,C:\Users\emmaedw27\AppData\Local\Microsoft\OneDrive,5942
+EW939YDK,ModuleCoreService.exe,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,jonatha.harr78,c:\program files\common files\mcafee\modulecore,1115
+EW939YDK,ProtectedModuleHost.exe,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",jonatha.harr78,C:\Program Files\Common Files\McAfee\ModuleCore,1086
+EW939YDK,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",josalexan83,C:\Program Files\TightVNC,395
+EW939YDK,mchost.exe,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",jonatha.harr78,C:\Program Files\Common Files\McAfee\Platform\Core,996
+EW939YDK,ServiceHost.exe,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",jonatha.harr78,C:\Program Files\McAfee\WebAdvisor,3479
+EW939YDK,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,5868
+EW939YDK,mcshield.exe,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",jonatha.harr78,C:\Program Files\Common Files\McAfee\AMCore,381
+EW939YDK,smss.exe,\SystemRoot\System32\smss.exe,NT AUTHORITY\SYSTEM,\SystemRoot\System32,6388
+EW939YDK,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,3176
+EW939YDK,conhost.exe,"\??\C:\Windows\system32\conhost.exe ""-29887463320281528418771495882049435123649789771-108284301750553232-1762948263",NT AUTHORITY\SYSTEM,C:\Windows\system32,1040
+EW939YDK,services.exe,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3300
+EW939YDK,iexplore.exe,"""C:\Program Files\internet explorer\iexplore.exe"" ",jonatha.harr78,C:\Program Files\internet explorer,3051
+EW939YDK,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,5556
+EW939YDK,MFEAvSvc.exe,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",jonatha.harr78,C:\Program Files\McAfee\MfeAV,3407
+EW939YDK,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",josalexan83,C:\Program Files\TightVNC,2234
+EW939YDK,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,4700
+EW939YDK,McAMTaskAgent.exe,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",jonatha.harr78,C:\Program Files\Common Files\McAfee\TaskScheduler,1909
+EW939YDK,dllhost.exe,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},NT AUTHORITY\SYSTEM,C:\Windows\system32,1400
+EW939YDK,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,1792
+EW939YDK,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5024
+EW939YDK,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,5640
+EW939YDK,lsm.exe,C:\Windows\system32\lsm.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,4576
+EW939YDK,mcuicnt.exe,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",jonatha.harr78,C:\Program Files\Common Files\mcafee\Platform,4920
+EW939YDK,svchost.exe,C:\Windows\System32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\System32,3252
+EW939YDK,cmd.exe,"""C:\Windows\system32\cmd.exe"" ",josalexan83,C:\Windows\system32,991
+EW939YDK,svchost.exe,C:\Windows\system32\svchost.exe -k regsvc,NT AUTHORITY\SYSTEM,C:\Windows\system32,2416
+EW939YDK,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",josalexan83,C:\Program Files\RealVNC\VNC Viewer,1175
+EW939YDK,mcafee_trial_setup_433.0207.3919_key.exe,"""C:\Users\jonatha.harr78\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",jonatha.harr78,C:\Users\jonatha.harr78\AppData\Local\Temp\scoped_dir9616_4071,2100
+EW939YDK,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,312
+EW939YDK,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,332
+EW939YDK,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,1280
+EW939YDK,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1312
+EW939YDK,UIHost.exe,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",jonatha.harr78,C:\Program Files\McAfee\WebAdvisor,924
+EW939YDK,McCSPServiceHost.exe,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",jonatha.harr78,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,5667
+EW939YDK,McDiReg.exe,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",jonatha.harr78,C:\ProgramData\McAfee\Direct,965
+EW939YDK,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,144
+EW939YDK,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2900
+EW939YDK,csrss.exe,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,NT AUTHORITY\SYSTEM,C:\Windows\system32,1112
+EW939YDK,McDiReg.exe,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,jonatha.harr78,C:\ProgramData\McAfee\Direct,5027
+EW939YDK,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,jonatha.harr78,C:\ProgramData\McAfee\McInstruTrack,1719
+EW939YDK,PEFService.exe,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",jonatha.harr78,C:\Program Files\Common Files\McAfee\PEF\CORE,1494
+EW939YDK,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",josalexan83,C:\Program Files\RealVNC\VNC Viewer,3632
+EW939YDK,WINWORD.EXE,"""C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"" ",emmaedw27,C:\Program Files\Microsoft Office\root\Office16,3111
+EW939YDK,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",josalexan83,C:\Program Files\TightVNC,1160

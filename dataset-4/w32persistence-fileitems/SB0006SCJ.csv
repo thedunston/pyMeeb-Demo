@@ -1,0 +1,30 @@
+hostname,fullpath,filepath,drive,filename,fileextension,username
+SB0006SCJ,c:\program files (x86)\VMware\vmware player\elevated.dll,program files (x86)\VMware\vmware player,c,elevated.dll,dll,NT AUTHORITY\SYSTEM
+SB0006SCJ,c:\Windows\System32\onedrivesettingsyncprovider.dll,Windows\System32,c,onedrivesettingsyncprovider.dll,dll,NT SERVICE\TrustedInstaller
+SB0006SCJ,c:\program files (x86)\VMware\vmware player\vmdkshellext.dll,program files (x86)\VMware\vmware player,c,vmdkshellext.dll,dll,NT AUTHORITY\SYSTEM
+SB0006SCJ,c:\program files (x86)\common files\VMware\USB\vmware-usbarbitrator64.exe,program files (x86)\common files\VMware\USB,c,vmware-usbarbitrator64.exe,exe,NT AUTHORITY\SYSTEM
+SB0006SCJ,c:\Windows\SysWOW64\onedrivesetup.exe,Windows\SysWOW64,c,onedrivesetup.exe,exe,NT SERVICE\TrustedInstaller
+SB0006SCJ,c:\program files (x86)\VMware\vmware player\x64\vmdkshellext64.dll,program files (x86)\VMware\vmware player\x64,c,vmdkshellext64.dll,dll,NT AUTHORITY\SYSTEM
+SB0006SCJ,c:\Windows\System32\drivers\rdpbus.sys,Windows\System32\drivers,c,rdpbus.sys,sys,NT SERVICE\TrustedInstaller
+SB0006SCJ,C:\Windows\system32\rdpclip.EXE,Windows\system32,C,rdpclip.EXE,EXE,NT SERVICE\TrustedInstaller
+SB0006SCJ,c:\Windows\System32\umrdp.dll,Windows\System32,c,umrdp.dll,dll,NT SERVICE\TrustedInstaller
+SB0006SCJ,c:\program files (x86)\mozilla thunderbird\accessiblemarshal.dll,program files (x86)\mozilla thunderbird,c,accessiblemarshal.dll,dll,BUILTIN\Administrators
+SB0006SCJ,c:\Windows\System32\wabsyncprovider.dll,Windows\System32,c,wabsyncprovider.dll,dll,NT SERVICE\TrustedInstaller
+SB0006SCJ,c:\program files (x86)\VMware\vmware player\vmware-authd.exe,program files (x86)\VMware\vmware player,c,vmware-authd.exe,exe,NT AUTHORITY\SYSTEM
+SB0006SCJ,c:\Users\$user\AppData\Local\microsoft\OneDrive\OneDrive.exe,Users\$user\AppData\Local\microsoft\OneDrive,c,OneDrive.exe,exe,$domain\$user
+SB0006SCJ,c:\Windows\System32\RdpSaPs.dll,Windows\System32,c,RdpSaPs.dll,dll,NT SERVICE\TrustedInstaller
+SB0006SCJ,c:\Windows\System32\rdpencom.dll,Windows\System32,c,rdpencom.dll,dll,NT SERVICE\TrustedInstaller
+SB0006SCJ,c:\Windows\System32\rdpendp.dll,Windows\System32,c,rdpendp.dll,dll,NT SERVICE\TrustedInstaller
+SB0006SCJ,c:\program files (x86)\mozilla thunderbird\mapiproxy_inuse.dll,program files (x86)\mozilla thunderbird,c,mapiproxy_inuse.dll,dll,BUILTIN\Administrators
+SB0006SCJ,c:\Windows\System32\drivers\rdpvideominiport.sys,Windows\System32\drivers,c,rdpvideominiport.sys,sys,NT SERVICE\TrustedInstaller
+SB0006SCJ,c:\Windows\System32\drivers\rdpdr.sys,Windows\System32\drivers,c,rdpdr.sys,sys,NT SERVICE\TrustedInstaller
+SB0006SCJ,c:\program files (x86)\panda security\panda security protection\PSUAMain.exe,program files (x86)\panda security\panda security protection,c,PSUAMain.exe,exe,NT AUTHORITY\SYSTEM
+SB0006SCJ,C:\Program Files\Common Files\system\wab32.dll,Program Files\Common Files\system,C,wab32.dll,dll,NT SERVICE\TrustedInstaller
+SB0006SCJ,c:\program files (x86)\panda security\panda security protection\hydra.sdk.windows.service.exe,program files (x86)\panda security\panda security protection,c,hydra.sdk.windows.service.exe,exe,NT AUTHORITY\SYSTEM
+SB0006SCJ,c:\program files (x86)\panda security\panda security protection\PSANHost.exe,program files (x86)\panda security\panda security protection,c,PSANHost.exe,exe,NT AUTHORITY\SYSTEM
+SB0006SCJ,c:\program files (x86)\panda security\panda security protection\psuaservice.exe,program files (x86)\panda security\panda security protection,c,psuaservice.exe,exe,NT AUTHORITY\SYSTEM
+SB0006SCJ,c:\Windows\System32\rdpcorets.dll,Windows\System32,c,rdpcorets.dll,dll,NT SERVICE\TrustedInstaller
+SB0006SCJ,c:\program files (x86)\panda security\panda security protection\psuashell.dll,program files (x86)\panda security\panda security protection,c,psuashell.dll,dll,NT AUTHORITY\SYSTEM
+SB0006SCJ,c:\Windows\System32\msrdpwebaccess.dll,Windows\System32,c,msrdpwebaccess.dll,dll,NT SERVICE\TrustedInstaller
+SB0006SCJ,c:\program files\windows mail\wab.exe,program files\windows mail,c,wab.exe,exe,NT SERVICE\TrustedInstaller
+SB0006SCJ,c:\program files (x86)\panda security\panda devices agent\AgentSvc.exe,program files (x86)\panda security\panda devices agent,c,AgentSvc.exe,exe,NT AUTHORITY\SYSTEM

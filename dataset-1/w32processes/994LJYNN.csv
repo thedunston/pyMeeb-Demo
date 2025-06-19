@@ -1,0 +1,36 @@
+hostname,name,arguments,username,path,pid
+994LJYNN,svchost.exe,C:\Windows\System32\svchost.exe -k utcsvc,NT AUTHORITY\SYSTEM,C:\Windows\System32,3812
+994LJYNN,spoolsv.exe,C:\Windows\System32\spoolsv.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,3936
+994LJYNN,svchost.exe,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,6340
+994LJYNN,svchost.exe,C:\Windows\System32\svchost.exe -k termsvcs,NT AUTHORITY\SYSTEM,C:\Windows\System32,2756
+994LJYNN,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /MONITOR /uac",millrichards97,C:\Program Files\CCleaner,4908
+994LJYNN,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",millrichards97,C:\Windows\system32,308
+994LJYNN,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -controlservice -slave",zach.bak,C:\Program Files\TightVNC,1286
+994LJYNN,svchost.exe,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\System32,5636
+994LJYNN,kitty-0.70.0.6.exe,"""C:\Users\millrichards97\Documents\kitty-0.70.0.6.exe"" ",millrichards97,C:\Users\millrichards97\Documents,6348
+994LJYNN,OneDrive.exe,"""C:\Users\millrichards97\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",millrichards97,C:\Users\millrichards97\AppData\Local\Microsoft\OneDrive,4995
+994LJYNN,chrome.exe,"""C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"" --type=renderer --field-trial-handle=1556 1270622256617353588 15561965010207222735 131072 --service-pipe-token=1352282089870284743 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --service-request-channel-token=1352282089870284743 --renderer-client-id=45 --mojo-platform-channel-handle=7884 /prefetch:1",millrichards97,C:\Program Files (x86)\Google\Chrome\Application,409
+994LJYNN,Explorer.EXE,C:\Windows\Explorer.EXE,NT AUTHORITY\SYSTEM,C:\Windows,5252
+994LJYNN,notepad.exe,"""C:\Windows\system32\notepad.exe"" ",zach.bak,C:\Windows\system32,1150
+994LJYNN,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,2072
+994LJYNN,taskhostex.exe,taskhostex.exe ,NT AUTHORITY\SYSTEM,C:\Windows\system32,2060
+994LJYNN,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,NT AUTHORITY\SYSTEM,C:\Windows\system32,568
+994LJYNN,tvnserver.exe,"""C:\Program Files\TightVNC\tvnserver.exe"" -service",zach.bak,C:\Program Files\TightVNC,5933
+994LJYNN,wmiprvse.exe,C:\Windows\system32\wbem\wmiprvse.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32\wbem,1908
+994LJYNN,CCleaner64.exe,"""C:\Program Files\CCleaner\CCleaner.exe"" /uac",millrichards97,C:\Program Files\CCleaner,1287
+994LJYNN,LogonUI.exe,"""LogonUI.exe"" /flags:0x0",NT AUTHORITY\SYSTEM,C:\Windows\system32,764
+994LJYNN,svchost.exe,C:\Windows\system32\svchost.exe -k NetworkService,NT AUTHORITY\SYSTEM,C:\Windows\system32,3480
+994LJYNN,WINWORD.EXE,"""C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"" ",millrichards97,C:\Program Files\Microsoft Office\root\Office16,524
+994LJYNN,wininit.exe,wininit.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,2644
+994LJYNN,lsass.exe,C:\Windows\system32\lsass.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,3748
+994LJYNN,winlogon.exe,winlogon.exe,NT AUTHORITY\SYSTEM,C:\Windows\system32,5176
+994LJYNN,dwm.exe,"""dwm.exe""",NT AUTHORITY\SYSTEM,C:\Windows\system32,4304
+994LJYNN,svchost.exe,C:\Windows\system32\svchost.exe -k LocalService,NT AUTHORITY\SYSTEM,C:\Windows\system32,1996
+994LJYNN,vncviewer.exe,"""C:\Program Files\RealVNC\VNC Viewer\vncviewer.exe"" ",zach.bak,C:\Program Files\RealVNC\VNC Viewer,1673
+994LJYNN,svchost.exe,C:\Windows\system32\svchost.exe -k netsvcs,NT AUTHORITY\SYSTEM,C:\Windows\system32,6136
+994LJYNN,mbam.exe,"""C:\Program Files\Malwarebytes\Anti-Malware\mbam.exe""",millrichards97,C:\Program Files\Malwarebytes\Anti-Malware,2881
+994LJYNN,svchost.exe,C:\Windows\system32\svchost.exe -k DcomLaunch,NT AUTHORITY\SYSTEM,C:\Windows\system32,656
+994LJYNN,mbamservice.exe,"""C:\Program Files\Malwarebytes\Anti-Malware\mbamservice.exe""",millrichards97,C:\Program Files\Malwarebytes\Anti-Malware,3509
+994LJYNN,svchost.exe,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,NT AUTHORITY\SYSTEM,C:\Windows\system32,2948
+994LJYNN,msdtc.exe,C:\Windows\System32\msdtc.exe,NT AUTHORITY\SYSTEM,C:\Windows\System32,4160
+994LJYNN,svchost.exe,C:\Windows\system32\svchost.exe -k RPCSS,NT AUTHORITY\SYSTEM,C:\Windows\system32,4696

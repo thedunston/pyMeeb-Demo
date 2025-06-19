@@ -1,0 +1,3 @@
+username,hostname,domain-admin,local-admin,domain-user,local-user
+car.jenkins,ST795DWZ,False,False,True,False
+gavinper17,ST795DWZ,False,False,False,True

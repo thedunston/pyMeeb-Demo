@@ -1,0 +1,5 @@
+username,hostname,domain-user,local-user
+NT AUTHORITY\SYSTEM,EL0001DHA,False,True
+lukehal,EL0001DHA,False,True
+evancart65,EL0001DHA,False,True
+car.miller29,EL0001DHA,True,False
